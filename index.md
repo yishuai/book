@@ -25,6 +25,8 @@ title: 寻找理想的教育
 
 下面是我的旅程。
 
+[正文](pub/1/../1-zhao)
+
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
 
