@@ -18,7 +18,7 @@ page:
   extension: md
 editor: gvim
 git:
-  branch: master
+  branch: main
 transfer:
   command: rsync
   settings: -av
