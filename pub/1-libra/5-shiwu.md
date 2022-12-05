@@ -95,4 +95,4 @@ title: 全人教育的启蒙
 
 <br/>
 
-|[Index](../../) | [Previous](4-nework) |
+|[Index](../../) | [Previous](4-nework) |[Next](6-content)|
