@@ -57,9 +57,9 @@ title: 独立思考，搞定高考
 
 ## 参考文献
 
-- 王烁，进阶的本质：从扶墙组到卷王，BetterRead，2022-04-26，https://mp.weixin.qq.com/s/r6Dkztn8kUbtyQgWXH__Kw
+- 王烁，进阶的本质：从扶墙组到卷王，BetterRead，2022-04-26，[网页链接](https://mp.weixin.qq.com/s/r6Dkztn8kUbtyQgWXH__Kw)
 
-- Jørgen Veisdal，冯·诺伊曼：无与伦比的天才，​https://zhuanlan.zhihu.com/p/412133250
+- Jørgen Veisdal，冯·诺伊曼：无与伦比的天才，​[网页链接](https://zhuanlan.zhihu.com/p/412133250)
 
 <br/>
 
