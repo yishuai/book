@@ -3,6 +3,8 @@ layout: post
 title: 论学习
 ---
 
+我们下面回到 19 世纪的英国，看看奠定现代科学方法论的培根对学习的定义。培根作为科学方法的探路人，具体给出了现代意义上学习的定义、方法和内容。
+
 你会学习吗？我会：作为学生，我们每天都在学习。在这个世界上，也没有第二个国家比我们中国更重视学习。孔子关于学习的论述，几乎每个人都会背，成为每个人的文化基因。很多家长非常重视孩子的学习。大多数孩子，从进入小学开始，到毕业离开校园，青春的大多数时间，都在学习中度过。
 
 科学的学习方法是？阅读、思考、练习。嗯，差不多。但还有更多的。让我们来看看以“科学上的哥伦布”为目标的弗兰西斯·培根对学习的论述，得到一些启发。
@@ -13,77 +15,41 @@ title: 论学习
 
 培根老师在大约 400 年前（1627年）写下了《On Studies》，哈佛研究生院毕业后回国，致力于国人英语教育的水天同老师在日寇入侵，南奔逃难的旅程中，将其译为了中文：《论学问》。这个译本被收入了商务印书馆的汉译经典。下面是培根老师的原文和水老师的译本。
 
-STUDIES serve for delight, for ornament, and for ability.
+- 读书为学的用途是娱乐、装饰和增长才识。
 
-读书为学的用途是娱乐、装饰和增长才识。
+- 在娱乐上，学问的主要的用处是幽居养静；在装饰上，学问的用处是辞令；在长才上，学问的用处是对于事务的判断和处理。
 
-Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgment, and disposition of business.
+- 因为富于经验的人善于实行，也许能够对个别的事情一件一件地加以判断；但是最好的有关大体的议论和对事务的计划与布置，乃是从有学问的人来的。
 
-在娱乐上，学问的主要的用处是幽居养静；在装饰上，学问的用处是辞令；在长才上，学问的用处是对于事务的判断和处理。
+- 在学问上费时过多是偷懒；把学问过于用作装饰是虚假；完全依学问上的规则而断事是书生的怪癖。
 
-For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best, from those that are learned.
+- 学问锻炼天性，而其本身又受经验的锻炼；盖人的天赋有如野生的花草，他们需要学问的修剪；而学问的本身，若不受经验的限制，则其所指示的未免过于笼统。
 
-因为富于经验的人善于实行，也许能够对个别的事情一件一件地加以判断；但是最好的有关大体的议论和对事务的计划与布置，乃是从有学问的人来的。
+- 多诈的人渺视学问，愚鲁的人羡慕学问，聪明的人运用学问；因为学问的本身并不教人如何用它们；这种运用之道乃是学问以外，学问以上的一种智能，是由观察体会才能得到的。
 
-To spend too much time in studies is sloth; to use them too much for ornament, is affectation; to make judgment wholly by their rules, is the humor of a scholar.
+- 不要为了辩驳而读书，也不要为了信仰与盲从；也不要为了言谈与议论；要以能权衡轻重、审察事理为目的。
 
-在学问上费时过多是偷懒；把学问过于用作装饰是虚假；完全依学问上的规则而断事是书生的怪癖。
+- 有些书可供一尝，有些书可以吞下，有不多的几部书则应当咀嚼消化；这就是说，有些书只要读读他们的一部分就够了，有些书可以全读，但是不必过于细心地读；还有不多的几部书则应当全读，勤读，而且用心地读。
 
-They perfect nature, and are perfected by experience: for natural abilities are like natural plants, that need proyning, by study; and studies themselves, do give forth directions too much at large, except they be bounded in by experience.
+- 有些书也可以请代表去读，并且由别人替我作出摘要来；但是这种办法只适于次要的议论和次要的书籍；否则录要的书就和蒸馏的水一样，都是无味的东西。
 
-学问锻炼天性，而其本身又受经验的锻炼；盖人的天赋有如野生的花草，他们需要学问的修剪；而学问的本身，若不受经验的限制，则其所指示的未免过于笼统。
+- 阅读使人充实，会谈使人敏捷，写作与笔记使人精确。
 
-Crafty men contemn studies, simple men admire them, and wise men use them; for they teach not their own use; but that is a wisdom without them, and above them, won by observation.
+- 因此，如果一个人写得很少，那末他就必须有很好的记性；如果他很少与人会谈，那么他就必须有很敏捷的机智；并且假如他读书读得很少的话，那么他就必须要有很大的狡黠之才，才可以强不知以为知。
 
-多诈的人渺视学问，愚鲁的人羡慕学问，聪明的人运用学问；因为学问的本身并不教人如何用它们；这种运用之道乃是学问以外，学问以上的一种智能，是由观察体会才能得到的。
+- 史鉴使人明智；诗歌使人巧慧；数学使人精细；博物使人深沉；伦理之学使人庄重；逻辑与修辞使人善辩。“学问变化气质”。
 
-Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.
+- 不特如此，精神上的缺陷没有一种是不能由相当的学问来补救的：就如同肉体上各种的病患都有适当的运动来治疗似的。
 
-不要为了辩驳而读书，也不要为了信仰与盲从；也不要为了言谈与议论；要以能权衡轻重、审察事理为目的。
+- 踢球有益于结石和肾脏；射箭有益于胸肺；缓步有益于胃；骑马有益于头脑；诸如此类。
 
-Some books are to be tasted, others to be swallowed, and some few to be chewed and digested; that is, some books are to be read only in parts; others to be read, but not curiously; and some few to be read wholly, and with diligence and attention.
+- 同此，如果一个人心志不专，他顶好研究数学；因为在数学的证理之中，如果他的精神稍有不专，他就非从头再做不可。
 
-有些书可供一尝，有些书可以吞下，有不多的几部书则应当咀嚼消化；这就是说，有些书只要读读他们的一部分就够了，有些书可以全读，但是不必过于细心地读；还有不多的几部书则应当全读，勤读，而且用心地读。
+- 如果他的精神不善于辨别异同，那么他最好研究经院学派的著作，因为这一派的学者是条分缕析的人；
 
-Some books also may be read by deputy, and extracts made of them bothers; but that would be only in the less important arguments, and the meaner sort of books, else distilled books are like common distilled waters, flashy things.
+- 如果他不善于推此知彼，旁征博引，他顶好研究律师们的案卷。
 
-有些书也可以请代表去读，并且由别人替我作出摘要来；但是这种办法只适于次要的议论和次要的书籍；否则录要的书就和蒸馏的水一样，都是无味的东西。
-
-Reading make a full man; conference a ready man; and writing an exact man.
-
-阅读使人充实，会谈使人敏捷，写作与笔记使人精确。
-
-And therefore, if a man write little, he had need have a great memory; if he confer little, he had need have a present wit: and if he read little, he had need have much cunning, to seem to know, that he doth not.
-
-因此，如果一个人写得很少，那末他就必须有很好的记性；如果他很少与人会谈，那么他就必须有很敏捷的机智；并且假如他读书读得很少的话，那么他就必须要有很大的狡黠之才，才可以强不知以为知。
-
-Histories make men wise; poets witty; the mathematics subtle; natural philosophy deep; moral grave; logic and rhetoric able to contend. Abeunt studia in mores.
-
-史鉴使人明智；诗歌使人巧慧；数学使人精细；博物使人深沉；伦理之学使人庄重；逻辑与修辞使人善辩。“学问变化气质”。
-
-Nay, there is no stand or impediment in the wit, but may be wrought out by fit studies; like as diseases of the body, may have appropriate exercises.
-
-不特如此，精神上的缺陷没有一种是不能由相当的学问来补救的：就如同肉体上各种的病患都有适当的运动来治疗似的。
-
-Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walking for the stomach; riding for the head; and the like.
-
-踢球有益于结石和肾脏；射箭有益于胸肺；缓步有益于胃；骑马有益于头脑；诸如此类。
-
-So if a man's wit be wandering, let him study the mathematics; for in demonstrations, if his wit be called away never so little, he must begin again.
-
-同此，如果一个人心志不专，他顶好研究数学；因为在数学的证理之中，如果他的精神稍有不专，他就非从头再做不可。
-
-If his wit be not apt to distinguish or find differences, let him study the Schoolmen; for they are cymini sectors.
-
-如果他的精神不善于辨别异同，那么他最好研究经院学派的著作，因为这一派的学者是条分缕析的人；
-
-If he be not apt to beat over matters, and to call up one thing to prove and illustrate another, let him study the lawyers\' cases.
-
-如果他不善于推此知彼，旁征博引，他顶好研究律师们的案卷。
-
-So every defect of the mind, may have a special receipt.
-
-如此看来，精神上各种的缺陷都可以有一种专门的补救之方了。
+- 如此看来，精神上各种的缺陷都可以有一种专门的补救之方了。
 
 上面的每一句话，都值得细读。它们给我很多的启示。
 
@@ -137,7 +103,9 @@ So every defect of the mind, may have a special receipt.
 
 - 吴军，大学之路
 
-## 后记
+- Ogden's Basic English，[网站链接](http://ogden.basic-english.org/)
+
+## 附录 1：后记
 
 之所以学习培根的《Of Studies》，是因为听柯林斯老师说，她教孩子们学习了培根的《论教育》。但我没有找到培根论教育的文章，所以我猜她可能说的是这篇《论学问》。
 
@@ -149,8 +117,42 @@ So every defect of the mind, may have a special receipt.
 
 “七七”事变发生，“正字学会”的教学实验中断，水天同利用这一段时间翻译《培根论说文集》，他在前言中写道：“本书着手翻译时适值敌寇侵凌，平津沦陷，学者星散，典籍荡然。译者不得已以萤火之光，探此窈冥……”。我对比了水老师的译本和其它译本的差别，感觉可能是因为水老师做过英语启蒙教育，译文最容易理解。该文集后来由商务出版社的汉译经典丛书中出版。有意思的是，1979年，劫后余生的水老师回到兰州大学指导莎士比亚研究生。他写信给哈佛研究院同学会，吁请校友寄赠教学资料。校友会刊物上登载了他的信，并附编者热情支持的按语，其中有一些哈佛式的幽默：“这是至今仍在工作的最老的校友，他似乎不知道现在的邮资有多么昂贵。” 让我百感交集。这就是哈佛人对待人世的“生活的艺术”。
 
-## 后记参考文献
+## 附录 2：培根 On Studies 原文
 
-- Ogden's Basic English，[网站链接](http://ogden.basic-english.org/)
+STUDIES serve for delight, for ornament, and for ability.
 
-|[Index](../../) | [Previous](0-4-cap) | [Next](0-7-philosopy)|
+Their chief use for delight, is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgment, and disposition of business.
+
+For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best, from those that are learned.
+
+To spend too much time in studies is sloth; to use them too much for ornament, is affectation; to make judgment wholly by their rules, is the humor of a scholar.
+
+They perfect nature, and are perfected by experience: for natural abilities are like natural plants, that need proyning, by study; and studies themselves, do give forth directions too much at large, except they be bounded in by experience.
+
+Crafty men contemn studies, simple men admire them, and wise men use them; for they teach not their own use; but that is a wisdom without them, and above them, won by observation.
+
+Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.
+
+Some books are to be tasted, others to be swallowed, and some few to be chewed and digested; that is, some books are to be read only in parts; others to be read, but not curiously; and some few to be read wholly, and with diligence and attention.
+
+Some books also may be read by deputy, and extracts made of them bothers; but that would be only in the less important arguments, and the meaner sort of books, else distilled books are like common distilled waters, flashy things.
+
+Reading make a full man; conference a ready man; and writing an exact man.
+
+And therefore, if a man write little, he had need have a great memory; if he confer little, he had need have a present wit: and if he read little, he had need have much cunning, to seem to know, that he doth not.
+
+Histories make men wise; poets witty; the mathematics subtle; natural philosophy deep; moral grave; logic and rhetoric able to contend. Abeunt studia in mores.
+
+Nay, there is no stand or impediment in the wit, but may be wrought out by fit studies; like as diseases of the body, may have appropriate exercises.
+
+Bowling is good for the stone and reins; shooting for the lungs and breast; gentle walking for the stomach; riding for the head; and the like.
+
+So if a man's wit be wandering, let him study the mathematics; for in demonstrations, if his wit be called away never so little, he must begin again.
+
+If his wit be not apt to distinguish or find differences, let him study the Schoolmen; for they are cymini sectors.
+
+If he be not apt to beat over matters, and to call up one thing to prove and illustrate another, let him study the lawyers\' cases.
+
+So every defect of the mind, may have a special receipt.
+
+|[Index](../../) | [Previous](1-1-philosopy) | [Next](2-0-problem)|
