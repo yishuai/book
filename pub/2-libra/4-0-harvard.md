@@ -13,4 +13,4 @@ title: 哈佛全人教育
 
 <br/>
 
-|[Index](../../) | [Previous](0-1-emerson) | [Next](0-3-merit)|
+|[Index](../../) | [Previous](3-2-adult) | [Next](4-1-plan)|

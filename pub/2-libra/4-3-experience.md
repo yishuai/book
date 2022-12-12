@@ -3,7 +3,7 @@ layout: post
 title: 学生体验
 ---
 
-我们下面介绍一位哈佛学生学过这些通识课程后的体验。这是哈佛 2021 级 Braeden Foldenauer 同学的分享。
+那么，在哈佛学习通才方面的课程是怎样的体验？我们下面来看看哈佛 2021 级 Braeden Foldenauer 同学的分享。
 
 ## 通识部分课程
 
