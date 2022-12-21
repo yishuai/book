@@ -27,7 +27,11 @@ title: 寻找理想的教育
 
 下面是我的旅程。
 
-[正文](pub/1-intro/1-zhao)
+第一章，[引言](pub/1-intro/1-zhao)
+
+第二章，[教育在世界上明智生活的艺术](pub/2-libra/0-0-goal)
+
+第三章，[把英语作为一门语言来学习](pub/3-english/0-0-intro)
 
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
