@@ -31,7 +31,9 @@ title: 寻找理想的教育
 
 第二章，[教育在世界上明智生活的艺术](pub/2-libra/0-0-goal)
 
-第三章，[把英语作为一门语言来学习](pub/3-english/0-0-intro)
+第三章，[走出英语学习的迷途](pub/3-english/0-0-intro)
+
+第四章，[学术写作：复杂思维、清晰表达](pub/4-write/0-0-intro)
 
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
