@@ -33,10 +33,11 @@ title: 寻找理想的教育
 
 第三章，[走出英语学习的迷途](pub/3-english/0-0-intro)
 
-第四章，[掌握学术写作，走向明智生活](pub/4-write/0-0-intro)
+第四章，[学术写作的意义和哈佛课程](pub/4-write/0-0-intro)
 
-第五章，[学术写作的要素与方法](pub/5-argu/0-0-intro)
+第五章，[学术写作的基本要素与方法](pub/5-argu/0-0-intro)
 
+第六章，[人文社科领域的学术写作](pub/6-human/0-0-intro)
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
 

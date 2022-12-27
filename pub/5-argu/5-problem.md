@@ -97,4 +97,4 @@ Maya Jenkins 老师总结了同学们的初稿中常出现的十个问题，包�
 
 <br/>
 
-|[Index](../../) | [Previous](4-6-source) | [Next](6-summary)|
+|[Index](../../) | [Previous](4-6-source) | [Next](6-0-style)|
