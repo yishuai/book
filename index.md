@@ -38,6 +38,9 @@ title: 寻找理想的教育
 第五章，[学术写作的基本要素与方法](pub/5-argu/0-0-intro)
 
 第六章，[人文社科领域的学术写作](pub/6-human/0-0-intro)
+
+第七章，[自然科学的写作](pub/7-sci/0-0-intro)
+
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
 

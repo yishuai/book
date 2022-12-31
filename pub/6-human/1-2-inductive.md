@@ -65,6 +65,8 @@ Curious, I took a pencil from my pocket and touched a strand of the web. Immedia
 http://zhishifenzi.com/news/view/1989?category=multiple
 世界上有多少事没人做过，你做得过来吗？这不能成为你要做这个研究的理由。他这一问改变了我以前关于如何提出研究问题的思路，也开始认识到学习 “研究方法” 的重要性。
 
+- 康奈尔笔记方法，[网页链接](https://en.wikipedia.org/wiki/Cornell_Notes)
+
 <br/>
 
 |[Index](../../) | [Previous](1-0-literal) | [Next](1-4-process)|

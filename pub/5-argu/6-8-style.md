@@ -102,6 +102,8 @@ Rule #5: If you ever find yourself writing about a score or a court decision or 
 - Raymond DeLuca, One hundred percent? Or 100%? Tips for writing numbers.
 Sept. 21, 2020, https://harvardwritingcenterblog.com/2020/09/21/one-hundred-percent-or-100-tips-for-writing-numbers/
 
+- Joseph Williams, Style: Lessons in Clarity and Grace. 11th ed. Longman, 2013. ISBN 978-0321898685. Williams discusses the common conditions that bleed writing of force and meaning and suggests his corrections.
+
 <br/>
 
 |[Index](../../) | [Previous](6-6-hacker-rule) | [Next](7-model)|
