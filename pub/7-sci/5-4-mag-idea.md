@@ -80,4 +80,4 @@ title: 面向公众的科学写作内容
 
 <br/>
 
-|[Index](../../) | [Previous](5-2-mag-style) | [Next](6-0-grant)|
+|[Index](../../) | [Previous](5-2-mag-style) | [Next](6-0-non-emperical)|

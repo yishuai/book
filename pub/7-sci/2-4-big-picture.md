@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大局观（the big picture）
+title: 大局观（Big Picture）
 ---
 
 哈佛科学写作网站在“大局观”这一节里说的下面两点，我特别同意：

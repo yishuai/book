@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 斯坦福大学写作课
+title: 斯坦福大学科学写作课
 ---
 
 斯坦福大学在 Coursera 网站上有一门《Writing in Sciences》的公开课，由 Kristin Sainani 博士讲授。该课程主要是讲述写作的风格和写作过程，包括：减少混乱、用强的、主动语气的动词，停顿，并列，段落编辑，写作过程，非常不错。
@@ -72,4 +72,4 @@ Unit 4 reviews the writing process. I will give you tips for making the writing 
 
 <br/>
 
-|[Index](../../) | [Previous](2-14-donot) | [Next](3-0-non-emperical)|
+|[Index](../../) | [Previous](2-14-donot) | [Next](4-0-emprical)|

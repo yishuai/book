@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 科学写作课程
+title: 哈佛科学写作课程
 ---
 
 我们最后学习哈佛的 Expos 42 科学写作课程，它是专门针对科学写作设计的 Expos 20 课程，练习包括分析科学对话、文献评审、研究计划书、参考文档、职业 Portfolio，很有意思。
@@ -230,4 +230,4 @@ Unit 4. Professional Audience: Portfolio
 
 <br/>
 
-|[Index](../../) | [Previous](6-6-process) | [Next](8-summary)|
+|[Index](../../) | [Previous](6-10-process) | [Next](7-summary)|

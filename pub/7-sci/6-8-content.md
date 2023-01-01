@@ -143,4 +143,4 @@ Abdelwahed Ouzri. Le Théâtre au Maroc: Structures et Tendances. Casablanca: Le
 
 <br/>
 
-|[Index](../../) | [Previous](6-2-method) | [Next](6-6-process)|
+|[Index](../../) | [Previous](6-6-grant) | [Next](6-10-process)|
