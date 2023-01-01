@@ -19,4 +19,4 @@ title: 理想的教育
 
 <br/>
 
-|[Index](../../) | [Previous](4-4-class) | [Next](../../)|
+|[Index](../../) | [Previous](4-4-class) | [Next](../3-english/0-0-intro)|
