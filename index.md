@@ -43,6 +43,8 @@ title: 寻找理想的教育
 
 第八章，[从无到有完成毕业论文](pub/8-thesis/0-0-intro)
 
+[后记](conclusion)
+
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
 <!-- jekyll serve --trace -->
 
