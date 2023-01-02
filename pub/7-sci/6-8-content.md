@@ -103,6 +103,10 @@ BUDGET?
 
 - 哈佛营养和全球健康课程资助申请指南, [PDF 链接](https://writingproject.fas.harvard.edu/files/hwp/files/science_of_living_guide_final.pdf?m=1370457200)
 
+<br/>
+
+|[Index](../../) | [Previous](6-6-grant) | [Next](6-10-process)|
+
 ## 附录：示例 1：Harvard College Research Program
 
 哈佛学院有给本科生做毕业论文的研究资助。这是一篇申请哈佛学院资助的范文：
@@ -140,7 +144,3 @@ Thank you for considering to provide the funds necessary to make this project po
 For an example of this widely accepted point of view, see M. M. Badawi, ed. The Cambridge History of Arabic Literature. Cambridge: Cambridge University Press, 1992. 2
 
 Abdelwahed Ouzri. Le Théâtre au Maroc: Structures et Tendances. Casablanca: Les Editions Toubkal, 1997.
-
-<br/>
-
-|[Index](../../) | [Previous](6-6-grant) | [Next](6-10-process)|

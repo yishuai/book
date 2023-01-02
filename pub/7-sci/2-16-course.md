@@ -7,7 +7,11 @@ title: 斯坦福大学科学写作课
 
 [课程网址链接](https://www.coursera.org/learn/sciwrite#syllabus)
 
-下面是它的大纲：
+<br/>
+
+|[Index](../../) | [Previous](2-14-donot) | [Next](4-0-emprical)|
+
+## 附录：课程大纲：
 
 完成时间为 2 小时
 
@@ -69,7 +73,3 @@ Unit 4 reviews the writing process. I will give you tips for making the writing 
 - Demo Edit 4 (Optional)20分钟
 - 1 个练习
 - Unit 4 Homework3小时
-
-<br/>
-
-|[Index](../../) | [Previous](2-14-donot) | [Next](4-0-emprical)|

@@ -7,7 +7,15 @@ title: 哈佛科学写作课程
 
 该课程基于《芝加哥科学通信指南》这本书。这本书包括科学写作和沟通的方方面面，比如：批判性阅读、评审书、文献综述、项目申请书、一个特定方面的专业文献综述，还包括数据和图像的呈现等。非常详细，是一本好书。
 
-下面是该课程的大纲
+## 参考链接
+
+- 课程大纲，[PDF 链接](https://canvas.harvard.edu/courses/4386/files/979808/download?verifier=dDhSNFhGL5ur3Qe1tNLXlwmYRaSzVKCJPeMpRvbv&wrap=1)
+
+<br/>
+
+|[Index](../../) | [Previous](6-12-peer-review) | [Next](7-summary)|
+
+## 附录：课程大纲
 
 EXPOSITORY WRITING E-42c/W WRITING IN THE SCIENCES
 
@@ -224,10 +232,3 @@ Thursday, 14 April. Bloggy 3 due, 9 PM.
 
 Unit 4. Professional Audience: Portfolio
 
-## 参考链接
-
-- 课程大纲，[PDF 链接](https://canvas.harvard.edu/courses/4386/files/979808/download?verifier=dDhSNFhGL5ur3Qe1tNLXlwmYRaSzVKCJPeMpRvbv&wrap=1)
-
-<br/>
-
-|[Index](../../) | [Previous](6-10-process) | [Next](7-summary)|

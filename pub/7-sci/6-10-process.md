@@ -304,4 +304,4 @@ Imprecision in writing can result from ambiguous pronouns or poorly constructed 
 
 <br/>
 
-|[Index](../../) | [Previous](6-8-content) | [Next](6-12-course)|
+|[Index](../../) | [Previous](6-8-content) | [Next](6-12-peer-review)|
