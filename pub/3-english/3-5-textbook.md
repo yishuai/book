@@ -52,7 +52,7 @@ Kassy 在纽约时学习过的英文课本，是 HMHG 出版社的 Journeys 系�
 
 ## 参考文献
 
-- Free Journeys Reading Resources, Electronic reading textbooks, leveled readers, writing handbooks, spelling, vocabulary, and grammar workbooks, grades K-6, Tracey Kmosko, 2022, [课本链接](http://unsocialized.net/blog.htm?pageId=40903&contentUid=294309dcefa94cdeb666de13dfe35819&&contentId=16379&contentType=1)
+- Free Journeys Reading Resources, Electronic reading textbooks, leveled readers, writing handbooks, spelling, vocabulary, and grammar workbooks, grades K-6, Tracey Kmosko, 2022, [课本链接](https://unsocialized.net/free-journeys-reading-resources/)
 
 - Spellingcity [网站](https://www.spellingcity.com/)
 
