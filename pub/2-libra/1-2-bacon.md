@@ -79,31 +79,31 @@ title: 论学习
 
 ## 参考文献
 
-- 维基百科，弗兰西斯·培根，https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9
+- 维基百科，弗兰西斯·培根，[网站链接](https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9)
 
-- Of Studies by Sir Francis Bacon, Dec. 2021, https://askliterature.com/prose/of-studies-by-sir-francis-bacon/
+- Of Studies by Sir Francis Bacon, Dec. 2021, [网站链接](https://askliterature.com/prose/of-studies-by-sir-francis-bacon/)
 
-- Essays of Francis Bacon (Essays, 1627, 123 pages), http://www.literaturepage.com/read/francis-bacon-essays.html
+- Essays of Francis Bacon (Essays, 1627, 123 pages), [网站链接](http://www.literaturepage.com/read/francis-bacon-essays.html)
 
-- Richard Nordquist, 'Of Studies' by Francis Bacon, https://www.thoughtco.com/of-studies-by-francis-bacon-1688771
+- Richard Nordquist, 'Of Studies' by Francis Bacon, [网站链接](https://www.thoughtco.com/of-studies-by-francis-bacon-1688771)
 
-- ThoughtCo 网站, Bacon 简短介绍和原文, https://www.thoughtco.com/search?q=Francis+Bacon
+- ThoughtCo 网站, Bacon 简短介绍和原文, [网站链接](https://www.thoughtco.com/search?q=Francis+Bacon)
 
-- askliterature 网站有详细解读，类似语文老师的分析，这样就清楚很多, https://askliterature.com/?s=bacon
+- askliterature 网站有详细解读，类似语文老师的分析，这样就清楚很多, [网站链接](https://askliterature.com/?s=bacon)
 
-- 水天同 —— “半世飘零弹铗客”，2022-01-25，公号“中华读书报”，https://www.tsinghua.org.cn/info/1951/36633.htm
+- 水天同 —— “半世飘零弹铗客”，2022-01-25，公号“中华读书报”，[网站链接](https://www.tsinghua.org.cn/info/1951/36633.htm)
 
 - 培根论说文集，水天同译，商务印书馆
 
-- https://blog.sina.com.cn/s/blog_536f61420100c85m.html
+- 培根的《论读书》英汉对照，附王佐良、水天同的译文，[网站链接](https://blog.sina.com.cn/s/blog_536f61420100c85m.html)
 
-- https://www.sohu.com/a/193554610_99931457
+- 培根美文《论读书》原文及三种译文, 2017-09-21，[网站链接](https://www.sohu.com/a/193554610_99931457)
 
-- B 站朗读视频：Of Studies by Francis Bacon 论学习 论读书 弗朗西斯·培根,  https://www.bilibili.com/video/BV1NX4y1V7rR/?vd_source=d7fe2a23c4f21df3af4c17f59028576b
+- B 站朗读视频：Of Studies by Francis Bacon 论学习 论读书 弗朗西斯·培根,  [网站链接](https://www.bilibili.com/video/BV1NX4y1V7rR/?vd_source=d7fe2a23c4f21df3af4c17f59028576b)
 
 - 吴军，大学之路
 
-- Ogden's Basic English，[网站链接](http://ogden.basic-english.org/)
+- Ogden's Basic English，[网站链接]([网站链接](http://ogden.basic-english.org/))
 
 ## 附录 1：后记
 

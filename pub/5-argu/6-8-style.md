@@ -97,10 +97,10 @@ Rule #5: If you ever find yourself writing about a score or a court decision or 
 
 - Rebecca Wingfield, Sarah Carter, Elena Marx, and Phyllis Thompson, A Guide to Researching and Writing a Senior Thesis in Studies of Women, Gender, and Sexuality, [PDF 链接](https://writingproject.fas.harvard.edu/sites/hwpi.harvard.edu/files/hwp/files/womens_studies_senior_thesis.pdf?m=1370451715)
 
-- 哈佛写作中心，学位论文写作指南，https://writingproject.fas.harvard.edu/pages/senior-thesis-writing-guides
+- 哈佛写作中心，学位论文写作指南，[网页链接](https://writingproject.fas.harvard.edu/pages/senior-thesis-writing-guides)
 
 - Raymond DeLuca, One hundred percent? Or 100%? Tips for writing numbers.
-Sept. 21, 2020, https://harvardwritingcenterblog.com/2020/09/21/one-hundred-percent-or-100-tips-for-writing-numbers/
+Sept. 21, 2020, [网页链接](https://harvardwritingcenterblog.com/2020/09/21/one-hundred-percent-or-100-tips-for-writing-numbers/)
 
 - Joseph Williams, Style: Lessons in Clarity and Grace. 11th ed. Longman, 2013. ISBN 978-0321898685. Williams discusses the common conditions that bleed writing of force and meaning and suggests his corrections.
 

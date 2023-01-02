@@ -409,8 +409,9 @@ title: 作者守则
 
 64b. APA list of references
 
-https://wilson.fas.harvard.edu/aphorisms/rules-in-hacker-and-sommers%E2%80%99s-rules-for-writers
+### 参考文献
 
+- [网页链接](https://wilson.fas.harvard.edu/aphorisms/rules-in-hacker-and-sommers%E2%80%99s-rules-for-writers)
 
 <br/>
 

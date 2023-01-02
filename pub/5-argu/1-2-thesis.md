@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 论点写作的心得
+title: 论点的写作
 ---
 
 我们首先看论点（Argument）。这包括主题句（Thesis statement）和具体的论点（Argument）。

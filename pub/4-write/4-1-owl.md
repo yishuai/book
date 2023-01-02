@@ -122,15 +122,15 @@ For an Exploratory Essay:
 For a Literary Analysis Essay:
 
 - General Advice:
-- - Writing About Literature
-- - Writing a Literary Analysis Presentation
-- - Literary Theory and Schools of Criticism
+    - Writing About Literature
+    - Writing a Literary Analysis Presentation
+    - Literary Theory and Schools of Criticism
 
 - Writing About a Novel or Story:
-- - Writing About Fiction and Performing Close Reading
+    - Writing About Fiction and Performing Close Reading
 
 - Writing About a Poem:
-- - Writing About Poetry
+    - Writing About Poetry
 
 For a Literature Review:
 - Social Work Literature Review Guidelines

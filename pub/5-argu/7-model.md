@@ -36,7 +36,7 @@ ELISE LIU, The Infamous Hourglass: Constructing The Perfect Female Figure
 
 ## 参考文献
 
-- 哈佛写作中心，写作论点，https://www.harvardwrites.com/writing-an-argument
+- 哈佛写作中心，写作论点，[网页链接](https://www.harvardwrites.com/writing-an-argument)
 
 <br/>
 

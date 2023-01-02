@@ -143,7 +143,7 @@ Albright 老师的写作指南介绍了如何分析文学、绘画、音乐材�
 
 - Dan Albright, [个人网站链接](http://panaesthetics.org/)
 
-- Annie E. Schugart, Albright Remembered as Whimsical English and Music Teacher, January 10, 2015, 网页链接](https://www.thecrimson.com/article/2015/1/10/daniel-albright-obituary/)
+- Annie E. Schugart, Albright Remembered as Whimsical English and Music Teacher, January 10, 2015, [网页链接](https://www.thecrimson.com/article/2015/1/10/daniel-albright-obituary/)
 
 - Dan Albright, [Wikipedia 网页链接](https://en.wikipedia.org/wiki/Daniel_Albright)
 
@@ -153,9 +153,7 @@ Albright 老师的写作指南介绍了如何分析文学、绘画、音乐材�
 
 - Daniel Albright. Putting Modernism Together. Literature, Music, and Painting, 1872–1927. Baltimore: The Johns Hopkins UP, 2015. 328 pp.
 
-- Connolly, Thomas C. (2017) "Daniel Albright. Putting Modernism Together. Literature, Music, and Painting, 1872–1927. Baltimore: The Johns Hopkins UP, 2015.," Studies in 20th & 21st Century Literature: Vol. 41: Iss. 2, Article 16. https://doi.org/10.4148/2334-4415.1950, https://newprairiepress.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1950&context=sttcl
-
-   - “Putting Modernism Together” was the title of a popular undergraduate course in aesthetic and interpretative understanding offered by Daniel Albright at Harvard College, where he taught from 2003 until his sudden death in January 2015. In this extremely informative, engaging, and entertaining book, Albright presents the wealth of his many years thinking about and teaching on modernism. The book consists of two parts. The first, much shorter, serves to introduce the reader to two foundational texts of modernism: Charles Baudelaire’s poem “Correspondences” (1857) and Friedrich Nietzsche’s The Birth of Tragedy from the Spirit of Music (1872). The second part, consisting of fourteen chapters, presents Albright’s masterly exploration of modernism’s multiple isms—from Impressionism and Expressionism through to Dadaism, Surrealism, Aestheticism, and Corporealism.
+- Connolly, Thomas C. (2017) "Daniel Albright. Putting Modernism Together. Literature, Music, and Painting, 1872–1927. Baltimore: The Johns Hopkins UP, 2015.," Studies in 20th & 21st Century Literature: Vol. 41: Iss. 2, Article 16. [网页链接](https://newprairiepress.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1950&context=sttcl)
 
 <br/>
 

@@ -61,9 +61,7 @@ Curious, I took a pencil from my pocket and touched a strand of the web. Immedia
 
 - Patricia Kain, How to Do a Close Reading, [网页链接](https://writingcenter.fas.harvard.edu/pages/how-do-close-reading)
 
-- 阅读文献与综述写作｜科学研究的方法（一）
-http://zhishifenzi.com/news/view/1989?category=multiple
-世界上有多少事没人做过，你做得过来吗？这不能成为你要做这个研究的理由。他这一问改变了我以前关于如何提出研究问题的思路，也开始认识到学习 “研究方法” 的重要性。
+- 阅读文献与综述写作，科学研究的方法（一），[网页链接](http://zhishifenzi.com/news/view/1989?category=multiple)
 
 - 康奈尔笔记方法，[网页链接](https://en.wikipedia.org/wiki/Cornell_Notes)
 
