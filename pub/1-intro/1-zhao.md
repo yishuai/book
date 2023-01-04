@@ -57,4 +57,4 @@ title: 记一次研究生同学答辩
 
 <br/>
 
-|[Index](../../) | [Previous](../..) | [Next](2-mid-school)|
+|[Index](../../) | [Previous](../intro) | [Next](2-mid-school)|
