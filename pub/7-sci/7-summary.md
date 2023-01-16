@@ -29,6 +29,19 @@ title: 总结
 
 下面，我们介绍如何从无到有完成毕业论文。
 
+### 参考文献
+
+- Bourne, 2005, [Ten Simple Rules for Getting Published](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0010057)
+- Zhang, 2014, [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
+- Mensh & Kording, 2017, [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- Penders, 2018, [Ten simple rules for responsible referencing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006036)
+- Rougier et al., 2014 [Ten Simple Rules for Better Figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
+- Pautasso, 2013, [Ten Simple Rules for Writing a Literature Review](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149)
+- Frassi et al., 2018, [Ten simple rules for collaboratively writing a multi-authored paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006508)
+- Weinberger, Evans & Allesina, 2015, [Ten Simple (Empirical) Rules for Writing Science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
+
+- Stefano Allesina, [A Skeptic’s Guide to Scientific Writing](https://stefanoallesina.github.io/QuEST_workshop/),  QuEST Workshop, U. Vermont, Apr 2021
+
 <br/>
 
 |[Index](../../) | [Previous](6-14-course) | [Next](../8-thesis/0-0-intro)|
