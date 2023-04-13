@@ -350,3 +350,22 @@ Commenting on the introduction, body, and conclusion will help you fully grasp t
 8.	Edit the Paper.
 
 The extent to which you should mark up the paper with line-level edits will vary, sometimes depending on the circumstances of your commentary, and sometimes on your determination of whether or not the paper is a serious paper. If someone has clearly given a good-faith effort on a paper, and obvious language errors still occur, it is incumbent on you the commentator to fix those errors. If it is not a serious paper, however, it is probably wiser to list the kinds of language errors that plague the paper and invite the writer to workshop the paper with yourself or someone else (fixing the errors in a non-serious paper could well be a waste of your time, and it is a significant time-commitment, if those edits are never going to be looked at). In sum, you are not the writer’s proof-reader or copy-editor. If the writer has trouble with writing standard academic English sentences, you might mark one section of the paper with suggestions, but it is their responsibility to get help on all the rest.
+
+## 附录4：斯坦福 CS324 大语言课程论文评审指南
+
+链接：https://stanford-cs324.github.io/winter2022/paper-reviews/
+
+Paper reviews
+
+The goal of the panel reviews is to critically read and analyze the paper(s). Reviewing is a central practice in the academic community; our goal for the course is for you to have a better grasp on what constitues a strong review and how to write strong reviews for a variety of different papers. At the top level, reviews should address:
+
+- the main contributions of the paper(s),
+- the strengths and weaknesses of the paper, and
+- questions/discussion items you have based on the work.
+
+For this course, reviews should be a few paragraphs (in the style of a conference review, say for ACL or NeurIPS). To provide further guidance, please refer to the [ACL Reviewer Tutorial](https://aclrollingreview.org/reviewertutorial) and the [NeurIPS Reviewer Guidelines](https://neurips.cc/Conferences/2021/Reviewer-Guidelines).
+
+In addition, while there are many ways to write a good review, we provide two examples:
+
+https://openreview.net/forum?id=jznizqvr15J&noteId=ftk5QwCAJLi
+https://openreview.net/forum?id=de11dbHzAMF&noteId=ZLlS_WgGyHH
