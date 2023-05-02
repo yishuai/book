@@ -161,4 +161,4 @@ If he be not apt to beat over matters, and to call up one thing to prove and ill
 
 So every defect of the mind, may have a special receipt.
 
-|[Index](../../) | [Previous](1-1-philosopy) | [Next](2-0-problem)|
+|[Index](../../) | [Previous](1-1-philosopy) | [Next](1-3-altman)|

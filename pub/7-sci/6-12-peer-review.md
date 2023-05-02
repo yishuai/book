@@ -351,7 +351,7 @@ Commenting on the introduction, body, and conclusion will help you fully grasp t
 
 The extent to which you should mark up the paper with line-level edits will vary, sometimes depending on the circumstances of your commentary, and sometimes on your determination of whether or not the paper is a serious paper. If someone has clearly given a good-faith effort on a paper, and obvious language errors still occur, it is incumbent on you the commentator to fix those errors. If it is not a serious paper, however, it is probably wiser to list the kinds of language errors that plague the paper and invite the writer to workshop the paper with yourself or someone else (fixing the errors in a non-serious paper could well be a waste of your time, and it is a significant time-commitment, if those edits are never going to be looked at). In sum, you are not the writer’s proof-reader or copy-editor. If the writer has trouble with writing standard academic English sentences, you might mark one section of the paper with suggestions, but it is their responsibility to get help on all the rest.
 
-## 附录4：斯坦福 CS324 大语言课程论文评审指南
+## 附录 4：斯坦福 CS324 大语言课程论文评审指南
 
 链接：https://stanford-cs324.github.io/winter2022/paper-reviews/
 
@@ -369,3 +369,20 @@ In addition, while there are many ways to write a good review, we provide two ex
 
 https://openreview.net/forum?id=jznizqvr15J&noteId=ftk5QwCAJLi
 https://openreview.net/forum?id=de11dbHzAMF&noteId=ZLlS_WgGyHH
+
+## 附录 5：斯坦福 CS324 大语言课程论文讨论组织
+
+链接：https://stanford-cs324.github.io/winter2022/paper-discussions/
+
+Paper discussions
+
+The goal of the panel discussion is to analyze the paper from a variety of different vantage points. During each panel discussion, there is a panel of 4-5 students, each with an assigned role who will provide one particular perspective. Everyone in the class should participate by commenting and asking questions. The panel discussion will be moderated by one of the instructors.
+
+Each panel role covers one aspect of critically assessing an academic paper. Many of the roles are taken from or inspired by Colin Raffel and Alec [Jacobsen’s role-playing paper-reading seminars](https://colinraffel.com/blog/role-playing-seminar.html).
+
+- Archaeologist: You’re an archeologist who must determine where this paper sits in the context of previous work. Find one older paper cited within the current paper that substantially influenced the current paper and be prepared to discuss what is new. Trace each aspect of the paper (e.g., model, training, data) back to prior work.
+- Social Impact Assessor: You are an auditor of the societal impact of the paper. Identify how this paper self-assesses its real-world impact (both positive and negative). Have any additional social impacts (especially negative ones) been left out?
+- Industry Practitioner: You’re a hard-nosed, dirt-under-the-fingernails kind of person who just wants to make good products. How will this paper influence what you do? Look at the experiments carefully - are the experiments compelling? Will you adopt a new method over a tried-and-true baseline? Is it worth the complexity and cost? Does it make you think differently?
+- Researcher: You are on the test-of-time award committee and are trying to assess the impact of this work after its publication. Find newer papers that cite this work and were substantially influenced by the current paper, or if the current paper is relatively new, think of possible new directions that the current paper could inspire.
+- Salesperson: You are an author of the paper during the rebuttal period. Convince others why this paper should win a best paper award.
+- Bug Hunter: You are reviewer #2, who wants to dig into the details of the paper. Your job is to uncover any issues with reproducibility, rigor, correctness, and clarity.

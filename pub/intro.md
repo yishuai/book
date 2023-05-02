@@ -49,7 +49,7 @@ title: 寻找理想的教育
 
 |[Index](../) | [Previous](../) | [Next](1-intro/1-zhao) |
 
-<!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->
+<!-- cd /Users/yishuai/Documents/Website/book/book -->
 <!-- jekyll serve --trace -->
 
 <!-- cd /Users/yishuai/.gem/ruby/3.1.2/gems/web/webrick-1.7.0 -->

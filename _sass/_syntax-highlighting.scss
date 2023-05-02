@@ -3,7 +3,8 @@
  */
 $spacing-unit:     30px;
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    // margin-bottom: $spacing-unit / 2;
+    margin-bottom: calc($spacing-unit / 2);
 }
 
 .highlight {

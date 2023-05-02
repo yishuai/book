@@ -13,4 +13,4 @@ title: 教育的难题
 
 <br/>
 
-|[Index](../../) | [Previous](1-2-bacon) | [Next](2-1-problem)|
+|[Index](../../) | [Previous](1-3-altman) | [Next](2-1-problem)|
