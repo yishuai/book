@@ -9,11 +9,11 @@ title: 一天很长，十年很短
 
 <!-- - I turned 30 last week and a friend asked me if I'd figured out any life advice in the past decade worth passing on.  I'm somewhat hesitant to publish this because I think these lists usually seem hollow, but here is a cleaned up version of my answer -->
 
-1. 对于家人、朋友和对你重要的人，永远不要降低他们在你优先级表中的位置。有几个真正密切的朋友胜过有一百个熟人。别和老朋友失联。偶尔与人呆在一起，聊到天亮。参加聚会。
+1. 对家人、朋友和其它对你来说重要的人，永远不要降低他们在你优先级表中的位置。有几个真正密切的朋友胜过有一百个熟人。别和老朋友失联。偶尔与人呆在一起，聊到天亮。参加聚会。
 
     - Never put your family, friends, or significant other low on your priority list.  Prefer a handful of truly close friends to a hundred acquaintances.  Don’t lose touch with old friends.  Occasionally stay up until the sun rises talking to people.  Have parties.
 
-2. 生活没有彩排。它过去了就不能重来。别浪费，让它过得有意义。时间极其有限，过得飞快。做那些让你开心和满足的事：人总会死，很少人在死去百年之后，还被人记得。别做那些让自己不开心的事（这种情况发生得最多的时候，是其他人想要你做什么事情的时候）。不要把时间花在尝试和你不喜欢的人保持关系上面，切断和那些让你消极的人的联系，让他们离开你的生活。消极非常有害。不要给自己制造借口，不去做自己想做的事。
+2. 生活没有彩排。它过去了就不能重来。别浪费，让它过得有意义。时间极其有限，过得飞快。做那些让你开心和满足的事：人总会死，很少人在死去百年之后，还被人记得。别做那些让自己不开心的事（这常发生在别人要你做什么事情时）。不要把时间花在尝试和你不喜欢的人保持关系上面，切断和那些让你消极的人的联系，让他们离开你的生活。消极非常有害。不要给自己制造借口，不去做自己想做的事。
 
     - Life is not a dress rehearsal—this is probably it.  Make it count.  Time is extremely limited and goes by fast.  Do what makes you happy and fulfilled—few people get remembered hundreds of years after they die anyway.  Don’t do stuff that doesn’t make you happy (this happens most often when other people want you to do something).  Don’t spend time trying to maintain relationships with people you don’t like, and cut negative people out of your life.  Negativity is really bad.  Don’t let yourself make excuses for not doing the things you want to do.
 
@@ -25,7 +25,7 @@ title: 一天很长，十年很短
 
     - On work: it’s difficult to do a great job on work you don’t care about.  And it’s hard to be totally happy/fulfilled in life if you don’t like what you do for your work.  Work very hard—a surprising number of people will be offended that you choose to work hard—but not so hard that the rest of your life passes you by.  Aim to be the best in the world at whatever you do professionally.  Even if you miss, you’ll probably end up in a pretty good place.  Figure out your own productivity system—don’t waste time being unorganized, working at suboptimal times, etc.  Don’t be afraid to take some career risks, especially early on.  Most people pick their career fairly randomly—really think hard about what you like, what fields are going to be successful, and try to talk to people in those fields.
 
-5. 对待金钱：无论金钱能否买到快乐，它肯定能买到自由，这是一桩很好的交易。此外，缺钱会让人感到很大的压力。几乎在所有方面，赚足够的钱，以便你不会为交房租感到压力，比赚足够的钱，买私人飞机，对你生活状态的改变是更大的。赚钱往往比花它更好玩，虽然我个人对我花在朋友、新体验、节约时间、旅行，以及我认同的各种原因上的钱，从来没有后悔过。
+5. 对待金钱：无论金钱能否买到快乐，它肯定能买到自由，这是一桩很好的交易。此外，缺钱会让人感到很大的压力。几乎在所有方面，赚足够多的钱，让你不为房租感到压力，比赚足够多的钱买私人飞机，对你生活状态的改变更大。赚钱往往比花它更好玩，虽然我个人对我花在朋友、新体验、节约时间、旅行，以及我认同的各种原因上的钱，从来没有后悔过。
 
     - On money: Whether or not money can buy happiness, it can buy freedom, and that’s a big deal.  Also, lack of money is very stressful.  In almost all ways, having enough money so that you don’t stress about paying rent does more to change your wellbeing than having enough money to buy your own jet.  Making money is often more fun than spending it, though I personally have never regretted money I’ve spent on friends, new experiences, saving time, travel, and causes I believe in.
 
@@ -37,7 +37,7 @@ title: 一天很长，十年很短
 
     - Don’t waste time.  Most people waste most of their time, especially in business.
 
-8. 自信，不要让自己被别人欺负。保罗·格雷厄姆（注：YC创始人）曾对我说：“人可能会变得十分可怕，但你很难预测是谁会变得这么可怕”。（在自信和傲慢之间有很大的不同。很明显，你应该把前者作为目标。）
+8. 不要让自己被别人欺负。保罗·格雷厄姆（注：YC创始人）曾对我说：“人可能会变得十分可怕，但你很难预测是谁会变得这么可怕”。（在自信和傲慢之间有很大的不同。很明显，你应该把前者作为目标。）
 
     - Don’t let yourself get pushed around.  As Paul Graham once said to me, “People can become formidable, but it’s hard to predict who”.  (There is a big difference between confident and arrogant.  Aim for the former, obviously.)
 
@@ -65,19 +65,19 @@ title: 一天很长，十年很短
 
     -  Summers are the best.
 
-15. 不要担心得太多。生活中的事情极少会如它们看起来那样充满风险。大多数人太厌恶风险了，因此大多数建议都太倾向于保守的路径。
+15. 不要担心太多。生活中的事情极少会如它们看起来那样充满风险。大多数人太厌恶风险了，因此大多数建议都太倾向于保守的路径。
 
     -  Don’t worry so much.  Things in life are rarely as risky as they seem.  Most people are too risk-averse, and so most advice is biased too much towards conservative paths.
 
-16. 你想要的东西，要说出来，要求它。
+16. 你想要的东西，要说出来，要求得到它。
 
-    -  Ask for what you want.  
+    -  Ask for what you want.
 
-17. 如果你认为你将为没有做某事而后悔，那你可能就应该做它。后悔是最糟糕的。后悔有两种：没干某事，干过某事。大多数人后悔没干某事，比后悔干过某事，要多得多。因此，当你在犹豫要不要亲他/她时，就亲。
+17. 如果你认为你将为没有做某事而后悔，那你可能就应该做它。后悔是最糟糕的。后悔有两种：没干某事，干过某事。大多数人后悔没干某事，比后悔干过某事，要多。因此，当你在犹豫要不要亲他/她时，就亲。
 
     -  If you think you’re going to regret not doing something, you should probably do it.  Regret is the worst, and most people regret far more things they didn’t do than things they did do.  When in doubt, kiss the boy/girl.
 
-18. 锻炼身体。吃好。睡觉。有一定规律地出去，走进大自然中。
+18. 锻炼身体。吃好。睡觉。有规律地走出去，走进大自然中。
 
     -  Exercise.  Eat well.  Sleep.  Get out into nature with some regularity.
 
@@ -85,7 +85,7 @@ title: 一天很长，十年很短
 
     -  Go out of your way to help people.  Few things in life are as satisfying.  Be nice to strangers.  Be nice even when it doesn’t matter.
 
-20. 青春是一件最伟大的东西。不要浪费它。事实上，在你20多岁时，我觉得可以采取一种“我要挣钱，但不是现在”的态度。世界上所有的钱都买不回你逝去的时间。
+20. 青春是一件最伟大的东西。不要浪费它。事实上，在你20多岁时，我觉得可以采取一种“我要遵守财务纪律，但不是现在”的态度。世界上所有的钱都买不回你逝去的时间。
 
     -  Youth is a really great thing.  Don’t waste it.  In fact, in your 20s, I think it’s ok to take a “Give me financial discipline, but not just yet” attitude.  All the money in the world will never get back time that passed you by.
 
@@ -115,17 +115,17 @@ title: 一天很长，十年很短
 
 27. 原谅别人。
 
-    -  Forgive people. 
+    -  Forgive people.
 
 28. 不要追逐地位。没有实质的地位维持不了多久，也不能使人满足。
 
     -  Don’t chase status.  Status without substance doesn’t work for long and is unfulfilling.
 
-29. 大多数事情适中就好。任何东西过量都是不OK的。
+29. 大多数事情适中就好。几乎所有东西过量都是不OK的。
 
     -  Most things are ok in moderation.  Almost nothing is ok in extreme amounts.
 
-30. “存在”的焦虑是生活的一部分。它特别明显，在你正在经历一些重大的人生事件，或刚刚经历过一些重要的职业里程碑时。它看起来特别影响那些聪明、雄心勃勃的人。我认为一些人如此努力地工作的原因上：这样他们就不必花太多时间去焦虑了。感到焦虑并不说明你有问题；你不是一个人（大家都在焦虑。）
+30. “存在”的焦虑是生活的一部分。它特别明显，在你正在经历一些重大的人生事件，或刚刚经历过一些重要的职业里程碑时。它看起来特别影响那些聪明、雄心勃勃的人。我认为一些人如此努力工作的原因是：这样他们就不必花太多时间去焦虑了。感到焦虑并不说明你有问题；不是只有你一个人这样（大家都在焦虑。）
 
     -  Existential angst is part of life.  It is particularly noticeable around major life events or just after major career milestones.  It seems to particularly affect smart, ambitious people.  I think one of the reasons some people work so hard is so they don’t have to spend too much time thinking about this.  Nothing is wrong with you for feeling this way; you are not alone.
 
@@ -145,7 +145,7 @@ title: 一天很长，十年很短
 
     -  Think for a few seconds before you act.  Think for a few minutes if you’re angry.
 
-35. 不要太快就评判别人。你永远也不知道他们故事的全部、他们为什么会这么做，或者不做一些事情。保持同理心。
+35. 不要太快就评判别人。你永远也不知道他们故事的全部、他们为什么会这样做，或者不那样做。保持同理心。
 
     -  Don’t judge other people too quickly.  You never know their whole story and why they did or didn’t do something.  Be empathetic.
 
