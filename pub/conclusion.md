@@ -25,7 +25,7 @@ Ars Vivendi in Mundo —— 在世界上明智生活的艺术。我不知道我�
 
 Enjoy！
 
-|[Index](../) | [Previous](8-thesis/8-summary) | [Next](../) |
+|[Index](../) | |
 
 
 <!-- cd /Users/yishuai/Documents/GDrive-2/Website/book/book -->

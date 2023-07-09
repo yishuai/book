@@ -25,4 +25,4 @@ title: 人文和社科领域的学术写作
 
 <br/>
 
-|[Index](../../) | [Previous](../..) | [Next](1-0-literal)|
+|[Index](../../) | [Next](1-0-literal)|

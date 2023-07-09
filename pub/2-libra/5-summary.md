@@ -21,4 +21,4 @@ title: 总结
 
 <br/>
 
-|[Index](../../) | [Previous](4-4-class) | [Next](../3-english/0-0-intro)|
+|[Index](../../) | [Previous](4-4-class)|

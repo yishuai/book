@@ -19,4 +19,4 @@ title: 总结
 
 <br/>
 
-|[Index](../../) | [Previous](4-12-teach) | [Next](../7-sci/0-0-intro)|
+|[Index](../../) | [Previous](4-12-teach) |

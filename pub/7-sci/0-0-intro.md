@@ -21,4 +21,4 @@ title: 科学的写作
 
 <br/>
 
-|[Index](../../) | [Previous](../6-human/5-summary) | [Next](0-1-science)|
+|[Index](../../) | [Next](0-1-science)|

@@ -25,4 +25,4 @@ title: 学习写作
 
 <br/>
 
-|[Index](../../) | [Previous](../3-english/4-summary) | [Next](1-0-method)|
+|[Index](../../) | [Next](1-0-method)|

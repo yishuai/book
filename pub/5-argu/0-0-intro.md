@@ -25,4 +25,4 @@ title: 学术写作的要素与方法
 
 <br/>
 
-|[Index](../../) | [Previous](../4-write/4-summary) | [Next](0-2-element)|
+|[Index](../../) | [Next](0-2-element)|

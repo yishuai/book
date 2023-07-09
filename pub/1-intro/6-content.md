@@ -23,4 +23,4 @@ title: 全人教育的方式
 
 <br/>
 
-|[Index](../../) | [Previous](5-shiwu) | [Next](../2-libra/0-0-goal)|
+|[Index](../../) | [Previous](5-shiwu)|

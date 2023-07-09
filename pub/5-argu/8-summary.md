@@ -23,4 +23,4 @@ title: 总结
 
 <br/>
 
-|[Index](../../) | [Previous](7-model) | [Next](../6-human/0-0-intro)|
+|[Index](../../) | [Previous](7-model) |

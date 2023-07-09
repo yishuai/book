@@ -17,4 +17,4 @@ title: 从无到有完成毕业论文
 
 <br/>
 
-|[Index](../../) | [Previous](../7-sci/7-summary) | [Next](1-0-basic)|
+|[Index](../../) | [Next](1-0-basic)|

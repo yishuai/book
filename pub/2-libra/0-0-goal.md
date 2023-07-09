@@ -13,4 +13,4 @@ title: 教育的目的
 
 <br/>
 
-|[Index](../../) | [Previous](../1-intro/6-content) | [Next](0-1-emerson)|
+|[Index](../../) | [Next](0-1-emerson)|

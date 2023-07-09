@@ -44,4 +44,4 @@ title: 总结
 
 <br/>
 
-|[Index](../../) | [Previous](6-14-course) | [Next](../8-thesis/0-0-intro)|
+|[Index](../../) | [Previous](6-14-course) |
