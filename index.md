@@ -11,7 +11,7 @@ title: 目录
 1. [像科学家那样思考](pub/1-intro/3-university)
 1. [交流与思考](pub/1-intro/4-newyork)
 1. [全人教育的尝试](pub/1-intro/5-shiwu)
-1. [实务学堂转型观察](pub/1-intro/6-camp)
+1. [实务学堂的教育](pub/1-intro/6-camp)
 <!-- 1. [](pub/1-intro/5-shiwu) -->
 1. [全人教育的方式](pub/1-intro/6-content)
 

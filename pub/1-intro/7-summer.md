@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 全人教育的方式
+title: 
 ---
 
 
