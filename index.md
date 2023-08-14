@@ -10,7 +10,9 @@ title: 目录
 1. [独立思考，搞定高考](pub/1-intro/2-mid-school)
 1. [像科学家那样思考](pub/1-intro/3-university)
 1. [交流与思考](pub/1-intro/4-newyork)
-1. [全人教育的启蒙](pub/1-intro/5-shiwu)
+1. [全人教育的尝试](pub/1-intro/5-shiwu)
+1. [实务学堂转型观察](pub/1-intro/6-camp)
+<!-- 1. [](pub/1-intro/5-shiwu) -->
 1. [全人教育的方式](pub/1-intro/6-content)
 
 第 2 章，在世界上明智生活的艺术

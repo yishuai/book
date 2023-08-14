@@ -23,4 +23,4 @@ title: 全人教育的方式
 
 <br/>
 
-|[Index](../../) | [Previous](5-shiwu)|
+|[Index](../../) | [Previous](7-summer)|
