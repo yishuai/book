@@ -13,7 +13,7 @@ title: 目录
 1. [全人的教育](pub/1-intro/5-shiwu)
 1. [自立与职业](pub/1-intro/6-camp)
 <!-- 1. [](pub/1-intro/5-shiwu) -->
-1. [全人教育的方式](pub/1-intro/6-content)
+1. [全人教育的方式](pub/1-intro/8-content)
 
 第 2 章，在世界上明智生活的艺术
 1. [教育的目的](pub/2-libra/0-0-goal)
