@@ -1,211 +1,38 @@
 ---
 layout: post
-title: 目录
+title: 寻找理想的教育
 ---
 
-[前言](pub/intro)
+16 岁前，我在湖南的一个小县城长大。读了一些书，听长辈讲了一些故事，凭着自己对考试的领悟，考上了大学，见到了北京。对未来，并没有理解。
 
-第 1 章，引言
-1. [记一次研究生同学答辩](pub/1-intro/1-zhao)
-1. [独立思考，搞定高考](pub/1-intro/2-mid-school)
-1. [像科学家那样思考](pub/1-intro/3-university)
-1. [交流与思考](pub/1-intro/4-newyork)
-1. [全人的教育](pub/1-intro/5-shiwu)
-1. [自立与职业](pub/1-intro/6-camp)
-<!-- 1. [](pub/1-intro/5-shiwu) -->
-1. [全人教育的方式](pub/1-intro/8-content)
+在大学里，我接着考试，保研，对未来，还是没有方向。
 
-第 2 章，在世界上明智生活的艺术
-1. [教育的目的](pub/2-libra/0-0-goal)
-    1. [自立与思考](pub/2-libra/0-1-emerson)
-    1. [生活的艺术](pub/2-libra/0-2-whole)
-    1. [好人](pub/2-libra/0-3-merit)
-    1. [有用的人](pub/2-libra/0-4-cap)
-    1. [有组织的生活](pub/2-libra/0-5-organized)
-1. [教育、学习与生活的方法](pub/2-libra/1-0-method)
-    1. [你要思考，并且提问](pub/2-libra/1-1-philosophy)
-    1. [论学习](pub/2-libra/1-2-bacon)
-    1. [一天很长，十年很短](pub/2-libra/1-3-altman)
-1. [教育的难题](pub/2-libra/2-0-problem)
-    1. [教育的困境和我们的责任](pub/2-libra/2-1-problem)
-    1. [先通识，再专业](pub/2-libra/2-2-spec-vs-gen)
-1. [儿童和成年人的博雅教育](pub/2-libra/3-0-age)
-    1. [儿童通识教育](pub/2-libra/3-1-child)
-    1. [成人和辍学年轻人的通识教育](pub/2-libra/3-2-adult)
-1. [哈佛全人教育](pub/2-libra/4-0-harvard)
-    1. [全人教学计划](pub/2-libra/4-1-plan)
-    1. [从问题出发](pub/2-libra/4-2-problem)
-    1. [学生体验](pub/2-libra/4-3-experience)
-    1. [课堂组织](pub/2-libra/4-4-class)
-1. [总结](pub/2-libra/5-summary)
+读研究生时，发现老师讲的、做的，都很新奇。就想：自己在大学里怎么都没学过？
 
-第 3 章，在大学里学习
-1. [在大学里学习](pub/2-university/0-0-intro)
-   1. [大学是一种精神生活](pub/2-university/1-1-spirit)
-   2. [科学的方法是理性](pub/2-university/1-3-rationality)
-   3. [交流是大学精神生活的核心](pub/2-university/1-5-communicate)
-2. [大学的任务](pub/2-university/2-1-goal)
-   1. [学术训练：大学的核心](pub/2-university/2-3-research)
-   2. [基于学术工作的通识教育和全人教育](2-pub/2-university/5-whole-man)
-   3. [大学对学生的要求](pub/2-university/2-7-student)
-   4. [教学方式](pub/2-university/2-9-teach)
-3. [大学的管理](pub/2-university/3-1-manage)
-   1. [大学与国家](pub/2-university/3-3-country)
-   2. [大学与社会](pub/2-university/3-5-society)
-4.  [总结](pub/2-university/5-summary)
+毕业后，进入贝尔实验室，发现同事们讲的、做的，又很新奇。就想：他们的大学，都是怎么过的？
 
-第 4 章，走出英语学习的迷途
-1. [学习英语](pub/3-english/0-0-intro)
-    1. [.1. 英语至关重要](pub/3-english/0-1-value)
-1. [问题分析](pub/3-english/1-0-problem)
-    1. [.1. 认识孩子](pub/3-english/1-3-child)
-    1. [.2. 问题在哪呢？](pub/3-english/1-6-analysis)
-    1. [.解题式英语学习没有出路](pub/3-english/1-7-pedagogy)
-1. [理想的英语学习](pub/3-english/3-0-sol)
-    1. [一起做练习](pub/3-english/3-1-practise)
-    1. [词汇是基础](pub/3-english/3-3-vocab)
-    1. [提供语言活动的课本](pub/3-english/3-5-textbook)
-    1. [从语音入手](pub/3-english/3-7-speech)
-    1. [绘本的世界](pub/3-english/3-10-picture-book)
-1. [总结](pub/3-english/4-summary)
+回到学校读博。3 年里，和老师每天激烈争论，被老师推着想问题，痛苦，也很有意思。看着老师以思考为乐，就想：他怎么有这个习惯的？
 
-第 5 章，学术写作的意义和哈佛课程
-1. [学习写作](pub/4-write/0-0-intro)
-1. [日常工作生活中的写作](pub/4-write/1-0-method)
-    1. [日常写作的基本方法](pub/4-write/1-2-basic)
-    1. [专业作者的写作方法](pub/4-write/1-4-professional)
-1. [学术写作](pub/4-write/2-0-aca)
-    1. [学术写作的基本方法](pub/4-write/2-2-method)
-    1. [学术写作的特征](pub/4-write/2-4-feature)
-    1. [学术写作与批判性思考](pub/4-write/2-6-think)
-    1. [写作改变人生](pub/4-write/2-8-value)
-1. [哈佛写作课程](pub/4-write/3-0-course)
-    1. [为什么要开写作课](pub/4-write/3-2-value)
-    1. [写作预备课](pub/4-write/3-4-exp10)
-    1. [写作预备课示例](pub/4-write/3-5-exp10-example)
-    1. [批判性思维和分析式写作课](pub/4-write/3-6-exp20)
-    1. [批判性思维和分析式写作课示例](pub/4-write/3-7-exp20-example)
-    1. [写作练习的设计与布置](pub/4-write/3-8-assign)
-1. [写作参考材料](pub/4-write/4-0-refer)
-    1. [普渡大学在线写作实验室](pub/4-write/4-1-owl)
-    1. [写作知识库](pub/4-write/4-3-kb)
-1. [总结](pub/4-write/5-summary)
+转眼，我的孩子出生了。抱着她，我想，她应该像我这样走过来吗？
 
-第 6 章，学术写作的基本要素与方法
-1. [学术写作的要素与方法](pub/5-argu/0-0-intro)
-    1. [论文的元素](pub/5-argu/0-2-element)
-1. [论点](pub/5-argu/1-0-thesis)
-    1. [论点的写作](pub/5-argu/1-2-thesis)
-    1. [建立论点的方法](pub/5-argu/1-3-method)
-    1. [让论点更具争议](pub/5-argu/1-4-controverse)
-    1. [加入对话](pub/5-argu/1-5-join-conv)
-    1. [比较式论点的提出](pub/5-argu/1-6-comparative)
-    1. [通过写作找到论点](pub/5-argu/1-7-find)
-1. [论文为什么重要？](pub/5-argu/2-0-stake)
-    1. [论文意义的写作](pub/5-argu/2-2-stake)
-    1. [导论的写作](pub/5-argu/2-4-intro)
-    1. [结论的写作](pub/5-argu/2-6-conclusion)
-1. [论文结构](pub/5-argu/3-0-structure)
-    1. [构建好的论文结构](pub/5-argu/3-2-structure)
-    1. [论文结构搭建的方法](pub/5-argu/3-4-method)
-    1. [大纲](pub/5-argu/3-5-outline)
-    1. [反向大纲](pub/5-argu/3-6-reverse-outline)
-    1. [主题句与路标段](pub/5-argu/3-8-signpost)
-    1. [桥接句](pub/5-argu/3-10-bridge)
-    1. [基于主题句的快速论文构建](pub/5-argu/3-12-topic-sentence)
-1. [证据与分析](pub/5-argu/4-0-evidence)
-    1. [证据的使用方法](pub/5-argu/4-2-evidence)
-    1. [使用证据的方法](pub/5-argu/4-3-method)
-    1. [对证据的总结](pub/5-argu/4-4-summary)
-    1. [引用证据的方法](pub/5-argu/4-6-source)
-1. [常见问题与应对](pub/5-argu/5-problem)
-1. [遣词造句](pub/5-argu/6-0-style)
-    1. [Miles 老师提示](pub/5-argu/6-2-goods)
-    1. [Margo Seltzer 老师提示](pub/5-argu/6-4-seltzer)
-    1. [作者守则](pub/5-argu/6-6-hacker-rule)
-    1. [写作风格](pub/5-argu/6-8-style)
-1. [练习范文](pub/5-argu/7-model)
-1. [总结](pub/5-argu/8-summary)
+到了纽约。纽约公立小学和大学的经历，让我了解，原来，他们是这么学的。
 
-第 7 章，人文社科领域的学术写作
-1. [人文和社科领域的学术写作](pub/6-human/0-0-intro)
-1. [文本分析的学术写作](pub/6-human/1-0-literal)
-    1. [细读，归纳推理](pub/6-human/1-2-inductive)
-    1. [细读的流程](pub/6-human/1-4-process)
-    1. [在细读中提出创见](pub/6-human/1-6-find-new)
-    1. [细读文本的结构](pub/6-human/1-8-struct-reading)
-1. [艺术领域的学术写作](pub/6-human/2-0-art)
-    1. [艺术的写作](pub/6-human/2-2-ge-art)
-    1. [音乐的写作](pub/6-human/2-3-ge-music)
-    1. [交响乐年轻时的自由和快乐](pub/6-human/2-4-ge-musicme)
-    1. [细读电影](pub/6-human/2-6-film)
-1. [道德伦理的学术写作](pub/6-human/3-0-ethic)
-    1. [基于逻辑的道德写作](pub/6-human/3-2-ge-ethic)
-    1. [正义的写作](pub/6-human/3-4-ge-justice)
-1. [范文](pub/6-human/4-0-model)
-    1. [Expose 杂志](pub/6-human/4-2-expose)
-    1. [Key Terms](pub/6-human/4-4-key-term)
-    1. [学生专栏](pub/6-human/4-6-column)
-    1. [Jill Lepore](pub/6-human/4-8-jill)
-    1. [范文教学方法](pub/6-human/4-12-teach)
-1. [总结](pub/6-human/5-summary)
+回国后，教大学生、高中生，还有自己的孩子，总想做得好一点。在学校遇到志同道合的朋友，一起上课，做导师，和学生们做朋友，从他们身上学到很多。
 
-第 8 章，科学的写作
-1. [科学的写作](pub/7-sci/0-0-intro)
-    1. [科学的特点](pub/7-sci/0-1-science)
-1. [科学写作的基本方法](pub/7-sci/2-0-method)
-    1. [科学写作的类型和结构](pub/7-sci/2-1-type-expos)
-    1. [科学论文的元素](pub/7-sci/2-2-element)
-    1. [大局观（Big Picture）](pub/7-sci/2-4-big-picture)
-    1. [段落结构](pub/7-sci/2-6-structure)
-    1. [整合证据（integrating evidence）](pub/7-sci/2-8-evidence)
-    1. [观众和风格（audience & style）](pub/7-sci/2-10-style)
-    1. [科学期刊的写作风格](pub/7-sci/2-12-style-nature)
-    1. [遣词用句](pub/7-sci/2-14-donot)
-    1. [斯坦福大学科学写作课](pub/7-sci/2-16-course)
-1. [实证研究论文的写作](pub/7-sci/4-0-emprical)
-    1. [实证研究论文写作方法](pub/7-sci/4-2-element)
-    1. [论文写作的艺术](pub/7-sci/4-4-margo-art)
-    1. [论文写作算法](pub/7-sci/4-6-chris-algo)
-1. [面向公众的科学写作](pub/7-sci/5-0-magazine)
-    1. [面向公众的科学写作风格](pub/7-sci/5-2-mag-style)
-    1. [面向公众的科学写作内容](pub/7-sci/5-4-mag-idea)
-1. [非实证研究论文写作](pub/7-sci/6-0-non-emperical)
-    1. [非实证科学论文的写作方法](pub/7-sci/6-2-method)
-    1. [申请书写作的基本原理](pub/7-sci/6-6-grant)
-    1. [申请书的内容和结构](pub/7-sci/6-8-content)
-    1. [资助申请流程](pub/7-sci/6-10-process)
-    1. [同行评审方法](pub/7-sci/6-12-peer-review)
-    1. [哈佛科学写作课程](pub/7-sci/6-14-course)
-1. [总结](pub/7-sci/7-summary)
+下面是我的旅程。
 
-第 9 章，从无到有完成毕业论文
-1. [从无到有完成毕业论文](pub/8-thesis/0-0-intro)
-1. [准备](pub/8-thesis/1-0-basic)
-    1. [习惯](pub/8-thesis/1-2-habit)
-    1. [范文分析和批评](pub/8-thesis/1-4-critique-sample)
-    1. [论文的组成和写作过程](pub/8-thesis/1-6-schedule)
-    1. [从无到有的三个阶段](pub/8-thesis/1-8-procedure)
-1. [项目开发阶段](pub/8-thesis/2-0-project-dev)
-    1. [找到研究问题](pub/8-thesis/2-1-pre-research)
-    1. [分析材料，缩小主题](pub/8-thesis/2-2-primary-second)
-    1. [准备带注释的参考书目](pub/8-thesis/2-4-annotated-bib)
-    1. [略读，查找研究材料](pub/8-thesis/2-6-skim)
-    1. [项目提案](pub/8-thesis/2-8-problem)
-    1. [研究计划](pub/8-thesis/2-10-plan)
-1. [研究和论文草稿阶段](pub/8-thesis/3-0-research)
-    1. [边研究边写](pub/8-thesis/3-2-research-draft)
-    1. [研究方法](pub/8-thesis/3-4-research)
-    1. [写作方法](pub/8-thesis/3-6-write)
-    1. [记日志、记笔记](pub/8-thesis/3-8-journey-chunk)
-    1. [走出困境，保持前进动能](pub/8-thesis/3-10-momentum)
-1. [修订阶段](pub/8-thesis/4-0-revision)
-    1. [修订并最后完成论文](pub/8-thesis/4-2-revision)
-    1. [修订导论和结论](pub/8-thesis/4-4-revision-intro)
-1. [总结](pub/8-thesis/8-summary)
+1. [寻找理想的教育](edu)
 
-[后记](pub/conclusion)
+1. [学术的写作](write)
+
+1. [数据科学](ds)
 
 <br/>
 
-|[Next](pub/intro) |
+|[Index](../) | [Previous](../) | [Next](1-intro/1-zhao) |
+
+<!-- cd /Users/yishuai/Documents/Website/book/book -->
+<!-- jekyll serve --trace -->
+
+<!-- cd /Users/yishuai/.gem/ruby/3.1.2/gems/web/webrick-1.7.0 -->
+<!-- bundle add webrick -->
