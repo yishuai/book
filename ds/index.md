@@ -39,4 +39,16 @@ title: 目录
     1. [Flume](3-bigdata/11-3-flume)
     1. [Flink](3-bigdata/11-5-flink)
 
+第 3 章，数据科学生命周期
+
+1. [数据科学生命周期](4-ana/13-0-dslifecycle)
+   1. [数据科学生命周期](4-ana/13-1-lifecycle)
+   2. [理解数据的范围](4-ana/13-2-scope)
+   3. [Bias 和 Precision](4-ana/13-3-error)
+   4. [测量方法和协议的设计](4-ana/13-4-protocol)
+   5. [Urn 仿真实验](4-ana/13-5-simulation)
+   6. [常数模型和损失函数](4-ana/13-7-model)
+   7. [案例：为什么我的公交车总晚点？](4-ana/13-9-bus)
+
+
 |[Index](../) | [Next](1-intro) |
