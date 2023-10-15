@@ -29,8 +29,6 @@ title: 寻找理想的教育
 
 <br/>
 
-|[Index](../) | [Previous](../) | [Next](1-intro/1-zhao) |
-
 <!-- cd /Users/yishuai/Documents/Website/book/book -->
 <!-- jekyll serve --trace -->
 

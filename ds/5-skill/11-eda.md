@@ -135,4 +135,4 @@ px.box(sfh.query('city in @cities'),
 
 <br/>
 
-|[Index](../) | [Previous](9-wrangling) | [Next](13-vis) |
+|[Index](../) | [Previous](10-intro) | [Next](13-vis) |

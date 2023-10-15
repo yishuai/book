@@ -3,18 +3,48 @@ layout: post
 title: 目录
 ---
 
-第 1 章，数据科学的学习
+[课程介绍](1-intro)
 
-1. [数据科学](1-intro)
-1. [数据科学基本概念](2-ds/3-0-ds)
-    1. [数据科学的定义和应用](2-ds/3-1-overview)
-    1. [数据及数据处理的特点](2-ds/3-3-character)
-    1. [数据科学工作流程和技能](2-ds/3-5-flow-cap)
-    1. [数据科学学习路径和编程练习](2-ds/3-7-path)
-    1. [命令行工具](2-ds/3-9-tool)
-    1. [SQL入门](2-ds/3-11-sql)
+第 1 章，数据科学基本概念
 
-第 2 章，大数据
+1. [本章内容介绍](2-ds/3-0-ds)
+2. [数据科学的定义和应用](2-ds/3-1-overview)
+3. [数据及数据处理的特点](2-ds/3-3-character)
+4. [数据科学工作流程和技能](2-ds/3-5-flow-cap)
+5. [数据科学学习路径和编程练习](2-ds/3-7-path)
+6. [命令行工具](2-ds/3-9-tool)
+7. [SQL入门](2-ds/3-11-sql)
+
+第 2 章，数据科学生命周期
+
+1. [本章内容介绍](4-ana/13-0-dslifecycle)
+2. [数据科学生命周期](4-ana/13-1-lifecycle)
+3. [理解数据的范围](4-ana/13-2-scope)
+4. [Bias 和 Precision](4-ana/13-3-error)
+5. [测量方法和协议的设计](4-ana/13-4-protocol)
+6. [Urn 仿真实验](4-ana/13-5-simulation)
+7. [常数模型和损失函数](4-ana/13-7-model)
+8. [案例：为什么我的公交车总晚点？](4-ana/13-9-bus)
+
+第 3 章，数据整理
+
+9. [本章内容介绍](5-skill/1-intro)
+10. [Pandas DataFrame 表格格式](5-skill/3-3-pandas)
+11. [Pandas 获取数据子集](5-skill/3-5-subset)
+12. [Pandas 数据聚合和变换](5-skill/3-7-aggre)
+13. [SQL 数据处理基础](5-skill/5-sql)
+14. [文件的读入与查看](5-skill/7-file)
+15. [Pandas 数据整理](5-skill/9-wrangling)
+
+第 4 章，理解数据
+
+1. [本章内容介绍](5-skill/10-intro)
+2.  [探索式数据分析](5-skill/11-eda)
+3.  [数据可视化](5-skill/13-vis)
+4.  [案例：空气质量测量模型](5-skill/15-air-quality)
+19. [正则表达式](5-skill/17-text)
+
+第 5 章，大数据处理与系统
 
 1. [大数据处理基本概念](3-bigdata/4-0-bigdata)
     1. [Hadoop 分布式文件系统（HDFS）](3-bigdata/4-3-hdfs)
@@ -39,28 +69,6 @@ title: 目录
     1. [Flume](3-bigdata/11-3-flume)
     1. [Flink](3-bigdata/11-5-flink)
 
-第 3 章，数据科学生命周期
-
-1. [数据科学生命周期](4-ana/13-0-dslifecycle)
-   1. [数据科学生命周期](4-ana/13-1-lifecycle)
-   2. [理解数据的范围](4-ana/13-2-scope)
-   3. [Bias 和 Precision](4-ana/13-3-error)
-   4. [测量方法和协议的设计](4-ana/13-4-protocol)
-   5. [Urn 仿真实验](4-ana/13-5-simulation)
-   6. [常数模型和损失函数](4-ana/13-7-model)
-   7. [案例：为什么我的公交车总晚点？](4-ana/13-9-bus)
-
-2. [数据处理与分析](5-skill/1-intro)
-    1. [Pandas DataFrame 表格格式](5-skill/3-3-pandas)
-    2. [Pandas 获取数据子集](5-skill/3-5-subset)
-    3. [Pandas 数据聚合和变换](5-skill/3-7-aggre)
-    4. [SQL 数据处理基础](5-skill/5-sql)
-    5. [文件的读入与查看](5-skill/7-file)
-    6. [Pandas 数据整理](5-skill/9-wrangling)
-    7. [探索式数据分析](5-skill/11-eda)
-    8.  [数据可视化](5-skill/13-vis)
-    9.  [案例：空气质量测量模型](5-skill/15-air-quality)
-    10. [正则表达式](5-skill/17-text)
-
+[后记](99-note)
 
 |[Index](../) | [Next](1-intro) |

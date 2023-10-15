@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 数据科学
+title: 数据科学入门
 ---
 
 各种岗位，都需要数字化人才。比如HR岗位，现在企业更想招的是HRBP（合伙人），不仅懂人力资源知识，而且懂业务，甚至懂一些编程，数据分析。比如客服岗位，现在企业更想招的是基于客服的产品经理，不仅懂和客户沟通，而且懂产品，能够根据客户的需求，和产品开发人员沟通，确定产品的下一步开发任务、计划，并支持销售进行下一步的产品销售。
@@ -11,15 +11,21 @@ title: 数据科学
 
 本课程包括三部分内容
 - 什么是数据科学，它的各种应用、工作流、学习路径、工具
-- 大数据基本概念，Spark、Hive、HBase、ZooKeeper、Kafka 等大数据平台
 - 数据分析、模型、仿真、假设检验、可视化、表格数据处理
+- 大数据基本概念，Spark、Hive、HBase、ZooKeeper、Kafka 等大数据平台
+
+本课程很多内容来自实验室赵永祥老师、郭宇春老师、郑宏云老师创造的课程内容。特此致谢。
+
+本课程很多内容来自伯克利大学 Sam Lau 等老师的课本《[Learning Data Science](https://learningds.org/intro.html)》。特此致谢。
+
+本课程于 2023 年与北京交通大学各个学院的 80 位研究生分享过。感谢同学们在这个过程中给我的启发。课程记录在此，或可参考：[腾讯文档](https://docs.qq.com/doc/DT1RZZmVkRlpiVUJD)
+
+课程简短摘要视频在 B 站上，或可参考：[B 站视频](https://www.bilibili.com/video/BV1HV411c7dV)。
 
 参考文献
 
 - 财新杂志，《就业为何难》，2023年8月14日，链接：https://weekly.caixin.com/2023-08-12/102092433.html
 
-- Sam Lau, Joey Gonzalez, and Deb Nolan，Learning Data Science，伯克利大学教材，https://learningds.org/intro.html
-
 <br/>
 
-|[Index](../) | [Previous](../..) | [Next](2-ds/3-0-ds)|
+|[Index](../) | [Next](2-ds/3-0-ds)|
