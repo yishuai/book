@@ -50,5 +50,17 @@ title: 目录
    6. [常数模型和损失函数](4-ana/13-7-model)
    7. [案例：为什么我的公交车总晚点？](4-ana/13-9-bus)
 
+2. [数据处理与分析](5-skill/1-intro)
+    1. [Pandas DataFrame 表格格式](5-skill/3-3-pandas)
+    2. [Pandas 获取数据子集](5-skill/3-5-subset)
+    3. [Pandas 数据聚合和变换](5-skill/3-7-aggre)
+    4. [SQL 数据处理基础](5-skill/5-sql)
+    5. [文件的读入与查看](5-skill/7-file)
+    6. [Pandas 数据整理](5-skill/9-wrangling)
+    7. [探索式数据分析](5-skill/11-eda)
+    8.  [数据可视化](5-skill/13-vis)
+    9.  [案例：空气质量测量模型](5-skill/15-air-quality)
+    10. [正则表达式](5-skill/17-text)
+
 
 |[Index](../) | [Next](1-intro) |

@@ -5,4 +5,4 @@ title:
 
 <br/>
 
-|[Index](../../) | [Previous]() | [Next]()|
+|[Index](../) | [Previous]() | [Next]()|
