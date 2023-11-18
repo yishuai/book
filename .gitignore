@@ -6,3 +6,10 @@ config.codekit
 **/local/
 **/bak/
 **/inprog/
+**/assign/
+**/src*/
+**/project/
+**/*master/
+**/umich/
+**/dm/
+**/ai/
