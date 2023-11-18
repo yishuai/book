@@ -60,4 +60,4 @@ Kassy 在纽约时学习过的英文课本，是 HMHG 出版社的 Journeys 系�
 
 <br/>
 
-|[Index](../) | [Previous](3-3-vocab) | [Next](3-7-speech)|
+|[Index](./) | [Previous](3-3-vocab) | [Next](3-7-speech)|

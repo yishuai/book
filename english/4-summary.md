@@ -23,4 +23,4 @@ title: 总结
 
 <br/>
 
-|[Index](../) | [Previous](3-10-picture-book)|
+|[Index](./) | [Previous](3-10-picture-book)|

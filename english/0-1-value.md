@@ -19,4 +19,4 @@ title: 英语至关重要
 
 <br/>
 
-|[Index](../) | [Previous](0-0-intro) | [Next](1-0-problem)|
+|[Index](./) | [Previous](0-0-intro) | [Next](1-0-problem)|

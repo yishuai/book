@@ -3,16 +3,18 @@ layout: post
 title: 寻找理想的教育
 ---
 
-第 1 章，我走过的路
-1. [记一次研究生同学答辩](1-intro/1-zhao)
+[前言](intro)
+
+第 1 章，我的教育之路
+1. [一次研究生同学答辩](1-intro/1-zhao)
 1. [我的中学：独立思考，搞定高考](1-intro/2-mid-school)
 1. [我的大学：像科学家那样思考](1-intro/3-university)
-1. [我的访学：来到纽约](1-intro/4-newyork)
+1. [来到纽约](1-intro/4-newyork)
 1. [实务学堂 I：探索全人的教育](1-intro/5-shiwu)
 1. [实务学堂 II：自立与职业的教育](1-intro/6-camp)
 1. [全人教育](1-intro/8-content)
 
-第 2 章，在世界上明智生活的艺术
+第 2 章，教育在世界上明智生活的艺术
 1. [教育的目的](2-libra/0-0-goal)
     1. [自立与思考](2-libra/0-1-emerson)
     1. [生活的艺术](2-libra/0-2-whole)
@@ -36,7 +38,7 @@ title: 寻找理想的教育
     1. [课堂组织](2-libra/4-4-class)
 1. [总结](2-libra/5-summary)
 
-第 3 章，大学的学习
+第 3 章，大学的教育
 1. [在大学里学习](2-university/0-0-intro)
    1. [大学是一种精神生活](2-university/1-1-spirit)
    2. [科学的方法是理性](2-university/1-3-rationality)
@@ -51,23 +53,8 @@ title: 寻找理想的教育
    2. [大学与社会](2-university/3-5-society)
 4.  [总结](2-university/5-summary)
 
-第 4 章，英语的学习
-1. [学习英语](3-english/0-0-intro)
-    1. [.1. 英语至关重要](3-english/0-1-value)
-1. [问题分析](3-english/1-0-problem)
-    1. [.1. 认识孩子](3-english/1-3-child)
-    1. [.2. 问题在哪呢？](3-english/1-6-analysis)
-    1. [.解题式英语学习没有出路](3-english/1-7-pedagogy)
-1. [理想的英语学习](3-english/3-0-sol)
-    1. [一起做练习](3-english/3-1-practise)
-    1. [词汇是基础](3-english/3-3-vocab)
-    1. [提供语言活动的课本](3-english/3-5-textbook)
-    1. [从语音入手](3-english/3-7-speech)
-    1. [绘本的世界](3-english/3-10-picture-book)
-1. [总结](3-english/4-summary)
-
 [后记](conclusion)
 
 <br/>
 
-|[Index](../) | [Next](1-intro/1-zhao) |
+|[Index](../) | [Next](intro) |

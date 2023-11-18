@@ -39,4 +39,4 @@ title: 问题在哪呢？
 
 <br/>
 
-|[Index](../) | [Previous](1-3-child) | [Next](1-7-pedagogy)|
+|[Index](./) | [Previous](1-3-child) | [Next](1-7-pedagogy)|

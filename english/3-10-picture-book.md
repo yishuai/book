@@ -51,4 +51,4 @@ Kassy 小学三年级的时候，我们到了纽约。纽约到处是图书馆�
 
 <br/>
 
-|[Index](../) | [Previous](3-7-speech) | [Next](4-summary)|
+|[Index](./) | [Previous](3-7-speech) | [Next](4-summary)|

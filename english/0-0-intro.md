@@ -19,4 +19,4 @@ title: 学习英语
 
 <br/>
 
-|[Index](../) | [Next](0-1-value)|
+|[Index](./) | [Next](0-1-value)|

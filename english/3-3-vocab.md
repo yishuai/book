@@ -69,4 +69,4 @@ Kassy 在纽约学习英语是从词汇开始的。我请她回忆自己在纽�
 
 <br/>
 
-|[Index](../) | [Previous](3-1-practise) | [Next](3-5-textbook)|
+|[Index](./) | [Previous](3-1-practise) | [Next](3-5-textbook)|

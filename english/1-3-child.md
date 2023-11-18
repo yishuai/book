@@ -17,4 +17,4 @@ title: 认识孩子
 
 <br/>
 
-|[Index](../) | [Previous](1-0-problem) | [Next](1-6-analysis)|
+|[Index](./) | [Previous](1-0-problem) | [Next](1-6-analysis)|

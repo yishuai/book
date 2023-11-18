@@ -41,4 +41,4 @@ title: 解题式英语学习没有出路
 
 <br/>
 
-|[Index](../) | [Previous](1-6-analysis) | [Next](3-0-sol)|
+|[Index](./) | [Previous](1-6-analysis) | [Next](3-0-sol)|

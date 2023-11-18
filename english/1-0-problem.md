@@ -19,4 +19,4 @@ title: 问题分析
 
 <br/>
 
-|[Index](../) | [Previous](0-0-intro) | [Next](1-3-child)|
+|[Index](./) | [Previous](0-0-intro) | [Next](1-3-child)|

@@ -9,4 +9,4 @@ title: 理想的英语学习
 
 <br/>
 
-|[Index](../) | [Previous](1-7-pedagogy) | [Next](3-1-practise)|
+|[Index](./) | [Previous](1-7-pedagogy) | [Next](3-1-practise)|

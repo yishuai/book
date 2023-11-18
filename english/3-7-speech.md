@@ -96,4 +96,4 @@ by Yuri Lubov, Kamala’s Art
 
 <br/>
 
-|[Index](../) | [Previous](3-5-textbook) | [Next](3-10-picture-book)|
+|[Index](./) | [Previous](3-5-textbook) | [Next](3-10-picture-book)|
