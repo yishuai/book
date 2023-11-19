@@ -39,4 +39,4 @@ $$C=B \cdot log_2(1+\frac{S}{n_0 \cdot B})$$
 
 <br/>
 
-|[Index](./) | [Previous](0-3-random) | [Next](3-3-am) |
+|[Index](./) | [Previous](1-3-random) | [Next](1-15-quiz) |

@@ -100,4 +100,4 @@ MASK 是理解各种多元调制方式的基础。基于 MASK，利用“星座�
 - Qasim Chaudhari, Quadrature Amplitude Modulation (QAM), [网页](https://wirelesspi.com/quadrature-amplitude-modulation-qam/)
 <br/>
 
-|[Index](./) | [Previous](5-3-2-ary) | [Next](5-7-msk) |
+|[Index](./) | [Previous](5-4-quiz) | [Next](5-6-quiz) |

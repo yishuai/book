@@ -41,4 +41,4 @@ title: 信号和噪声的基本模型
 
 <br/>
 
-|[Index](./) | [Previous](0-1-intro) | [Next](0-13-shannon) |
+|[Index](./) | [Previous](0-5-quiz) | [Next](1-13-shannon) |

@@ -17,4 +17,4 @@ title: 数字通信
 
 <br/>
 
-|[Index](./) | [Previous](3-5-fm) | [Next](4-3-baseband) |
+|[Index](./) | [Previous](3-9-quiz) | [Next](4-3-baseband) |

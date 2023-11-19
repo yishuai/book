@@ -9,4 +9,4 @@ Enjoy。
 
 <br/>
 
-|[Index](../) | [Previous](5-7-msk) |
+|[Index](./) | [Previous](5-7-msk) |

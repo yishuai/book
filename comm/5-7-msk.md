@@ -89,4 +89,4 @@ title: 最小频移键控
 
 <br/>
 
-|[Index](./) | [Previous](5-5-m-ary) | [Next](5-7-msk) |
+|[Index](./) | [Previous](5-6-quiz) | [Next](5-8-quiz) |

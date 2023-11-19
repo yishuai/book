@@ -19,4 +19,4 @@ title: 基带通信系统的可靠性
 
 <br/>
 
-|[Index](./) | [Previous](4-9-partial) | [Next](5-3-2-ary) |
+|[Index](./) | [Previous](4-9-partial) | [Next](4-21-quiz) |
