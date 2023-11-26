@@ -13,4 +13,4 @@ title: 数字基带通信系统
 
 <br/>
 
-|[Index](./) | [Previous](4-1-digital) | [Next](4-5-codeshape) |
+|[Index](./) | [Previous](4-1-digital) | [Next](4-5-codeshape)|

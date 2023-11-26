@@ -15,9 +15,11 @@ config.codekit
 **/*uto*/
 **/prompt/
 **/book/
+**/ppt/
 **/bootcamp/
 **/dm/
 **/ai/
+**/orig/
 **/6-causal/
 *.pdf
 *.py
