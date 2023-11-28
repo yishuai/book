@@ -54,4 +54,4 @@ $$\frac{\frac{E_b}{n_0}}{\gamma} = \frac{\frac{S T_b}{n_0}}{\frac{S}{n_0 B}} = T
 
 <br/>
 
-|[Index](./) | [Previous](6-7-match-filter) | [Next](99-note)|
+|[Index](./) | [Previous](6-7-match-filter) | [Next](7-1-sampling)|
