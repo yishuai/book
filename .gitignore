@@ -20,6 +20,8 @@ config.codekit
 **/dm/
 **/ai/
 **/orig/
+**/self/
+**/reading/
 **/6-causal/
 *.pdf
 *.py
@@ -28,3 +30,4 @@ config.codekit
 *.zip
 *.txt
 *template*
+*temp*
