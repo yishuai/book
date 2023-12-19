@@ -26,6 +26,8 @@ title: 数据科学入门
 
 - 财新杂志，《就业为何难》，2023年8月14日，链接：https://weekly.caixin.com/2023-08-12/102092433.html
 
+- 微软：https://github.com/microsoft/Data-Science-For-Beginners
+
 <br/>
 
 |[Index](../) | [Next](2-ds/3-0-ds)|

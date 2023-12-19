@@ -87,6 +87,13 @@ Q 函数表示按照一定策略，在状态 s 下执行特定动作 a 后获得
 - ana/HW6-value-iter-q-learning/reinforcement-pacman, value iteration, q-learning
 - Harvard CS50 Q-learning Nim
 
+## 资源
+
+- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, [Github](https://github.com/lucidrains/llama-qrlhf), Implementation of the Llama (or any language model) architecture with RLHF + Q-learning. [Github](https://github.com/lucidrains/q-transformer)
+
+- RT-1: Robotics Transformer for Real-World Control at Scale, [Github](https://github.com/lucidrains/robotic-transformer-pytorch)
+- Yannic Kilcher's educational Q-learning video：[Youtube](https://www.youtube.com/watch?v=nOBm4aYEYR4)
+
 <br/>
 
 |[Index](index) | [Previous](6-rl-intro) | [Next](9-drl-dqn) |

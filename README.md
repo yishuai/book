@@ -1,3 +1,5 @@
+基于 https://github.com/ermongroup/cs228-notes 修改
+
 # cs228-notes
 
 These notes form a concise introductory course on probabilistic graphical models. They are based on Stanford [CS228](https://cs228.stanford.edu/), taught by [Stefano Ermon](http://cs.stanford.edu/~ermon/), and have been written by [Volodymyr Kuleshov](http://www.stanford.edu/~kuleshov), with the [help](https://github.com/ermongroup/cs228-notes/commits/master) of many students and course staff.

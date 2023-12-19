@@ -3,9 +3,10 @@ layout: post
 title: 目录
 ---
 
-6. [通信原理](comm)
+1. [探索 AI](ai-camp)
+4. [增强学习](ai-rl)
 3. [数据科学](ds)
-4. [增强学习](rl)
+6. [通信原理](comm)
 7. [英语学习](english)
 2. [学术写作](write)
 1. [寻找理想的教育](edu)
