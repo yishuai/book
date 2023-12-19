@@ -23,4 +23,4 @@ title: 前言
 
 <br/>
 
-|[Index](../) | [Previous]() | [Next]()|
+|[Index](./) | [Previous](./) | [Next](./3-material)|
