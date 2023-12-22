@@ -119,4 +119,4 @@ Bellman 方程证明了值函数的一个基本性质：它满足一定的递归
 
 <br/>
 
-|[Index](index) | [Previous](3-dec-net) | [Next](6-rl-intro) |
+|[Index](index) | [Previous](3-dec-net) | [Next](5-1-math) |
