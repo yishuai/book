@@ -45,6 +45,12 @@ title: 增强学习
 - DeepMind UCL Hadovan RL 2021 
   - Lec 5 Model Free Prediction
   - Lec 6 Model-free control
+- 上海交大伯禹增强学习 Lec 1 强化学习简介
+- 上海交大伯禹增强学习 Lec 17 3小时强化学习基础课件
+- 上海交大伯禹增强学习 Lec 3 值函数估计
+- 上海交大伯禹增强学习 Lec 4 无模型控制
+- 上海交大伯禹增强学习 Lec 5 规划与学习
+- 上海交大伯禹增强学习 Lec 6 近似逼近方法
 
 ## 课本材料
 
@@ -53,6 +59,7 @@ title: 增强学习
 ## 练习
 
 - Denny Britz + Silver RL 2015 Lab 4-5
+- 上海交大伯禹增强学习 练习 第16章-模型预测控制.ipynb
 
 <br/>
 

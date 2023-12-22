@@ -105,7 +105,8 @@ DDPG 算法也是既有 Policy 网络，又有 Q 函数网络。然后，它采�
 
 ## 练习
 
-- ms-DeepRL
+- 微软 AI-For-Beginners [DeepRL 部分](https://github.com/microsoft/AI-For-Beginners/tree/main/lessons/6-Other/22-DeepRL)
+- 上海交大伯禹增强学习 练习 第10章-Actor-Critic算法.ipynb
 - 伯克利 CS285 HW 3: Q-learning and actor-critic algorithms, [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)
 - 伯克利 CS182 DL MuJoCo implement Imitation learning, Policy Gradients, DQN, and Actor Critic algorithms.
 - 伯克利 RL bootcamp 2017 Lab 4 PG

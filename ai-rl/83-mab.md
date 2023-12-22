@@ -30,6 +30,7 @@ MAB 问题的本质是：我们需要进行尝试，来学习系统的这个状�
 - Berkeley CS285 Lec 14: Exploration (Part 2), [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 - Stanford CS234 RL Lecture 10/11/12: Fast Learning
 - Silver RL 2015 Lec 9: Exploration and Exploitation [website](https://www.davidsilver.uk/teaching/), [video](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+- 上海交大伯禹增强学习 Lec 1 强化学习简介
 
 ## 课本材料
 
@@ -40,6 +41,7 @@ MAB 问题的本质是：我们需要进行尝试，来学习系统的这个状�
 
 - CS885 [练习 2](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/assignments.html)，epsilon-greedy，UCB
 - 伯克利 CS285 HW 5: Exploration and Offline reinforcement learning, [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- 上海交大伯禹增强学习 练习 第2章-多臂老虎机问题.ipynb
 
 ## 复习题
 

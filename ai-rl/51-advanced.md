@@ -12,6 +12,18 @@ title: 挑战
 - 不清楚奖励函数应该是什么
 - 不清楚预测的作用是什么
 
+## 定理证明
+
+- 上海交大伯禹增强学习 Lec 16 强化学习部分定理证明
+
+## 大模型
+
+- 上海交大伯禹增强学习 Lec 15 决策智能大模型（英文）
+
+## 参数化行动空间
+
+- 上海交大伯禹增强学习 Lec 12 参数化行动空间
+
 ## Batch 增强学习
 
 - Stanford CS234 RL Lecture 13/14/15: Batch Reinforcement Learning
@@ -44,6 +56,9 @@ title: 挑战
 论文：
 - Haarnoja, Tang, Abbeel, Levine (2017) Reinforcement Learning with Deep Energy-Based Policies, ICML.
 - Haarnoja, Zhou, Abbeel, Levine (2018) Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor, ICML.
+
+Soft 策略迭代
+- 上海交大伯禹增强学习 练习 第14章-SAC算法.ipynb
 
 ## 伯克利 Berkeley CS285
 

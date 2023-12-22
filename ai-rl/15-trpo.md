@@ -63,6 +63,9 @@ TRPO 的问题是基于策略的 KL 散度的约束条件，实现起来很困�
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第11章-TRPO算法.ipynb
+- 上海交大伯禹增强学习 练习 第12章-PPO算法.ipynb
+- 上海交大伯禹增强学习 练习 第13章-DDPG算法.ipynb
 - 伯克利 RL bootcamp 2017 Lab 4 PG
 - CS886 [练习 2](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/assignments.html)，REINFORECE with a baseline，PPO
 - Berkeley DeepRL Camp Lab 4: Policy Optimization Algorithms. You will implement various policy optimization algorithms, including policy gradient, natural policy gradient, trust-region policy optimization (TRPO), and asynchronous advantage actor-critic (A3C). You will apply these algorithms to classic control tasks, Atari games, and roboschool locomotion environments. [website](https://sites.google.com/view/deep-rl-bootcamp/labs)
