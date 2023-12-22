@@ -92,7 +92,6 @@ title: 博弈论
 ## 课程材料
 
 - 滑铁卢 Game Theory II slides 1 and 2
-- 滑铁卢 多 Agent 的增强学习问题 PPT
 - Silver RL 2015 Lec 10: Case Study: RL in Classic Games [website](https://www.davidsilver.uk/teaching/), [video](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 ## 课本材料
@@ -101,4 +100,4 @@ title: 博弈论
 
 <br/>
 
-|[Index](index) | [Previous](87-context-bandit) |
+|[Index](index) | [Previous](87-context-bandit) | [Next](101-multi-agent) |

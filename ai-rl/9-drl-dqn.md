@@ -79,6 +79,8 @@ DeepMind 用于打游戏的 DQN 网络的结构如下：它首先通过 CNN 得�
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第7章-DQN算法.ipynb
+- 上海交大伯禹增强学习 练习 第8章-DQN改进算法.ipynb
 - Denny Britz + Silver RL 2015 Lab 6
 - 伯克利 RL bootcamp 2017 Lab 2 Chainer，Lab 3 DQN
 - 伯克利 CS182 DL MuJoCo implement Imitation learning, Policy Gradients, DQN, and Actor Critic algorithms.

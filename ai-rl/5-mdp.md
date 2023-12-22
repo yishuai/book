@@ -89,6 +89,7 @@ Bellman 方程证明了值函数的一个基本性质：它满足一定的递归
   - DeepMind UCL Hadovan RL 2021 Lec 3 MDPs and Dynamic Programming
   - DeepMind UCL Hadovan RL 2021 Lec 4 Theoretical Fundamentals of DP Algorithms
 - Stanford CS234 RL Lecture 2: Tabular MDP planning
+- 上海交大伯禹增强学习 Lec 2 马尔可夫决策过程
 
 ## 课本材料
 - Dive in Deep Learning，[17. Reinforcement Learning](https://d2l.ai/chapter_reinforcement-learning/index.html) 的 Value iteration 部分
@@ -99,6 +100,8 @@ Bellman 方程证明了值函数的一个基本性质：它满足一定的递归
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第3章-马尔可夫决策过程.ipynb
+- 上海交大伯禹增强学习 练习 第4章-动态规划算法.ipynb
 - Denny Britz + Silver RL 2015 Lab 1-3
 - Stanford CS234 DRL Assignment 1 Frozen Lake MDP
 - 滑铁卢大学 CS 486 [编程练习 4](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring23/assignments.html)。

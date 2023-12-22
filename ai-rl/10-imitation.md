@@ -30,6 +30,7 @@ title: 模拟策略学习
 - 滑铁卢 CS885 RL PPT
 - 伯克利 CS182 深度学习，Imitation Learning PPT，上课视频 [B 站](https://www.bilibili.com/video/BV1PK4y1U751?p=42)，讨论材料 8
 - Berkeley CS285 Lec 2: Supervised Learning of Behaviors, [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+- 上海交大伯禹增强学习 Lec 10 模仿学习
 
 ## 课本材料
 
@@ -37,6 +38,7 @@ N/A
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第15章-模仿学习.ipynb
 - 伯克利 CS285 HW 1: Imitation learning (control via supervised learning), [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)
 - 伯克利 CS182 DL MuJoCo implement Imitation learning, Policy Gradients, DQN, and Actor Critic algorithms.
 - 斯坦福 CS224R DRL HW 1: Imitation

@@ -10,6 +10,7 @@ title: 离线学习
 - 滑铁卢 CS885 RL PPT
 - Berkeley CS285 Lec 15: Offline Reinforcement Learning (Part 1), [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 - Berkeley CS285 Lec 16: Offline Reinforcement Learning (Part 2), [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
+- 上海交大伯禹增强学习 Lec 11 离线强化学习
 
 ## 论文
 
@@ -24,6 +25,7 @@ title: 离线学习
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第18章-离线强化学习.ipynb
 - CS886 [练习 2](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/assignments.html)，conservative Q-Learning 
 - 伯克利 CS285 HW 5: Exploration and Offline reinforcement learning, [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)
 - 斯坦福 CS224R DRL HW 3: Offline Mujoco

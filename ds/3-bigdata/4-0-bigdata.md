@@ -15,6 +15,10 @@ title: 大数据处理基本概念
 
 学完这一节后，我们基于大数据的数据科学的技术现状就会有一个基本的了解，从而打开大数据数据科学的大门。
 
+## 
+
+IBM Big Data Foundations: https://cognitiveclass.ai/learn/big-data, Hadoop, Spark, Big Data
+
 <br/>
 
 |[Index](../) | [Previous](3-9-tool) | [Next](4-3-hdfs) |

@@ -55,6 +55,7 @@ AlphaGo 横空出世，用深度 RL 训练围棋机器人，打败了世界冠�
   - Lec 11: Model-Based Reinforcement Learning, [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
   - Lec 12: Model-Based Policy Learning, [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 - Berkeley Deep RL Bootcamp 2017, Lecture 9 Model-based RL -- Chelsea Finn ([video](https://youtu.be/iC2a7M9voYU) | [slides](https://drive.google.com/file/d/0BxXI_RttTZAhRTBqQmc5R0pGQlE/view?usp=sharing&resourcekey=0-iPmbJTrQ8-BoCFdRKPh4rQ))
+- 上海交大伯禹增强学习 Lec 9 基于模型的深度强化学习
 
 ## 课本材料
 
@@ -62,6 +63,7 @@ AlphaGo 横空出世，用深度 RL 训练围棋机器人，打败了世界冠�
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第17章-基于模型的策略优化.ipynb
 - 伯克利 CS285 HW 4: Model-based reinforcement learning, [Website](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## 论文

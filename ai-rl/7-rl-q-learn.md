@@ -69,6 +69,7 @@ Q 函数表示按照一定策略，在状态 s 下执行特定动作 a 后获得
 - Berkeley CS285 Lec 7: Value Function Methods, [slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)
 - Stanford CS234 RL Lecture 4: Q-learning
 - Silver RL 2015 Lec 5: Model-Free Control [website](https://www.davidsilver.uk/teaching/), [video](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+- 上海交大伯禹增强学习 Lec 7 深度强化学习价值方法
 
 ## 课本材料
 
@@ -78,6 +79,8 @@ Q 函数表示按照一定策略，在状态 s 下执行特定动作 a 后获得
 
 ## 练习
 
+- 上海交大伯禹增强学习 练习 第5章-时序差分算法.ipynb
+- 上海交大伯禹增强学习 练习 第6章-Dyna-Q算法.ipynb
 - CS486 [练习 4](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring23/assignments.html)。
   - Q-Learning 练习：修改 RL.py 代码，实现 Q-Learning 算法。注意：该代码用 MDP.py 代码里的 MDP 对象，实现状态转移和 Reward 仿真。
 - CS885 [练习 1](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall22/assignments.html)，Q-Learning
@@ -86,6 +89,13 @@ Q 函数表示按照一定策略，在状态 s 下执行特定动作 a 后获得
 - Berkeley DeepRL Camp Lab 1: Markov Decision Processes. You will implement value iteration, policy iteration, and tabular Q-learning and apply these algorithms to simple environments including tabular maze navigation (FrozenLake) and controlling a simple crawler robot. [website](https://sites.google.com/view/deep-rl-bootcamp/labs)
 - ana/HW6-value-iter-q-learning/reinforcement-pacman, value iteration, q-learning
 - Harvard CS50 Q-learning Nim
+
+## 资源
+
+- Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, [Github](https://github.com/lucidrains/llama-qrlhf), Implementation of the Llama (or any language model) architecture with RLHF + Q-learning. [Github](https://github.com/lucidrains/q-transformer)
+
+- RT-1: Robotics Transformer for Real-World Control at Scale, [Github](https://github.com/lucidrains/robotic-transformer-pytorch)
+- Yannic Kilcher's educational Q-learning video：[Youtube](https://www.youtube.com/watch?v=nOBm4aYEYR4)
 
 <br/>
 
