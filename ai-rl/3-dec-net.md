@@ -39,4 +39,4 @@ title: 决策网络
 
 <br/>
 
-|[Index](index) | [Previous](2-coding) | [Next](5-mdp) |
+|[Index](index) | [Previous](2-coding) | [Next](5-0-mdp) |

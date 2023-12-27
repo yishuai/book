@@ -139,4 +139,4 @@ $$
 
 <br/>
 
-| [Index](./) |  [Previous](5-mdp) |  [Next](5-2-bellman-equation)| 
+| [Index](./) |  [Previous](5-0-mdp) |  [Next](5-2-bellman-equation)| 
