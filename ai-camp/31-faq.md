@@ -23,4 +23,4 @@ title: FAQ
 
 <br/>
 
-|[Index](./) | [Previous](25-ai-physics) | [Next](./)|
+|[Index](./) | [Previous](./27-ng-ai) | [Next](./)|

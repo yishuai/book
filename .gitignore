@@ -31,3 +31,4 @@ config.codekit
 *.txt
 *template*
 *temp*
+*.ppt*

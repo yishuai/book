@@ -27,4 +27,4 @@ title: 真实物理世界中的 AI
 
 <br/>
 
-|[Index](./) | [Previous](23-ml-arts) | [Next](31-faq)|
+|[Index](./) | [Previous](23-ml-arts) | [Next](./27-ng-ai)|

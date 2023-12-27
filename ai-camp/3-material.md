@@ -14,6 +14,7 @@ title: 致谢
 4. MIT App Inventor AI
 5. Technovation Girls AI
 6. NYU Tisch Arts School Machine Learning for Arts
+7. Ng AI for Everyone
 
 下面我们分节介绍这些课程材料的详细内容。
 

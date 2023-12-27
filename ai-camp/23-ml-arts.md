@@ -28,9 +28,15 @@ title: AI 交互艺术项目
 
 - MIT Media Lab，[小说生成器](https://mitmedialab.github.io/generative-text/)，基于 ml5.js 的 CharRNN，打开开发者工具，可以看到源码
 
+- AI 生成音乐，网址：www.suno.ai，免费大约能生成 5 次指令，每次 2 首。示例指令：创作一首中文歌曲，是一个糖尿病科普教育的片头曲，希望是欢快，信心，健康，阳光，充满激励和关爱。结果出来的，超过想象。
+
 ## 参考
 
 - Daniel Shiffman and ml5.js collaborators, ml5: Friendly Open Source Machine Learning Library for the Web, June 15, 2018, [Webpage](https://itp.nyu.edu/adjacent/issue-3/ml5-friendly-open-source-machine-learning-library-for-the-web/)
+
+## 会议
+
+- 斯坦福 2023 年 5 月，Creativity in the Age of AI: AI Impacting Arts, Arts Impacting AI 研讨会，[视频](https://hai.stanford.edu/events/spring-symposium-creativity-age-ai-ai-impacting-arts-arts-impacting-ai)
 
 <br/>
 

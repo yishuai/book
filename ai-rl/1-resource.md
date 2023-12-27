@@ -99,6 +99,10 @@ AI 课本
 
 - 斯坦福 CS234 [项目列表](https://web.stanford.edu/class/cs234/project.html)
 
+## 其他
+
+- Sutton 老师所在的加拿大 Alberta 大学强化学习课程，[Coursera](https://www.coursera.org/specializations/reinforcement-learning/)
+
 <br/>
 
 |[Index](index) | [Previous](0-intro) | [Next](2-coding) |
