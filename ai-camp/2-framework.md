@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 学生 AI 能力框架
+title: 目标
 ---
 
-联合国教科文组织 UNESCO 的面向学生 AI 能力的框架。这个框架包括 5 个方面：Mindset、Ethics、基础、技术、解决问题。每个方面包括 3 个层次：理解、应用、创造。
+联合国教科文组织 UNESCO 正在制定面向学生的 AI 能力框架。该框架十分科学，正是我们的 AI 课程想要达到的目标。
 
-“Children learn best when they are actively engaged in constructing something that has
-personal meaning to them.”
-	        – Seymour Papert
+这 5 方面目标是：Mindset、Ethics、基础、技术、解决问题。每个方面又分为 3 个层次：理解、应用、创造。下面是各个方面的三个层次的具体目标。
 
 第一个方面：Human-centred mindset
 
@@ -103,6 +101,7 @@ Create: Co-creation and Feedback Loops- Identifies problems to support human rig
 - Implements AI solutions to solve a problem in collaboration with others
 - Provides and receives constructive feedback from peers and community
 - Assesses the process from design thinking or other problem-solving methodologies
+
 
 ## 参考
 

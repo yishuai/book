@@ -3,7 +3,7 @@ layout: post
 title: ISTE 课程
 ---
 
-[ISTE AI](https://iste.org/ai) 是 International Society for Technology in Education 协会下的 AI 模块。
+[ISTE AI](https://iste.org/ai) 是 International Society for Technology in Education（国际教育技术协会）下的 AI 模块。
 
 ISTE AI 材料的特点是：内容非常专业，专业水准极高。比如在面向小学 5 年级的课程材料中，就包括了对 Claude Shannon 的介绍材料，也提到了 AGI 和 Narrow AI 的区别。这些非常优质的材料，让我们能够和人类最优秀的智慧，建立连接。这些极具水准的课程内容，让我钦佩。
 

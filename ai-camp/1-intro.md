@@ -15,6 +15,10 @@ title: 前言
 
 《终身幼儿园》指出：十年后，我们有 2/3 的可能，会从事目前尚未发明出来的工作。面对这种不确定的未来，教育要向幼儿园学习，支持我们成为具有创造力，具有“4P”学习能力：项目（Project）、热情（Passion）、同伴（Peers）、游戏（Play）的学习者。具体来说，由项目切入，从热情出发，同伴协作互助，游戏启动内驱，建立创造性学习的螺旋，获得创造性学习体验。
 
+“Children learn best when they are actively engaged in constructing something that has
+personal meaning to them.”
+	        – Seymour Papert
+
 本课程的后续课程是数据科学、机器学习、人工智能、生成式人工智能。
 
 ## 参考

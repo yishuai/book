@@ -3,7 +3,7 @@ layout: post
 title: Everyday AI 课堂活动
 ---
 
-[Everyday AI](https://everyday-ai.org/resources) 为中学老师提供 AI 相关的各种“活动”资源，目标是培养同学们对 AI 的兴趣。
+源自 MIT 和波士顿学院的 [Everyday AI](https://everyday-ai.org/resources) 为中学老师提供 AI 相关的各种“活动”资源，目标是培养同学们对 AI 的兴趣。
 
 ## AI 系统活动
 
