@@ -11,7 +11,9 @@ title: 增强学习
 第 2 章，决策学习
 1. [决策网络](3-dec-net)
 1. [马尔可夫决策过程](5-mdp)
-2. [MDP 数学模型](5-1-math)
+1. [MDP 数学模型](5-1-math)
+1. [贝尔曼方程](5-2-bellman-equation)
+1. [贝尔曼最优方程](5-3-Bellman-optimality-equation)
 
 第 3 章，增强学习
 1. [简介](6-rl-intro)

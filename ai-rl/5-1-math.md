@@ -133,8 +133,10 @@ $$
 \upsilon_\pi(s)=\sum_{a\in \mathcal{A(s)}}\pi(a \mid s) \bigg[\sum_{r\in\mathcal{R(s,a)}}p(r \mid s,a)·r+\gamma\sum_{s'\in \mathcal{S}}\upsilon_\pi(s')p(s' \mid s,a) \bigg]
 $$
 
-对于任意的状态 s 都要满足等式(5)。
+对于任意的状态 s 都要满足上面等式。这个等式被称为Bellman equation，这个方程是强化学习算法的基本工具。
+
+
 
 <br/>
 
-| [Index](./) |  [Previous](5-mdp) |  [Next](6-rl-intro)| 
+| [Index](./) |  [Previous](5-mdp) |  [Next](5-2-bellman-equation)| 
