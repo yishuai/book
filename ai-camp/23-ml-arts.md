@@ -30,6 +30,8 @@ title: AI 交互艺术
 
 - AI 生成音乐，网址：www.suno.ai，免费大约能生成 5 次指令，每次 2 首。示例指令：创作一首中文歌曲，是一个糖尿病科普教育的片头曲，希望是欢快，信心，健康，阳光，充满激励和关爱。结果出来的，超过想象。
 
+- Refik Anadol, MIT Generative AI Shaping The Future Keynote AI Art，[Youtube](https://youtu.be/qsrNb67DYEE?si=vttTwlvHHVAA0eS0), 2023 年 12 月
+
 ## 参考
 
 - Daniel Shiffman and ml5.js collaborators, ml5: Friendly Open Source Machine Learning Library for the Web, June 15, 2018, [Webpage](https://itp.nyu.edu/adjacent/issue-3/ml5-friendly-open-source-machine-learning-library-for-the-web/)

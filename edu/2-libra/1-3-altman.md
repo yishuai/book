@@ -3,7 +3,9 @@ layout: post
 title: 一天很长，十年很短
 ---
 
-2023年初，OpenAI 的 ChatGPT 横空出世。一时间，身边所有的人都在用它，我也倾心于它带来的海量知识和思维方式的改变。然后看到《创业邦》发表的 OpenAI 负责人 Sam Altman 在 2015 年，他 30 岁时写的生活建议，非常喜欢。对这些建议，我很有同感，因此就和 Kassy 一起，基于创业邦的中文翻译，商量着，完成了下面的翻译和原文：
+OpenAI 负责人 Sam Altman 喜欢分享自己的生活经验。下面是他的两篇文章。第一篇是他在 2015 年，30 岁时写的，第二篇是 2023 年底写的。注意第二篇写于他终于走出和董事会的纠葛之后。这些话，应该被张贴到墙上，不时回忆。
+
+## 一天很长，十年很短
 
 上周我 30 岁了.一位朋友问我在过去十年中是否找到了值得传授的人生建议。我有点犹豫要不要发布这个，因为我认为这些列表通常看起来很空洞(hollow)，但这是我的答案整理后的版本
 
@@ -153,9 +155,66 @@ title: 一天很长，十年很短
 
     -  The days are long but the decades are short.
 
+## 我希望有人告诉我的话
+
+What I Wish Someone Had Told Me
+
+1. 乐观、痴迷、自信、原始动力和人际关系是一切的开始。
+    - Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started.
+
+1. 具有凝聚力的团队、冷静与紧迫感的正确结合，以及不合常理的承诺，是事情得以完成的方式。目光长远是稀缺的；尽量不要担心人们短期内的想法，随着时间的推移，这会变得更容易。
+    - Cohesive teams, the right combination of calmness and urgency, and unreasonable commitment are how things get finished. Long-term orientation is in short supply; try not to worry about what people think in the short term, which will get easier over time.
+
+1. 对于团队来说，做一件真正重要的困难的事，比做一件不重要的简单的事，更容易；大胆的想法能够激励人们。
+    - It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn’t really matter; audacious ideas motivate people.
+
+1. 激励是超能力；仔细设置它们。
+    - Incentives are superpowers; set them carefully.
+
+1. 将您的资源集中在少量高可信度的赌注上；这说起来容易，但做起来显然很难。您可以删除的内容比您想象的还要多。
+    - Concentrate your resources on a small number of high-conviction bets; this is easy to say but evidently hard to do. You can delete more stuff than you think.
+
+1. 清晰、简洁地沟通。
+    - Communicate clearly and concisely.
+
+1. 每次看到废话和官僚主义时都与它斗争，并让其他人也与之斗争。不要让组织结构图妨碍人们高效地合作。
+    - Fight bullshit and bureaucracy every time you see it and get other people to fight it too. Do not let the org chart get in the way of people working productively together.
+
+1. 结果才是最重要的；不要让好的过程成为不好的结果的借口。
+    - Outcomes are what count; don’t let good process excuse bad results.
+
+1. 花更多的时间去招聘。为那些进步速度快的高潜力人才承担风险。除了智力之外，还要寻找候选人能够完成任务的证据。
+    - Spend more time recruiting. Take risks on high-potential people with a fast rate of improvement. Look for evidence of getting stuff done in addition to intelligence.
+
+1. 超级明星比他们看起来更有价值，但你必须根据他们对组织绩效的净影响来评估他们。
+    - Superstars are even more valuable than they seem, but you have to evaluate people on their net impact on the performance of the organization.
+
+1. 快速迭代可以弥补很多；如果迭代速度很快，犯错通常是可以接受的。计划应该以几十年来衡量，执行应该以几周来衡量。
+    - Fast iteration can make up for a lot; it’s usually ok to be wrong if you iterate quickly. Plans should be measured in decades, execution should be measured in weeks.
+
+1. 不要违背相当于物理定律的商业法则。
+    - Don’t fight the business equivalent of the laws of physics.
+
+1. 灵感易逝，生活过得很快。不作为是一种特别隐蔽的风险。
+    - Inspiration is perishable and life goes by fast. Inaction is a particularly insidious type of risk.
+
+1. 规模常常具有令人惊讶的涌现特性。
+    - Scale often has surprising emergent properties.
+
+1. 复利指数是神奇的。特别是，您确实希望建立一家能够通过规模获得复合优势的企业。
+    - Compounding exponentials are magic. In particular, you really want to build a business that gets a compounding advantage with scale.
+
+1. 重新站起来并继续前进。
+    - Get back up and keep going.
+
+1. 与优秀的人一起工作是生活中最美好的部分之一。
+    - Working with great people is one of the best parts of life.
+
 ### 参考文献
 
 - Sam Altman，The days are long but the decades are short，[网页链接](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
+- Sam Altman，What I Wish Someone Had Told Me, December 22, 2023, [网页链接](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 
 - 沃特敦，26岁财富自由，30岁已经历成功人士的一生，OpenAI掌门人的36条人生经验， 创业邦，2023-04-24，[网页链接](https://mp.weixin.qq.com/s/6CtbiPj_1UqFbb3wWNvG8A)
 

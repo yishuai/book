@@ -25,6 +25,11 @@ title: 物理世界中的 AI 进化
 
 - [图书](https://nature-of-code-2nd-edition.netlify.app/neuroevolution/)，[图书的源代码](https://github.com/shiffman/The-Nature-of-Code)，[示例](https://github.com/shiffman/The-Nature-of-Code-Examples)，[网站](https://natureofcode.com/)
 
+## 动画
+
+- Animation vs. Physics，[Youtube](https://www.youtube.com/watch?v=ErMSHiQRnc8)
+- Animation vs. Math，[Youtube](https://www.youtube.com/watch?v=B1J6Ou4q8vE&t=12s)
+
 <br/>
 
 |[Index](./) | [Previous](23-ml-arts) | [Next](./27-ng-ai)|
