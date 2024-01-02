@@ -8,7 +8,6 @@ config.codekit
 **/inprog/
 **/assign/
 **/src*/
-**/project/
 **/*master/
 **/umich/
 **/*cs50*/
