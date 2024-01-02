@@ -5,12 +5,12 @@ title: 寻找理想的教育
 
 [前言](intro)
 
-第 1 章，我的教育之路
+第 1 章，经历
 1. [一次研究生同学答辩](1-intro/1-zhao)
-1. [我的中学：独立思考，搞定高考](1-intro/2-mid-school)
-1. [我的大学：像科学家那样思考](1-intro/3-university)
-1. [来到纽约](1-intro/4-newyork)
-1. [实务学堂 I：探索全人的教育](1-intro/5-shiwu)
+1. [中学：独立思考，搞定高考](1-intro/2-mid-school)
+1. [大学：像科学家那样思考](1-intro/3-university)
+1. [纽约：思想的横冲直撞](1-intro/4-newyork)
+1. [实务学堂 I：全人教育](1-intro/5-shiwu)
 1. [实务学堂 II：自立与职业的教育](1-intro/6-camp)
 1. [全人教育](1-intro/8-content)
 

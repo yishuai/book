@@ -18,8 +18,8 @@ config.codekit
 **/ppt/
 **/bootcamp/
 **/dm/
-**/ai/
 **/orig/
+**/ai/
 **/self/
 **/reading/
 **/6-causal/
@@ -32,3 +32,4 @@ config.codekit
 *template*
 *temp*
 *.ppt*
+*.doc*
