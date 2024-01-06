@@ -85,6 +85,10 @@ Deep reinforcement learning policy gradient papers
 - Schulman, L., Moritz, Jordan, Abbeel (2015). Trust region policy optimization: deep RL with natural policy gradient and adaptive step size
 - Schulman, Wolski, Dhariwal, Radford, Klimov (2017). Proximal policy optimization algorithms: deep RL with importance sampled policy gradient
 
+## 最新论文
+
+- Pairwise Proximal Policy Optimization (P3O), Dec 2023， 伯克利 BAIR， RLHF 是基于“比较”的，因此，改进 PPO 支持比较，[Blog](http://bair.berkeley.edu/blog/2023/10/16/p3o/)
+
 <br/>
 
 |[Index](index) | [Previous](13-actor-critic) | [Next](17-reward) |

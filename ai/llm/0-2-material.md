@@ -34,11 +34,14 @@ title: 材料
 
 第四类是聚焦应用开发的课程，这包括 Ng 老师的入门课，DeepLearing 网站上的全套练习课；伯克利 LLM 训练营；
 
-- Ng 老师 Generative AI for Everyone 课程（[B 站视频](https://www.bilibili.com/video/BV11G411X7nZ)，[Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)）。该课程包括 30 课，6 小时，三个单元：简介，项目，商业与社会。
+- Ng 老师 
+  - Generative AI for Everyone 课程（[B 站视频](https://www.bilibili.com/video/BV11G411X7nZ)，[Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)）。该课程包括 30 课，6 小时，三个单元：简介，项目，商业与社会。
+  - DeepLearning.AI，[网站](https://www.deeplearning.ai/)
 
-- Ng 老师 DeepLearning.AI，[网站](https://www.deeplearning.ai/)
-
-- 伯克利，LLM 训练营，全栈深度学习，[LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)，2023
+- 伯克利
+  - LLM 训练营，全栈深度学习，[LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)，2023
+  - CS294/194-196: Responsible GenAI and Decentralized Intelligence, [Website](https://rdi.berkeley.edu/responsible-genai/f23)
+  - The Future of Decentralization, AI, and Computing Summit! [Website](https://rdi.berkeley.edu/events/decentralizationaisummit)
 
 第五类是面向科研人员的快速技术培训课程，包括 Karpathy 老师的介绍课。
 

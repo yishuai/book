@@ -15,6 +15,10 @@ title: 模型和数据的规模
 
 - 斯坦福 CS324 2022 年 [Scaling Laws](https://stanford-cs324.github.io/winter2022/lectures/scaling-laws/)
 
+- Berkeley Summit 2023, Princeton, Open Dataset and Decentralized Compute for LLMs, Slides, Video, Tri Dao, 提出 Flash Attention 等硬件优化的模型，实现 RedPajama，规模比得上 Llama
+
+- Berkeley Summit 2023, Berkeley, Rethinking LLM Evaluation, Slides, Video, Ion Stonica，用 GPT-4 评估 Vicuna，发现和人的评估有 80% 一致，还是不错的。
+
 ## 论文
 
 普林斯顿大学课程参考论文

@@ -35,6 +35,8 @@ FLAN-T5 进行指令微调的大规模指令数据集是 Super-Natural Instructi
 
 - 约翰霍普金斯 UA 2023 Talk, Yizhong Wang, Instruction Tuning of Large Language Models
 
+- Berkeley Summit 2023, Stanford, Building and Studying Instruction-following Models, Slides, Video, Alpaca Tri：做指令微调的实验框架，先用 GPT-4 来做评估，然后再做真人评估
+
 ## 练习
 
 - 斯坦福 CS224U, BERT fine-tuning with Hugging Face，[ipynb](https://github.com/cgpotts/cs224u/blob/main/finetuning.ipynb)

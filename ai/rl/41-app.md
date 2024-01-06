@@ -101,6 +101,19 @@ Diffusion Policy
 
     The great thing is, if this really works, all the advances being made in text-to-image space can translate to robotics. Yes, this includes stuff like dreambooth and perfusion.
 
+## NLP RL
+
+- RL4LMS：自然语言处理的各种任务，比如总结、推理、对话，也可以通过增强学习来训练。RL4LM 是 Choi 老师团队 2022 年开发的，利用它，可以很方便地用各种自然语言质量指标，如 BLEU，作为 Reward，页实现了 PPO、A2C、TRPO、NLPO（自然语言 PO）等增强学习算法，值得学习。[Website](https://rl4lms.apps.allenai.org/)
+
+## 医疗诊断 RL
+
+- 复旦大学，Task-oriented Dialogue System for Automatic Disease Diagnosis via Hierarchical Reinforcement Learning, 2020 年，[Github](https://github.com/nnbay/MeicalChatbot-HRL)， 基于复旦大学医疗诊断对话数据集 [Dataset](http://www.sdspeople.fudan.edu.cn/zywei/data/Fudan-Medical-Dialogue2.0)，[Semantic Scholar](https://www.semanticscholar.org/paper/Task-oriented-Dialogue-System-for-Automatic-Disease-Liao-Liu/e014af8ae8d7dbd3c1c908dfba334a6d2181b8e1) 33 个引用，用 RL 的还挺多。
+
+- 复旦大学，Task-oriented Dialogue System for Automatic Diagnosis，2018，[Github](https://github.com/LiuQL2/MedicalChatbot) 
+
+## 电网管理
+
+- ICLR 2021 Winning the L2RPN Challenge: Power Grid Management via Semi-Markov Afterstate Actor-Critic
 
 <br/>
 

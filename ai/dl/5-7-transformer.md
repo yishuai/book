@@ -75,13 +75,17 @@ Transformer 的不足是它采用注意力机制。该机制的计算复杂度�
 - 画图说明 Masked attention 的基本原理，写出其数学形式。解释为什么需要它
 - 画出 Transfomer 的结构图，解释每一个模块的作用
 
-## 练习
+### 练习
 
 - CS224N: Hugging Face Transformers Tutorial，[Colab](https://colab.research.google.com/drive/1pxc-ehTtnVM72-NViET_D2ZqOlpOi2LH?usp=sharing)
 
 - 多伦多大学 Pascal Poupart 老师 CS480 深度学习课程的[练习4](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-winter23/assignments.html)。内容为 RNN 自然语言处理模型。模型包括：RNN 编码器（分类），解码器（生成），Seq2Seq（翻译）。代码已可以跑通。需要对代码进行如下修改：GRU/LSTM、解码输入（包括Category）、Attention、Transformer。
 
 - Transformer [腾讯文档](https://docs.qq.com/doc/DT3VSdXV5UEVleGpz)
+
+## 参考
+
+- Berkeley Summit 2023, NVIDIA, Megatron-LM, Slides, Video
 
 <br/>
 

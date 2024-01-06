@@ -14,6 +14,8 @@ title: 多智能体强化学习
 
 - 上海交大伯禹增强学习 练习 第20章-多智能体强化学习入门.ipynb
 - 上海交大伯禹增强学习 练习 第21章-多智能体强化学习进阶.ipynb
+- Berkeley Summit 2023, OpenAI, Learning to Cooperate and Compete via Self Play, Slides, Video
+- Berkeley Summit 2023, Berkeley, Keynote: An Alternative View on AI: Collaborative Learning, Incentives, and Social Welfare, Slides, Video
 
 <br/>
 

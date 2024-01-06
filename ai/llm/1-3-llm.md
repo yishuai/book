@@ -46,6 +46,8 @@ Electra 引入了敌对的方法。它的方法是：用 BERT 对 Mask 后的单
 
 - [The Illustrated BERT, ELMo, and co](https://jalammar.github.io/illustrated-bert/)
 
+- Berkeley CS294/194-196: Responsible GenAI, Berkeley, Foundations of LLM (slides)
+
 ## 论文
 
 BERT (encoder-only models)

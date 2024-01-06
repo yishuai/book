@@ -24,6 +24,10 @@ title: 编程工具
 
 大家如果是 Mac 电脑的话，可以尝试打开 Mac 自带的 GPU 加速。HuggingFace 的指南 《[Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)》 供参考。
 
+## 开源生态
+
+- State of Open Source AI Book - 2023 Edition，[Webpage](https://book.premai.io/state-of-open-source-ai/)
+
 <br/>
 
 |[Index](./) | [Previous](29-web) | [Next](50-project)
