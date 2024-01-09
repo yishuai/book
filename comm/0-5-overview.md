@@ -45,4 +45,4 @@ title: 通信系统基本概念
 
 <br/>
 
-|[Index](./) | [Previous](0-1-intro) | [Next](1-3-random)|
+|[Index](./) | [Previous](0-1-intro) | [Next](./0-7-lib-2023)|
