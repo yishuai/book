@@ -87,4 +87,4 @@ Deep reinforcement learning policy gradient papers
 
 <br/>
 
-|[Index](index) | [Previous](13-actor-critic) | [Next](17-reward) |
+|[Index](index) | [Previous](13-actor-critic) | [Next](15-1-trpo-detail) |
