@@ -48,10 +48,8 @@ $$
 s(x_i\mid\theta)=\nabla_{\theta}logf(x_i\mid\theta)=\frac{\nabla_{\theta}f(x_i\mid\theta)}{f(x_i\mid\theta)} \notag\\
 =(\frac{1}{f(x_i\mid\theta)}·\frac{\partial f(x_i\mid\theta)}{\partial \theta_1},\frac{1}{f(x_i\mid\theta)}·\frac{\partial f(x_i\mid\theta)}{\partial \theta_2},\frac{1}{f(x_i\mid\theta)}·\frac{\partial f(x_i\mid\theta)}{\partial \theta_3},...)\\
 s(X\mid\theta)=\nabla_{\theta}logf(X\mid\theta)=
-
 \begin{bmatrix}
 \frac{1}{f(x_1\mid\theta)}·\frac{\partial f(x_1\mid\theta)}{\partial \theta_1}&\frac{1}{f(x_1\mid\theta)}·\frac{\partial f(x_1\mid\theta)}{\partial \theta_2}& \cdots&\frac{1}{f(x_1\mid\theta)}·\frac{\partial f(x_1\mid\theta)}{\partial \theta_n}\\
-
 \frac{1}{f(x_2\mid\theta)}·\frac{\partial f(x_2\mid\theta)}{\partial \theta_1}&\frac{1}{f(x_2\mid\theta)}·\frac{\partial f(x_2\mid\theta)}{\partial \theta_2}& \cdots&\frac{1}{f(x_2\mid\theta)}·\frac{\partial f(x_2\mid\theta)}{\partial \theta_n}\\
 \vdots & \vdots &\ddots& \vdots\\
 \frac{1}{f(x_m\mid\theta)}·\frac{\partial f(x_m\mid\theta)}{\partial \theta_1}&\frac{1}{f(x_m\mid\theta)}·\frac{\partial f(x_m\mid\theta)}{\partial \theta_2}& \cdots&\frac{1}{f(x_m\mid\theta)}·\frac{\partial f(x_m\mid\theta)}{\partial \theta_n}
@@ -60,7 +58,6 @@ $$
 score function 性质 :
 $$
 \mathbb{E}_{X\sim f(x\mid\theta)}[s(X\mid\theta)]=0 \\
-
 \begin{align}
 证明:\mathbb{E}_{X\sim f(x\mid\theta)}[s(X\mid\theta)]=&\sum_{i=1}^n f(x_i\mid\theta)·s(x_i\mid\theta) \notag \\
 =&\sum_{i=1}^n f(x_i\mid\theta)·\frac{\nabla_{\theta}f(x_i\mid\theta)}{f(x_i\mid\theta)}\notag\\
@@ -93,15 +90,12 @@ H(log[f(X\mid\theta)])&=\nabla_{\theta}s(X\mid\theta)\notag\\
 &=\frac{H(f(X\mid\theta))·f(X\mid\theta)-\nabla_{\theta}f(X\mid\theta)\nabla_{\theta}f(X\mid\theta)^T}{f(X\mid\theta)·f(X\mid\theta)}\notag\\
 &=\frac{H(f(X\mid\theta))·f(X\mid\theta)}{f(X\mid\theta)·f(X\mid\theta)}-\frac{\nabla_{\theta}f(X\mid\theta)\nabla_{\theta}f(X\mid\theta)^T}{f(X\mid\theta)·f(X\mid\theta)}\notag\\
 &=\frac{H(f(X\mid\theta)}{f(X\mid\theta)}-\left(\frac{\nabla_{\theta}f(X\mid\theta }{f(X\mid\theta)}\right)·\left(\frac{\nabla_{\theta}f(X\mid\theta)}{f(X\mid\theta)}\right)^T\notag\\
-
 \mathbb{E}_{X\sim f(x\mid\theta)}[H(log[f(X\mid\theta)])]&=\mathbb{E}_{X\sim f(x\mid\theta)}\bigg[  \frac{H(f(X\mid\theta)}{f(X\mid\theta)}-\left(\frac{\nabla_{\theta}f(X\mid\theta }{f(X\mid\theta)}\right)·\left(\frac{\nabla_{\theta}f(X\mid\theta)}{f(X\mid\theta)}\right)^T \bigg]\notag\\
 &=\mathbb{E}_{X\sim f(x\mid\theta)}\bigg[ \frac{H(f(X\mid\theta))}{f(X\mid\theta)}\bigg]-\mathbb{E}_{X\sim f(x\mid\theta)}\bigg[ \left(\frac{\nabla_{\theta}f(X\mid\theta }{f(X\mid\theta)}\right)·\left(\frac{\nabla_{\theta}f(X\mid\theta)}{f(X\mid\theta)}\right)^T\bigg]\notag\\
 &=\int f(x\mid\theta)·\frac{H(f(x\mid\theta))}{f(x\mid\theta)}dx-\mathbb{E}_{X\sim f(x\mid\theta)}[\nabla_{\theta}logf(X\mid\theta)·\nabla_{\theta}logf(X\mid\theta)^T]\notag\\
 &=H(\int f(x\mid \theta)dx)-F\notag\\
 &=H(1)-F\notag\\
 &=-F\notag\\
-
-
 F&=-\mathbb{E}_{X\sim f(x\mid\theta)}[H(log[f(X\mid\theta)])]
 \end{align}
 $$
@@ -187,7 +181,6 @@ $$
 $$\mathcal{L}(\theta+d)$$最小时,$$\nabla_{d}\mathcal{L}(\theta+d)=0$$,即:
 $$
 \nabla_{d}(\mathcal{L}(\theta)+\nabla_{\theta}\mathcal{L}(\theta)^Td+\frac{1}{2}\lambda d^TFd-\lambda c)=0\\
-
 \nabla_{\theta}\mathcal{L}(\theta)+\lambda Fd=0\\
 d=-\frac{1}{\lambda}F^{-1}\nabla_{\theta}\mathcal{L}(\theta)
 $$
@@ -223,6 +216,11 @@ F(\theta)^{-1}=\mathbb{E}_{s\sim \rho^{\pi}(s)}[F_s(\theta)]\\
 F_s(\theta)=\mathbb{E}_{\pi(a;s,\theta)}[\frac{\partial log\pi(a;s,\theta)}{\partial\theta_i}\frac{\partial log\pi(a;s,\theta)}{\partial\theta_j}]
 $$
 再根据$$\theta=\theta+d$$进行策略网络参数的更新.
+
+原文链接:
+[Kakade, Sham M. "A natural policy gradient." Advances in neural information processing systems. 2002.](https://proceedings.neurips.cc/paper_files/paper/2001/file/4b86abe48d358ecf194c56c69108433e-Paper.pdf)
+
+[John Schulman,Sergey Levine."Trust Region Policy Optimization" International Conference on Machine Learning. 2015.](https://arxiv.org/pdf/1502.05477.pdf)
 
 <br/>
 
