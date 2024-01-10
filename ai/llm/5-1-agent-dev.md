@@ -43,6 +43,14 @@ MicroGPT 是一个预训练的 LLM，82M 参数，可以分析股票、网络安
 
 - Tim Keary, Top 5 Autonomous AI Agents You Need to Know About in 2023, 30 October, 2023, [Webpage](https://www.techopedia.com/top-5-autonomous-ai-agents)
 
+## ReAct Agent
+
+ReAct 通过给 LLM 送入“思考-动作-观察”的难题解决过程的示例，让 LLM 更好地完成任务。这一功能目前已经能够被 LangChain 很方便地实现。
+
+- ReAct 论文：[ICLR'23 Oral] ReAct: Synergizing Reasoning and Acting in Language Models [code]
+
+- LangChain 教程：[Webpage 1](https://arize.com/blog-course/react-agent-llm/)，[Webpage 2](https://blog.gopenai.com/mastering-react-prompting-a-crucial-step-in-langchain-implementation-a-guided-example-for-agents-efdf1b756105)
+
 ## Agent 网络
 
 微软的 [Autogen](https://github.com/microsoft/autogen)，能够让很多不同功能的 LLM Agent 合作，完成项目。比如，在这个[合作求解数学题的例子](https://microsoft.github.io/autogen/blog/2023/06/28/MathChat)中，用一个 User Proxy Agent 和一个 LLM Assitant 配合。其中，User Proxy Agent 会尝试各种 Prompt 策略，如 CoT、tool-using，比如用 Python 程序求解，而 LLM Assitant 接受这些 Prompt，完成工作。这其实是术业有专工的分工的概念，挺对的。注意 Autogen 还支持[多模](https://microsoft.github.io/autogen/blog/2023/11/06/LMM-Agent)、本地 LLM、[GPT Assistant](https://microsoft.github.io/autogen/blog/2023/11/13/OAI-assistants)，这个 Agent 还是[可教的](https://microsoft.github.io/autogen/blog/2023/10/26/TeachableAgent)，很有意思。

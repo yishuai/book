@@ -23,6 +23,9 @@ title: 讨论
 
 - 斯坦福 CS324 2022 年 [Environment Impact](https://stanford-cs324.github.io/winter2022/lectures/environment/)
 
+- AI Debate
+    - [2019](https://www.quebecartificialintelligence.com/aidebate/), [2020](https://www.quebecartificialintelligence.com/aidebate2/), [2022](https://agidebate.com/program)
+
 <br/>
 
 | [Index](./) | [Previous](8-3-edu) | [Next](./)

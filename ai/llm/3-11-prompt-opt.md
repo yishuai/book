@@ -117,6 +117,10 @@ Additional Reading(s):
 - CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities (Lee et al., 2022)
 - Choice Over Control: How Users Write with Large Language Models using Diegetic and Non-Diegetic Prompting (Dang et al., 2023)
 
+## 教程
+
+- LLM Observability，2023 年 9 月，[教程](https://arize.com/blog-course/large-language-model-monitoring-observability/)
+
 <br/>
 
 | [Index](./) | [Previous](3-10-prompt-vision) | [Next](3-17-chatbot-dev)

@@ -58,6 +58,8 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 ### 课程
 
+- Berkeley CS294/194-196: Responsible GenAI, Omar Khattab, Stanford, App Development Layer: Prompt Engineering, Chains, Tools
+
 - Learn Prompting 课程, [Website](https://learnprompting.org/docs/intro)，[Basic](https://learnprompting.org/docs/category/-basics)，[Basic Applications](https://learnprompting.org/docs/category/-basic-applications)，[ChatGPT Tutorial](https://learningprompt.wiki/docs/chatgpt-learning-path) 
 
 - 提示工程指南，[网站](https://www.promptingguide.ai/)
@@ -113,6 +115,10 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 ## 参考
 
 - My class required AI. Here's what I've learned so far (Mollick, 2023)
+
+## Paper
+
+- Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts, 2023
 
 <br/>
 

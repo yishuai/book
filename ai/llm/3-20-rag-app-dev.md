@@ -13,6 +13,13 @@ In-Context Learning 让人们可以通过 Prompt 输入，让大语言模型帮�
 
 - 华盛顿大学 CSE 599 同学 Slides
 
+- Berkeley Summit 2023, Langchain, LangChain for LLM Application Development, Slides, Video
+
+- Berkeley Summit 2023, LlamaIndex, From RAG to Agents: Building LLM Apps over Your Data with LlamaIndex, Slides, Video
+
+- Berkeley CS294/194-196: Responsible GenAI, Infrastructure Layer II: Retrieval, Vector Databases, Search (slides)
+- Berkeley CS294/194-196: Responsible GenAI, LlamaIndex (slides)
+
 ## 练习
 
 - 斯坦福 CS224U HW，Few-shot OpenQA with DSP，检索增强的 Incontext-Learning，[ipynb](https://github.com/cgpotts/cs224u/blob/main/hw_openqa.ipynb)

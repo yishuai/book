@@ -28,6 +28,14 @@ title: 数据科学入门
 
 - 微软：https://github.com/microsoft/Data-Science-For-Beginners
 
+- Data Science for Business. Foster Provost and Tom Fawcett, 2013, 中文版：商战数据挖掘
+
+- Book Machine Learning: The Art and Science of Algorithms that Make Sense of Data
+
+- Book Data Science from Scratch, Joel Grus, 2015
+
+- Course, Berkeley John Canny, CS194-16: Introduction to Data Science, [Fall 2015](https://bcourses.berkeley.edu/courses/1377158/)
+
 <br/>
 
 |[Index](../) | [Next](2-ds/3-0-ds)|

@@ -178,6 +178,10 @@ Thank you.
 
 ## 教程
 
+- Berkeley CS294/194-196: Responsible GenAI, Graphistry, Application Domains I: Security  (Slides)
+
+- Berkeley CS294/194-196: Responsible GenAI, DeepMind, Trustworthiness: Privacy, Hallucinations, Adversarial Attacks (slides)
+
 - Yandex 2023 PEFT PPT
 
 - 斯坦福 DeepLearning.AI Short Course，[Quality and Safety for LLM Applications](https://learn.deeplearning.ai/quality-safety-llm-applications)
@@ -225,6 +229,10 @@ Social Harms: Misinformation:
 ## 参考
 
 - A curated list of awesome threat detection and hunting resources， [Github](https://github.com/0xk1h0/awesome-threat-detection#network-monitoring)
+
+## 软件
+
+- Guardrails: What Are They and How Can You Use NeMo and Guardrails AI To Safeguard LLMs? 2023 年 9 月，[教程](https://arize.com/blog-course/guardrails-what-are-they-and-how-can-you-use-nemo-and-guardrails-ai-to-safeguard-llms/) 
 
 ## MIT
 

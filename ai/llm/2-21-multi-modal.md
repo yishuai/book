@@ -39,6 +39,10 @@ title: 多模 LLM
 
 ## 论文
 
+### 空间位置
+
+- Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic, 2023, 指出空间位置的自然语言输入和输出，用于 VQA 和 Image Caption
+
 ### 普林斯顿大学课程论文
 
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198.pdf)

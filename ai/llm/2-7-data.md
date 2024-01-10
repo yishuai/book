@@ -62,6 +62,10 @@ Refer:
 
 - EMNLP 2023 Large Language Models Can Self-Improve，大语言模型自己生成训练数据
 
+- The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only, 2023
+
+- ICLR 2021 When Do Curricula Work? 训练时间有限时，先送容易的例子，再送复杂的，会帮助训练。
+
 <br/>
 
 | [Index](./) | [Previous](2-5-model) | [Next](2-9-scaling)

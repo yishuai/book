@@ -52,6 +52,10 @@ title: 模型设计和训练
 
 - 约翰霍普金斯 UA 2023 Talk, Decentralized Deep Learning: Running Large Neural Networks Together
 
+- Berkeley Summit 2023, Hugging Face, Taming the Wild West of LLMs, Slides, Video, 各种模型的性能比较
+
+- Berkeley CS294/194-196: Responsible GenAI, MosaicML, Infrastructure Layer I: Training and Inference, Performance Optimization, Scalability (slides)
+
 ## 软件
 
 - 开源训练框架 DeepSpeed，《DeepSpeed: Extreme-scale model training for everyone》，[介绍](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)，[Github](https://github.com/microsoft/DeepSpeed)

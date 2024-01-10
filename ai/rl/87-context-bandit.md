@@ -41,6 +41,12 @@ title: 上下文 Bandits
 
 - 微软 [Contexual Bandit 库](https://microsoft.github.io/SynapseML/docs/Explore%20Algorithms/Vowpal%20Wabbit/Contextual%20Bandits/)
 
+## 论文
+
+- Adversarial Attacks on Linear Contextual Bandits
+
+- ICML 2021 Leveraging Good Representations in Linear Contextual Bandits
+
 <br/>
 
 |[Index](index) | [Previous](85-bayes-bandit) | [Next](91-game) |

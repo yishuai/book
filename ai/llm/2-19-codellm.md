@@ -7,12 +7,16 @@ Code LM 很重要，是因为两个原因：1）代码是一种很好的数据�
 
 ## 课程材料
 
+- Berkeley CS294/194-196: Responsible GenAI, Google Brain, Application Domains II: Code Generation (slides)
+
 - 斯坦福 CS224n Code Generation [PPT](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture15-code-generation.pdf) 
 
 - 华盛顿大学 CSE 599 同学 Slides
 
 - 约翰霍普金斯 UA 2024 Lec 14 Connecting language to outside world
     - LMs for coding
+
+- Berkeley Summit 2023, Replit, ReplitLM: Using Open-source from Training to Production for a Code Completion LLM, Slides, Video, Replit 在 MosaicML LLM 训练平台上，训练了它们的 CodeLM, 在它的基础上，出现了 CodeInstruct。
 
 ## 论文
 

@@ -119,4 +119,4 @@ title: 信号和噪声的随机模型
 
 <br/>
 
-|[Index](./) | [Previous](0-5-overview) | [Next](1-13-shannon)|
+|[Index](./) | [Previous](./0-7-lib-2023) | [Next](1-13-shannon)|

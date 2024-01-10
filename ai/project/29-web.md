@@ -15,6 +15,8 @@ Web 设计和开发，是美学和编程技术的结合。
 
 - 研讨会议网站示例，麻省理工学院媒体实验室学习节官方网站，有趣的网站，议程，简单的 html 和 css，很不错, [Github](https://github.com/mitmedialab/thefestival.media.mit.edu)
 
+- Course, Berkeley John Canny, CS160/260A: User Interface Design and Development, [Spring 2022](https://bcourses.berkeley.edu/courses/1512763/)
+
 <br/>
 
 |[Index](./) | [Previous](25-dl) | [Next](31-tools)
