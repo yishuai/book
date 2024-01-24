@@ -121,6 +121,11 @@ Additional Reading(s):
 
 - LLM Observability，2023 年 9 月，[教程](https://arize.com/blog-course/large-language-model-monitoring-observability/)
 
+## 系统
+
+- Prompt base: All things prompt engineering, 论文 《Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine》 提出的方法，包括三个技术：dynamic few-shot selection, self-generated chain of thought, and choice-shuffle ensembling，效果好。[Github](https://github.com/microsoft/promptbase)
+
+## 
 <br/>
 
 | [Index](./) | [Previous](3-10-prompt-vision) | [Next](3-17-chatbot-dev)

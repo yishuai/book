@@ -89,6 +89,10 @@ Deep reinforcement learning policy gradient papers
 
 - Pairwise Proximal Policy Optimization (P3O), Dec 2023， 伯克利 BAIR， RLHF 是基于“比较”的，因此，改进 PPO 支持比较，[Blog](http://bair.berkeley.edu/blog/2023/10/16/p3o/)
 
+## 实现
+
+- The 37 Implementation Details of Proximal Policy Optimization, March 2022, [Webpage](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), [Github](https://github.com/vwxyzjn/ppo-implementation-details)
+
 <br/>
 
 |[Index](index) | [Previous](13-actor-critic) | [Next](17-reward) |

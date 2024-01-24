@@ -70,10 +70,10 @@ Module 5: Bringing It All Together
 - AI 翻译
 
 计算机科学
-- 机器学习编程
-- 视频游戏中的 AI 玩家
-- AI 机器人运动计划
-- 机器学习作为一项服务
+- 机器学习编程（ML4K）
+- 视频游戏中的 AI 玩家（Python Games）
+- AI 机器人运动计划（Java）
+- 机器学习作为一项服务（Google Teach Machine）
 
 人工智能道德指南
 - 公平

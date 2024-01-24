@@ -20,6 +20,12 @@ title: 编程工具
 
 【MIT公开课】计算机课堂中根本学不到的知识 - CS Education，[B 站视频](https://www.bilibili.com/video/BV1XN4y187zp)，介绍了工作常用的工具。
 
+## 音频工具
+
+- Data Labeling Tutorial for Audio Data， [Webpage](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6)
+- Opensoundscape [documentation](http://opensoundscape.org/en/latest/) , [github](https://github.com/kitzeslab/opensoundscape), a wrapper to PyTorch with smooth functionality for audio analysis
+
+
 ## 电脑优化
 
 大家如果是 Mac 电脑的话，可以尝试打开 Mac 自带的 GPU 加速。HuggingFace 的指南 《[Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)》 供参考。

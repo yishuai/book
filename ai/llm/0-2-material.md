@@ -47,6 +47,8 @@ title: 材料
 
 - Andrej Karpathy 《给忙碌人的大语言模型介绍》，[中文论文列表](https://mp.weixin.qq.com/s/mt9W8Mf0LbZjbuRObyeWeQ)，[英文论文列表](https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/)，[Youtube 视频](https://www.youtube.com/results?search_query=Andrej+Karpathy)
 
+- LLM Course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks, 非常全面、细致、实战的一套课程，包括三部分：LLM 基础（数学、Python for ML、神经元网络、NLP），LLM 原理（LLM 模型、数据集、预训练模型、SFT、RLHF、评估、存储优化、新趋势），LLM 应用（运行、向量存储、检索增强、运行优化、部署、安全），[Github](https://github.com/mlabonne/llm-course)
+
 ## 课本
 
 在课本方面，最经典的 SLP 课本中的第 12 章 Prompting and Instruct Tuning，还没有出。相关的技术方面的课本有：
@@ -72,6 +74,10 @@ NLP
 - Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning
 - Eugene Charniak. Introduction to Deep Learning
 - Michael A. Nielsen. Neural Networks and Deep Learning
+
+## 资源
+
+- Awesome-LLM: a curated list of Large Language Model，[Github](https://github.com/Hannibal046/Awesome-LLM)
 
 <br/>
 

@@ -103,6 +103,10 @@ Dropout 是在训练的过程中，随机设置一些神经元的激活输出 �
 
 多伦多大学 Pascal Poupart 老师 AI 课程的 [练习](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring23/assignments.html) 3 中的 Neural Network 部分练习。练习内容为：根据房子的属性，分类其售价是高还是低。需要编码的内容包括：层数优化、激活函数、Dropout
 
+### 
+
+Numpy MLP 模型实现和图片分类，[Github](https://github.com/josephdviviano/intro-dl)
+
 <br/>
 
 |[Index](./) | [Previous](1-3-mlp) | [Next] (3-3-cnn)

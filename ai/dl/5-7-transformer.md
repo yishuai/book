@@ -66,6 +66,7 @@ Transformer 的不足是它采用注意力机制。该机制的计算复杂度�
 - 伯克利 Transformer PPT
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- AI4All Model - RNN Transformer PPT
 
 ### 复习题
 

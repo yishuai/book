@@ -130,6 +130,13 @@ Additional Reading(s):
 - --lr_scheduler_type: learning rate scheduler. The default is “linear” which does a linear increase and decrease to and from the learning_rate.
 - --adafactor: use this flag if you want to use the Adafactor optimizer instead of AdamW (default). Adafactor can save on GPU memory by only saving 2 copies of the model instead of 3 needed for AdamW (mean, variance, gradient).
 
+## 系统
+
+- 微软 Phi-2 模型, 2.7B 参数, 效果好, Dec. 2023, [Webpage](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
+- Mixtral 8x7B, Mixtral of experts, A high quality Sparse Mixture-of-Experts. Dec. 2023, [Webpage](https://mistral.ai/news/mixtral-of-experts/)
+
+
 <br/>
 
 | [Index](./) | [Previous](1-13-rlhf) | [Next](2-7-data)

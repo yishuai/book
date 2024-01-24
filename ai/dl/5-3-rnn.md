@@ -87,6 +87,7 @@ cell memory 的变化，由“遗忘门”和“输入门”控制。这两个�
 
 - 伯克利 RNN PPT
 - MIT RNN PPT
+- AI4All Model - RNN Transformer PPT
 
 <br/>
 

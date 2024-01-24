@@ -40,6 +40,10 @@ LangChain 是做 RAG 的一个常用工具
 
 - 利用微软的 [Promptflow](https://github.com/microsoft/promptflow) ，可以非常方便地实现 LLM RAG 应用，比如这个 [基于 PDF 的 ChatBot](https://github.com/microsoft/promptflow/blob/main/examples/tutorials/e2e-development/chat-with-pdf.md)
 
+## 工具
+
+- AnythingLLM: A private ChatGPT to chat with anything! An efficient, customizable, and open-source enterprise-ready document chatbot solution. [Github](https://github.com/Mintplex-Labs/anything-llm)
+
 <br/>
 
 | [Index](./) | [Previous](3-19-chatbot-opt) | [Next](5-1-agent-dev)

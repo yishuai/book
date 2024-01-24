@@ -115,11 +115,13 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 ## 参考
 
 - My class required AI. Here's what I've learned so far (Mollick, 2023)
+- 月薪4万的“关键”新兴岗位：研究如何向AI发出专业提问，中国企业家杂志，2024-01-23，[微信公众号](https://mp.weixin.qq.com/s/tabh8Pkcvrvy7_qe6niJ4A)
 
 ## Paper
 
 - Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts, 2023
 
+##
 <br/>
 
 | [Index](./) | [Previous](3-1-run) | [Next](3-10-prompt-analysis)

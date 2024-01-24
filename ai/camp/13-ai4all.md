@@ -37,7 +37,7 @@ title: AI4ALL 深度学习课程
   - Collect environmental data, camera trap data, satellite data
   - Wildlife insights: Save biodiversity
   - Teachable machine, computer vision
-  - Colab programming, handwritten digit recognition
+  - Colab programming, CNN, [MNIST handwritten digit recognition](https://colab.research.google.com/drive/1iTn-955vrJ9Ezd-p99Ba-niIjwx_Ap10#scrollTo=G1O50g42BalH), [CIFAR image classification](https://colab.research.google.com/drive/1KTQQxkj37_2dydQee4uI4j-kEPl1WKOp)
   - Environmental justice
 - Dance
   - PoseNet

@@ -79,13 +79,20 @@ OpenAI 的 CLIP 语言-图像预训练模型，是采用基于对比的语言-�
 
 ## 练习
 
-### CNN 图片分类练习
+- CNN 图片分类练习: 多伦多大学 Pascal Poupart 老师 CS480 深度学习课程的[练习3](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-winter23/assignments.html)。内容为 CNN 图片分类。代码已可以跑通。需要对代码进行如下修改：模型结构、激活函数、Dropout、优化器、CNN filter
+- 简明人脸识别练习: 深度学习人脸识别开源库：号称世界上最简单的人脸识别库，三句代码就搞定。[代码](https://github.com/ageitgey/face_recognition)，[中文简介](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)，
+- TorchXRayVision: A library of chest X-ray datasets and models. Classifiers, segmentation, and autoencoders. [Github](https://github.com/mlmed/torchxrayvision)
+- CheXpert competition models -- attention augmented convolutions on DenseNet, ResNet; EfficientNet, [Github](https://github.com/kamenbliznashki/chexpert)
 
-多伦多大学 Pascal Poupart 老师 CS480 深度学习课程的[练习3](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-winter23/assignments.html)。内容为 CNN 图片分类。代码已可以跑通。需要对代码进行如下修改：模型结构、激活函数、Dropout、优化器、CNN filter
+## 体验
 
-### 简明人脸识别练习
+- Gifsplanation - Explaining neural networks with gifs! [Website](https://mlmed.org/gifsplanation/)
 
-深度学习人脸识别开源库：号称世界上最简单的人脸识别库，三句代码就搞定。[代码](https://github.com/ageitgey/face_recognition)，[中文简介](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)，
+## 工具
+
+- segmentation_models, [PyTorch Github](https://github.com/qubvel/segmentation_models.pytorch), 8.4k stars, [Tensorflow/Keras Github](https://github.com/qubvel/segmentation_models), 4.5k stars
+- Image Test Time Augmentation with PyTorch! [Github](https://github.com/qubvel/ttach)
+
 
 <br/>
 

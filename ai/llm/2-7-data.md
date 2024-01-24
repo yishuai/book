@@ -66,6 +66,8 @@ Refer:
 
 - ICLR 2021 When Do Curricula Work? 训练时间有限时，先送容易的例子，再送复杂的，会帮助训练。
 
+- What's in the Box? A Preliminary Analysis of Undesirable Content in the Common Crawl Corpus,  ACL-IJCNLP 2021 [Arxiv](https://arxiv.org/abs/2105.02732)，[Github](https://github.com/josephdviviano/whatsinthebox) 
+
 <br/>
 
 | [Index](./) | [Previous](2-5-model) | [Next](2-9-scaling)

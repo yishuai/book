@@ -39,10 +39,21 @@ title: 卷积神经元网络
 
 - 伯克利 CNN PPT
 - MIT CNN PPT
+- AI4All Play - Environment PPT
+- AI4All Model - CNN PPT
 
 ## 体验
 
 - Andrej Karpathy 开发的基于卷积神经元网络的图片分类任务的[网站](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)，获得直观体验。
+
+## 示例
+
+- Berkeley DeepRL Camp Lab 2: Introduction to Chainer. You will implement deep supervised learning using Chainer, and apply it to the MNIST dataset. [website](https://sites.google.com/view/deep-rl-bootcamp/labs)
+
+## 练习
+
+- AI4ALL MNIST Mini-Project, CNN handwritten digit recognition, [Colab](https://colab.research.google.com/drive/1iTn-955vrJ9Ezd-p99Ba-niIjwx_Ap10#scrollTo=G1O50g42BalH)
+- AI4ALL CIFAR-10 Mini-Project Students, [Colab](https://colab.research.google.com/drive/1KTQQxkj37_2dydQee4uI4j-kEPl1WKOp)
 
 <br/>
 

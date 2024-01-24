@@ -43,6 +43,7 @@ Logistic 回归是一个非常常用的机器学习模型。它也是对输入 x
 - SLP 课本
   - 第 5 章：Logistic 回归
   - 第 7 章：神经元网络
+- AI4All Model - Neural Network PPT
 
 ## 课程材料
 

@@ -28,6 +28,7 @@ Attention 的利用方法有两处。第一处是更新 RNN 解码器：将 Cont
 ## 课程材料
 
 - 伯克利大学 Seq2Seq PPT，Transformer PPT
+- AI4All Model - RNN Transformer PPT
 
 <br/>
 
