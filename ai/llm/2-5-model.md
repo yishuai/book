@@ -132,9 +132,11 @@ Additional Reading(s):
 
 ## 系统
 
+- 2023, Year of open LLMs, Dec 18, 2023，[Webpage](https://huggingface.co/blog/2023-in-llms), [中文版](https://huggingface.co/blog/zh/2023-in-llms)
+
 - 微软 Phi-2 模型, 2.7B 参数, 效果好, Dec. 2023, [Webpage](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
-- Mixtral 8x7B, Mixtral of experts, A high quality Sparse Mixture-of-Experts. Dec. 2023, [Webpage](https://mistral.ai/news/mixtral-of-experts/)
+- Mixtral 8x7B, Mixtral of experts, A high quality Sparse Mixture-of-Experts. Dec. 2023, [Webpage](https://mistral.ai/news/mixtral-of-experts/)，[中文介绍](https://huggingface.co/blog/zh/mixtral)，[MoE 详解](https://huggingface.co/blog/zh/moe)，[使用指南](https://mp.weixin.qq.com/s/BdXJ-eGs5tMY4yuB3vn7SA)
 
 
 <br/>

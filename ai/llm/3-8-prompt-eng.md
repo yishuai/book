@@ -116,6 +116,7 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 - My class required AI. Here's what I've learned so far (Mollick, 2023)
 - 月薪4万的“关键”新兴岗位：研究如何向AI发出专业提问，中国企业家杂志，2024-01-23，[微信公众号](https://mp.weixin.qq.com/s/tabh8Pkcvrvy7_qe6niJ4A)
+- Jason Ng，那么，我是如何使用 ChatGPT 的？可能吧，2024-01-24，[微信公众号](https://mp.weixin.qq.com/s/K3mjmkLye79Khem18QHORw)
 
 ## Paper
 

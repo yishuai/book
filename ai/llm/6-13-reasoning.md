@@ -152,6 +152,10 @@ Reasoning
 
 - Faith and Fate: Limits of Transformers on Compositionality，[论文](https://arxiv.org/abs/2305.18654)，发现多步推理能力有限
 
+### 系统
+
+- 谷歌 AI 通过图灵测试，大模型医生来了？图灵人工智能，2024-01-15，[微信公众号](https://mp.weixin.qq.com/s/Cft9ISgxolUDIacc97WMjA)
+
 <br/>
 
 | [Index](./) | [Previous](6-11-understand) | [Next](6-17-plan)

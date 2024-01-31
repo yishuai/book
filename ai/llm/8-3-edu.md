@@ -58,8 +58,16 @@ Exploring artificial intelligence with StoryQ, [Website](https://concord.org/our
 ## 参考
 
 - AI 角色扮演游戏 [AI Dungeon](https://play.aidungeon.com/)，设置场景，让学生闯关。[示例](https://play.aidungeon.com/adventure/7BggYuC3TtZ8/archer-world-arca/read)
+
 - 第一批用AI自学的中学生：AI改变了我，Q1u，AI Adventure Tour，2024-01-23，[微信公众号](https://mp.weixin.qq.com/s/wQFNwv2aV2cnJTobze7FYw)
 
+- 张峥，中国为何始终缺乏原始创新？面向未来的专业通识教育， 知识分子 2024-01-02，[微信公众号](https://mp.weixin.qq.com/s/wy2vufnqLOdB4vk0DUUMHg)
+
+
+## 系统
+
+- CS50's adaptation of ChatGPT for students and teachers, [Website](https://cs50.ai/), 针对 CS50 的学生对话系统，不会帮学生写代码，但能回答问题。
+- 
 <br/>
 
 | [Index](./) | [Previous](8-1-aiops) | [Next](10-discussion)

@@ -137,6 +137,8 @@ ESEC/FSE 2023、ICLR 2023、NeurIPS 2023、IWQoS 2023、ICSE 2024 等多场国�
 
 - Automatic Root Cause Analysis via Large Language Models for Cloud Incidents，2023 年 12 月，[PDF](https://arxiv.org/pdf/2305.15778.pdf)，[Code](https://github.com/Harris-Xie/RCACopilot) 
 
+- Fintech实践｜南天故障画像平台大幅提升数据中心排障效率，南天之窗，2024-01-04，[微信公众号](https://mp.weixin.qq.com/s/_2X4TIoHvTVK9x2lmdHotQ)
+
 <br/>
 
 | [Index](./) | [Previous](7-9-security) | [Next](8-3-edu)

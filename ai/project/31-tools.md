@@ -25,7 +25,6 @@ title: 编程工具
 - Data Labeling Tutorial for Audio Data， [Webpage](https://towardsdatascience.com/how-to-label-audio-for-deep-learning-in-4-simple-steps-6a2c33b343e6)
 - Opensoundscape [documentation](http://opensoundscape.org/en/latest/) , [github](https://github.com/kitzeslab/opensoundscape), a wrapper to PyTorch with smooth functionality for audio analysis
 
-
 ## 电脑优化
 
 大家如果是 Mac 电脑的话，可以尝试打开 Mac 自带的 GPU 加速。HuggingFace 的指南 《[Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)》 供参考。
@@ -33,6 +32,11 @@ title: 编程工具
 ## 开源生态
 
 - State of Open Source AI Book - 2023 Edition，[Webpage](https://book.premai.io/state-of-open-source-ai/)
+
+## 工具
+
+- GitHubDaily，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. [Github](https://github.com/GitHubDaily/GitHubDaily)，2023 年主要是生成式 AI 的各种工具
+
 
 <br/>
 

@@ -79,6 +79,8 @@ NLP
 
 - Awesome-LLM: a curated list of Large Language Model，[Github](https://github.com/Hannibal046/Awesome-LLM)
 
+- OpenAI Research，[Webpage](https://openai.com/research)
+
 <br/>
 
 | [Index](./) | [Previous](0-1-intro) | [Next](1-1-lm)

@@ -17,6 +17,14 @@ title: 编程 Prompt
 
 - GitHub Copilot Labs插件的最佳使用场景是什么？[B站视频](https://www.bilibili.com/video/BV1xM4y1U73S)
 
+## 经验
+
+- HF，个人编程助手: 训练你自己的编码助手，2023年10月27日，[中文版](https://huggingface.co/blog/zh/personal-copilot)，[英文版](https://huggingface.co/blog/personal-copilot)
+
+- Antirez， Redis 之父， LLMs and Programming in the first days of 2024，2024-01-23，[英文](http://antirez.com/news/140)， [中文微信公众号翻译](https://mp.weixin.qq.com/s/iO0Gc93EM0rX_GkEREe_AQ)
+
+- Christhai，用ChatGPT搞了个 OpenAI微信接入平台（网页版），云原生SRE，2023-02-10，[微信公众号](https://mp.weixin.qq.com/s/5Qd4Y_dQQa3jLBotcAVoSw)
+
 ## Prompt
 
 ### 编程 Copilot Prompt

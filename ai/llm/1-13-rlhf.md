@@ -45,6 +45,10 @@ OpenAI 在训练 InstructGPT 的过程中，对 30K 任务进行了用户打标�
     - Instruction-tuning
     - RLHF and variants
 
+## 练习
+
+- 使用 PPO 算法进行 RLHF 的 N 步实现细节，2023年10月24日，[英文版](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)，[中文版](https://huggingface.co/blog/zh/the_n_implementation_details_of_rlhf_with_ppo)，复现 OpenAI 在 2019 年开源的原始 RLHF 代码库
+
 ## RLHF 论文
 
 Andrej Karpathy 推荐论文

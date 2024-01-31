@@ -22,6 +22,10 @@ title: 提问 ChatGPT
 进一步学习材料：
 - 从上面大家的提问可以看出，大家提的问题相对简单。实际上，ChatGPT 可以完成更加高级的功能。更高级的 ChatGPT 提问方法，请见上一级目录下的 AI 大语言模型 部分内容，特别是 Prompt 应用部分的内容
 
+## 工具
+
+- GitHubDaily，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. [Github](https://github.com/GitHubDaily/GitHubDaily)，2023 年主要是生成式 AI 的各种工具
+
 <br/>
 
 |[Index](./) | [Previous](0-intro) | [Next](3-0-library)
