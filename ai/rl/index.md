@@ -23,6 +23,7 @@ title: 增强学习
 1. [Policy Gradient](11-pg)
 1. [Actor Critic](13-actor-critic)
 1. [TRPO 和 PPO](15-trpo)
+1. [TRPO数理基础-NPG自然策略梯度](15-1-trpo-detail)
 1. [Reward 学习](17-reward)
 1. [反向学习](18-irl)
 1. [基于模型的学习](19-model-rl)
