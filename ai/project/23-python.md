@@ -31,7 +31,7 @@ title: Python
 
 ## Python 数据分析
 
-课本：Python for Data Analysis， 3rd Version， [Website](https://wesmckinney.com/book/)
+课本：Python for Data Analysis， 3rd Version， [Website](https://wesmckinney.com/book/), [Code](https://github.com/wesm/pydata-book)
 
 Pandas cheat sheet，[PDF](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
@@ -42,6 +42,12 @@ Pandas cheat sheet，[PDF](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - B 部分是基本的机器学习、深度学习。包括数据预处理、降维、聚类、分类，还包括深度学习。适合入门。
 
 - C 部分是大数据的 SPARK 的入门练习，包括 RDD、DataFrame、SQL、机器学习。
+
+## 商业数据科学
+
+课本，Data Science for Business. Foster Provost and Tom Fawcett, 2013, 中文版：商战数据挖掘
+
+NYU 课程代码：[Foster 2021](https://github.com/bwolfson2/dsclass2022)，[2021 夏](https://github.com/bwolfson2/data_biz_2021) ，[2022](https://github.com/bwolfson2/dsclass2022)，
 
 ## ML 应用开发
 

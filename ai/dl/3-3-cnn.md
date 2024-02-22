@@ -50,6 +50,8 @@ title: 卷积神经元网络
 
 - Berkeley DeepRL Camp Lab 2: Introduction to Chainer. You will implement deep supervised learning using Chainer, and apply it to the MNIST dataset. [website](https://sites.google.com/view/deep-rl-bootcamp/labs)
 
+- CNN Explainer, [Website](https://poloclub.github.io/cnn-explainer/), [Github](https://github.com/poloclub/cnn-explainer), [Paper](https://arxiv.org/abs/2004.15004)
+
 ## 练习
 
 - AI4ALL MNIST Mini-Project, CNN handwritten digit recognition, [Colab](https://colab.research.google.com/drive/1iTn-955vrJ9Ezd-p99Ba-niIjwx_Ap10#scrollTo=G1O50g42BalH)

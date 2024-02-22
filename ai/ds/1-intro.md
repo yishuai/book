@@ -28,7 +28,7 @@ title: 数据科学入门
 
 - 微软：https://github.com/microsoft/Data-Science-For-Beginners
 
-- Data Science for Business. Foster Provost and Tom Fawcett, 2013, 中文版：商战数据挖掘
+- Data Science for Business. Foster Provost and Tom Fawcett, 2013, 中文版：商战数据挖掘，NYU 课程代码：[Foster 2021](https://github.com/bwolfson2/dsclass2022)，[2021 夏](https://github.com/bwolfson2/data_biz_2021) ，[2022](https://github.com/bwolfson2/dsclass2022)
 
 - Book Machine Learning: The Art and Science of Algorithms that Make Sense of Data
 
