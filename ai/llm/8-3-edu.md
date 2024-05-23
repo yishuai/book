@@ -3,6 +3,118 @@ layout: post
 title: 大语言模型在教育中的应用
 ---
 
+各种 AI 教育工具：
+https://aieducator.tools/
+
+搜索 AI 工具
+https://theresanaiforthat.com/
+
+MIT AI Edu
+https://raise.mit.edu/
+https://raise.mit.edu/research-projects/
+
+##
+
+https://ua-data7.github.io/introllms/education/#example-2-lecture-preparation
+
+Teaching and learning with ChatGPT and Bard¶
+ChatGPT and Bard can improve teaching and learning processes by generating and assessing information and can be used as a standalone tool or integrated into other systems. It can perform simple or technical tasks and examples show how it can augment teaching and learning.
+
+Role playing Description Example of implementation
+Possibility engine	
+    AI can suggest alternative ways to express an idea	
+    Students can write queries in ChatGPT/Bard and use the "Regenerate" response function to explore alternative responses.
+Socratic opponent	
+    AI can act as an opponent to develop an argument	
+    Students can enter prompts into ChatGPT/Bard, using the structure of a conversation or debate. Teachers can ask their students to use ChatGPT/Bard to prepare for discussions.
+Collaboration coach	
+    AI helps groups to research and solve problems together	
+    When completing tasks and assignments, students can use ChatGPT/Bard to find information while working in groups.
+Guide on the side	
+    AI acts as a guide to navigating physical and conceptual spaces	
+    Teachers use ChatGPT/Bard to generate content for their classes or courses, such as discussion questions, and to seek advice on how to support students in learning specific concepts.
+Personal tutor	
+    AI tutors each student and gives immediate feedback on progress	
+    ChatGPT/Bard provides personalized feedback to students based on information provided by students or teachers (e.g., test scores).
+Co-designer	
+    AI assists throughout the design process	
+    Teachers can seek ideas from ChatGPT/Bard for designing or updating a curriculum, including rubrics for assessment. Alternatively, they can focus on specific goals, such as making the curriculum more accessible. ChatGPT can provide recommendations and suggestions to help achieve these objectives.
+Exploratorium	
+    AI provides tools to play with, explore, and interpret data	
+    Teachers provide basic information to students who write different queries in ChatGPT to find out more. ChatGPT/Bard can be used to support language learning.
+Study buddy	
+    AI helps the student reflect on learning material	
+    Students explain their current level of understanding to ChatGPT/Bard and ask for ways to help them study the material. ChatGPT/Bard could also be used to help students prepare for other tasks (e.g., job interviews).
+Motivator	
+    AI offers games and challenges to extend learning	
+    Teachers or students ask ChatGPT/Bard for ideas about how to extend students’ learning after providing a summary of the current level of knowledge (e.g., quizzes, exercises).
+Dynamic assessment	
+    AI provides educators with a profile of each student’s current knowledge	
+    Students engage in a tutorial-style dialogue with ChatGPT/Bard, and then request that ChatGPT/Bard create a summary of their current knowledge for sharing with their teacher or for assessment purposes.
+
+Opportunities of using ChatGPT and Bard as a learning tool¶
+
+Enhance lessons. 
+    In low- and middle-income countries, teachers face the challenge of making a dense curriculum engaging. To help with this, ChatGPT/Bard can translate learning objectives into lesson plans, offer ideas for class preparation, and aid in creating new assignments and assessments. However, ChatGPT/Bard does not assist with delivery, so teachers must still have strong teaching skills to ensure quality lessons.
+Create assessment questions. 
+    ChatGPT/Bard can help teachers improve assessment questions and generate multiple-choice items. It can also encourage higher-order thinking skills by providing prompts for essay questions and practical tasks. By using different types of assessment, teachers can help students develop critical thinking, problem-solving, and collaborative skills.
+Support with language barriers. 
+    The ideal scenario is for teachers to instruct in their native language, but some education systems are shifting towards teaching in a second language, such as English, even when evidence suggests the opposite approach. In such situations, teachers who are not proficient in English struggle to teach effectively. A proposed solution is the use of chatbots to enhance teachers' language proficiency, enabling them to teach better in both their native and a foreign language. Tools like Duolingo and ChatGPT reportedly provide affordable, accessible, and highly personalized language lessons.
+Provide additional support to students. 
+    ChatGPT/Bard can be used by teachers to encourage student curiosity and generate ideas for homework assignments. AI tools are particularly helpful in identifying the source information used in the chats. However, there is a risk that students may ask the chat to complete their homework for them instead of seeking help. To address this risk and teach about integrity, teachers can discuss the limitations of these tools, such as privacy risks, bias, and hallucination. Furthermore, teachers should focus on questions that cannot be answered by ChatGPT, such as those that require knowledge outside of the chatbot's training data, such as human emotions or subjective perspectives.
+Grading assessment and papers. 
+    ChatGPT/Bard can be used to automatically grade multiple-choice/one-answer tests; it can also help teachers with standards-based grading. This has potential unintended consequences for low accuracy, poor grading, or false positive proctoring (mistakenly red-flagging students for cheating). When considering systems for proctoring or grading, it is critical to take measures to secure fairness, accountability, confidentiality, and transparency of their algorithms whenever needed.
+
+## Practical AI for Instructors and Students 
+## 沃顿商学院
+Part 1: Introduction to AI for Teachers and Students
+Part 2: Large Language Models (LLMs)
+Part 3: Prompting AI
+Part 4: AI for Teachers
+Part 5: AI for Students
+https://www.youtube.com/playlist?list=PL0EdWFC9ZZrUAirFa2amE4Hg05KqCWhoq
+
+##
+Creative ideas to use AI in education
+很多老师的想法。很宝贵。
+https://docs.google.com/presentation/d/1wVgLWgeEvJm3fznlm0aV8ZiuWsW3o3aUQUCcvuM5vxQ/edit#slide=id.g229cc0973b2_3_0
+
+## Vanderbilt University
+https://www.coursera.org/learn/chatgpt-innovative-teaching
+
+Guidelines for Syllabus Statements About Generative AI，August 2023 v 2.1.1，课程大纲中，如何提出对 生成式 AI 的 要求：完全禁止，部分，还是允许，https://artificialintelligence.arizona.edu/sites/default/files/2023-08/syllabus%20guidelines%20for%20AI%20v2.1.1-copyable.pdf
+
+https://ua-data7.github.io/introllms/education/#chatgpt-and-bard-used-in-academic-and-essay-writing
+
+
+
+8 个视频
+•
+总共 65 分钟
+通过 ChatGPT 了解教育创新概述•16 分钟•预览单元
+快速备课和集思广益•12 分钟
+建立个性化和有吸引力的范例•8 分钟
+创建吸引学生的活动•6 分钟
+思考解决问题的其他方法•7 分钟
+创建教育游戏 I•5 分钟
+学员按需练习•4 分钟
+预评估，学生应用评分标准进行反馈•4 分钟
+8 个阅读材料
+•
+总共 45 分钟
+导言•10 分钟
+什么是生成式人工智能？•10 分钟
+示例生成的提示模式示例•3 分钟
+活动生成的提示模式示例•3 分钟
+生成解决方案的提示模式示例•3 分钟
+按需练习的提示模式示例•3 分钟
+创建预评估的提示模式示例•3 分钟
+保持联系，了解更多•10 分钟
+1 个作业
+•
+总共 20 分钟
+制作有趣的教育材料•20 分钟
+
 ## Demo
 
 谷歌的 Gemini 模型可以读入手写的数学和物理习题，检查其中的公式哪些对，哪些错，错在哪里，并且给出一步一步的推导过程；可以让它提供进一步的解释，它就可以提供关于一个话题的个性化解释；还可以要它提供进一步的练习题，它就提供个性化的练习题 [Youtube 视频](https://www.youtube.com/watch?v=K4pX1VAxaAI)。
@@ -67,7 +179,31 @@ Exploring artificial intelligence with StoryQ, [Website](https://concord.org/our
 ## 系统
 
 - CS50's adaptation of ChatGPT for students and teachers, [Website](https://cs50.ai/), 针对 CS50 的学生对话系统，不会帮学生写代码，但能回答问题。
-- 
+
+## 研究
+
+https://www.moreusefulthings.com/resources
+
+Dr. Ethan Mollick is an Associate Professor at the Wharton School of the University of Pennsylvania, where he studies and teaches innovation and entrepreneurship, and also examines the effects of artificial intelligence on work and education. His academic papers have been published in top management journals and his research has been covered by CNN, The New York Times, and other leading publications. His newest book on AI, Co-Intelligence, is out on April 2, 2024.
+
+Current papers include:
+
+New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments.
+
+In  this paper, we discuss the opportunity provided by AI because it can  help us teach in new ways. The AI's flaws —its tendency to make up  facts, its lack of nuance, and its ability to make excellent student  essays — can be used to improve education. This isn’t for some future  theoretical version of AI. Instructors can create assignments right now,  using ChatGPT, that will help stretch students in new ways.
+
+Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts
+
+In  the rush to deliver AI benefits directly to students, the role of  teachers is often overlooked. AI tutors, as exciting as they are, do not  replace the complex role of a teacher in front of a class. But not  enough effort seems to be going toward applying AI to help instructors.  We have a new paper that tries to remedy that gap by providing some  research-backed approaches to pedagogy and the AI prompts (for GPT-4,  GPT-3.5, and other AIs) to implement them
+
+Assigning AI: Seven Approaches for Students, with Prompts
+
+The  incredible promise of AI as a way for students all over the world, of  all ability levels, to learn is undeniable. Education is our most  powerful system for increasing social mobility, unlocking potential, and  improving lives. A tool that can help with this has tremendous  implications. Plus, students are already using AI for direct help.  Teaching them how to do it responsibly may alleviate some of the  negative implications of our AI moment. In this paper, we tackle ways  that students can be assigned to use AI directly. We don’t shy away from  the dangers but provide detailed instructions on how students and  instructors can think about each of the tools we suggest.
+
+Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality (Dell'Acqua, Fabrizio and McFowland, Edward and Mollick, Ethan R. and Lifshitz-Assaf, Hila and Kellogg, Katherine and Rajendran, Saran and Krayer, Lisa and Candelon, François and Lakhani, Karim R)
+
+In our study conducted with Boston Consulting Group, a global management consulting firm, we examine the performance implications of AI on realistic, complex, and knowledge-intensive tasks. The pre-registered experiment involved 758 consultants comprising about 7% of the individual contributor-level consultants at the company. After establishing a performance baseline on a similar task, subjects were randomly assigned to one of three conditions: no AI access, GPT-4 AI access, or GPT-4 AI access with a prompt engineering overview. We suggest that the capabilities of AI create a “jagged technological frontier” where some tasks are easily done by AI, while others, though seemingly similar in difficulty level, are outside the current capability of AI. For each one of a set of 18 realistic consulting tasks within the frontier of AI capabilities, consultants using AI were significantly more productive (they completed 12.2% more tasks on average, and completed task 25.1% more quickly), and produced significantly higher quality results (more than 40% higher quality compared to a control group). Consultants across the skills distribution benefited significantly from having AI augmentation, with those below the average performance threshold increasing by 43% and those above increasing by 17% compared to their own scores. For a task selected to be outside the frontier, however, consultants using AI were 19 percentage points less likely to produce correct solutions compared to those without AI
+
 <br/>
 
 | [Index](./) | [Previous](8-1-aiops) | [Next](10-discussion)

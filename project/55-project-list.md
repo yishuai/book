@@ -13,6 +13,8 @@ title: 项目示例
 
 - MIT Media Lab Research Project，[网站](https://www.media.mit.edu/research/?filter=projects)，[Github](https://github.com/mitmedialab)
 
+- LLM Chain for answering questions from documents with citations, https://github.com/whitead/paper-qa
+
 <br/>
 
 |[Index](./) | [Previous](53-bigdata-project) | [Next](81-conference)

@@ -52,6 +52,19 @@ LangChain 是做 RAG 的一个常用工具
 
 - huoko, wechatgpt golang版, chatgpt机器人(可docker部署)，目前支持wechat，telegram，[Github](https://github.com/houko/wechatgpt), [微信公众号](https://mp.weixin.qq.com/s/gxWoOhT7_kN_T07gFxP3Yg)
 
+## 参考
+
+- Patterns for Building LLM-based Systems & Products，[Webpage](https://eugeneyan.com/writing/llm-patterns/)，2023 年 8 月，介绍了七种模式
+    - Evals: To measure performance
+    - RAG: To add recent, external knowledge
+    - Fine-tuning: To get better at specific tasks
+    - Caching: To reduce latency & cost
+    - Guardrails: To ensure output quality
+    - Defensive UX: To anticipate & manage errors gracefully
+    - Collect user feedback: To build our data flywheel
+
+- OpenAI cookbook，[Github](https://github.com/openai/openai-cookbook/tree/main)
+
 <br/>
 
 | [Index](./) | [Previous](3-19-chatbot-opt) | [Next](5-1-agent-dev)

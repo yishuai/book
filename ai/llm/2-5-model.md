@@ -138,7 +138,9 @@ Additional Reading(s):
 
 - Mixtral 8x7B, Mixtral of experts, A high quality Sparse Mixture-of-Experts. Dec. 2023, [Webpage](https://mistral.ai/news/mixtral-of-experts/)，[中文介绍](https://huggingface.co/blog/zh/mixtral)，[MoE 详解](https://huggingface.co/blog/zh/moe)，[使用指南](https://mp.weixin.qq.com/s/BdXJ-eGs5tMY4yuB3vn7SA)
 
+- BloombergGPT, [arXiv 论文](https://arxiv.org/abs/2303.17564)
 
+- AllenAI Open Language Model: OLMo，包括数据，代码，2024，[网站](https://allenai.org/olmo)
 <br/>
 
 | [Index](./) | [Previous](1-13-rlhf) | [Next](2-7-data)

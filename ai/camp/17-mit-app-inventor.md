@@ -23,6 +23,8 @@ MIT App Inventor 的特点是它提高了基于智能手机的强大功能，提
 
 - 香港赛马会计算思维教育 [CoolThink](https://www.coolthink.hk/resource-kits/)
 
+- MIT RAISE AI 课程单元，[网站](https://raise.mit.edu/resources/)
+
 <br/>
 
 | [Index](./) | [Previous](15-everyday-ai) | [Next](19-tech-girl) |

@@ -53,6 +53,8 @@ NYU 课程代码：[Foster 2021](https://github.com/bwolfson2/dsclass2022)，[20
 
 - Streamlit — A faster way to build and share data apps, [Github](https://github.com/streamlit/streamlit) 
 
+- https://www.gradio.app/，可以自动生成一个公共链接，让其他人可以从自己的设备远程与您计算机上的模型进行交互。
+
 <br/>
 
 |[Index](./) | [Previous](20-coding) | [Next](25-dl)

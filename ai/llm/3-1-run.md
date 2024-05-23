@@ -2,10 +2,11 @@
 layout: post
 title: 本地模型运行
 ---
-
 我们首先学习如何本地运行模型。在本地运行后，我们就可以调本地的 LM 的 API，进行系统的开发测试。
 
 ## 代码及命令行方式运行
+
+最简单的办法，是下载 llamafile（[Github](https://github.com/Mozilla-Ocho/llamafile)），然后在命令行里运行就好。这是 Mozilla 的一个项目，目前支持 LLaVA 图像转文字、Mistral、WizardCoder、Rocket、Phi。
 
 最基本的本地运行模型的方法是：在 HuggingFace 上下载 ggml 文件，然后本地用 C 语言编程，来运行。下面是 Andrej Karpathy 在他的 LLM 视频中介绍的方法。
 
@@ -16,6 +17,8 @@ title: 本地模型运行
 如果是学习，我们可以从 [Karpathy 示例代码](https://github.com/karpathy/llama2.c/blob/master/run.c) 开始。这个代码是运行代码，但实际上 Karpathy 在这个仓库下，包括了完整的训练模型。具体来说，他重写了他原来写的实现 GPT-2 结构的 nanoGPT，实现了 Llama-2 的模型结构，然后用这个模型，在 TinyStories 数据集上进行了训练，得到了一个很小的 Llama-2 模型，才 15M。他也写了本地运行大模型的代码，能只需要大约 500 行 C 代码。这个代码会运行我们下载的 LLM 模型文件，接受我们的 Prompt，然后输出。
 
 运行它的方式也是“命令行”，比如：./run stories42M.bin -t 0.8 -n 256 -i "One day, Lily met a Shoggoth"
+
+Facebook 的 FairSeqv2 也提供了简单的编程接口，比如这个[调用 Mistral 8B 的例子](https://github.com/facebookresearch/fairseq2/tree/main/recipes/mistral)
 
 ### 图形界面运行
 

@@ -13,6 +13,8 @@ title: 编程
 
 - cleanrl: High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)， [Github](https://github.com/vwxyzjn/cleanrl)
 
+- Facebook [Pearl](https://github.com/facebookresearch/Pearl), 产品级增强学习库，支持推荐、广告、策略选择
+
 <br/>
 
 |[Index](index) | [Previous](1-resource) | [Next](3-dec-net) |

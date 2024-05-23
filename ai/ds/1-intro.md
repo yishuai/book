@@ -36,6 +36,10 @@ title: 数据科学入门
 
 - Course, Berkeley John Canny, CS194-16: Introduction to Data Science, [Fall 2015](https://bcourses.berkeley.edu/courses/1377158/)
 
+- https://www.coursera.org/learn/chatgpt-advanced-data-analysis, 使用 ChatGPT Code Interpreter 自动执行工作和生活中的任务, 自动阅读和创建 PDF、PowerPoint、Excel、图像、视频等文件
+
+- ChatGPT Prompts for Data Science! https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
+
 <br/>
 
 |[Index](../) | [Next](2-ds/3-0-ds)|

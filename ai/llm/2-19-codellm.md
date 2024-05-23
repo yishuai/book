@@ -54,6 +54,8 @@ Additional Reading(s):
 
 谷歌的 Gemini 模型可以读论文中的线图，给出画出该图的代码 [Youtube 视频](https://www.youtube.com/watch?v=sPiOP_CB54A)，甚至参加编程比赛 [Youtube 视频](https://www.youtube.com/watch?v=LvGmVmHv69s)。
 
+https://www.codacy.com/
+
 <br/>
 
 | [Index](./) | [Previous](2-16-peft) | [Next](2-21-multi-modal)

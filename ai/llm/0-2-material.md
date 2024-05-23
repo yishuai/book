@@ -49,6 +49,8 @@ title: 材料
 
 - LLM Course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks, 非常全面、细致、实战的一套课程，包括三部分：LLM 基础（数学、Python for ML、神经元网络、NLP），LLM 原理（LLM 模型、数据集、预训练模型、SFT、RLHF、评估、存储优化、新趋势），LLM 应用（运行、向量存储、检索增强、运行优化、部署、安全），[Github](https://github.com/mlabonne/llm-course)
 
+- Scrimba，https://www.coursera.org/specializations/ai-engineering
+
 ## 课本
 
 在课本方面，最经典的 SLP 课本中的第 12 章 Prompting and Instruct Tuning，还没有出。相关的技术方面的课本有：
@@ -80,6 +82,12 @@ NLP
 - Awesome-LLM: a curated list of Large Language Model，[Github](https://github.com/Hannibal046/Awesome-LLM)
 
 - OpenAI Research，[Webpage](https://openai.com/research)
+
+- 生成式 AI 和 LLM 资源 [Github](https://www.github-zh.com/projects/532465933-ai-notes)
+
+- Large language models from scratch （[Youtube](https://youtu.be/lnA9DMvHtfI)） and Large Language Models: Part 2 ([Youtube](https://youtu.be/YDiSFS-yHwk)) - Graphics in 5 Minutes on YouTube
+
+- 通往 AGI 之路，[飞书](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
 <br/>
 

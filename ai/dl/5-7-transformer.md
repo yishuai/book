@@ -67,6 +67,7 @@ Transformer 的不足是它采用注意力机制。该机制的计算复杂度�
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - AI4All Model - RNN Transformer PPT
+- 斯坦福 CS25: Transformers United V4，[课程网站](https://web.stanford.edu/class/cs25/)
 
 ### 复习题
 
@@ -87,6 +88,13 @@ Transformer 的不足是它采用注意力机制。该机制的计算复杂度�
 ## 参考
 
 - Berkeley Summit 2023, NVIDIA, Megatron-LM, Slides, Video
+- Facebook [xformers](https://github.com/facebookresearch/xformers)：Hackable and optimized Transformers building blocks, supporting a composable construction.
+- 金融时报，Generative AI exists because of the transformer: This is how it works, By Visual Storytelling Team and Madhumita Murgia in London SEPTEMBER 12 2023，https://ig.ft.com/generative-ai/
+- A jargon-free explanation of how AI large language models work, TIMOTHY B. LEE AND SEAN TROTT - 7/31/2023, https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/
+- The Acceleration of Artificial Intelligence
+A deep dive into the innovations powering this decade's artifical intelligence boom, Anna-Sofia Lesiv, March 20, 2023, https://www.contrary.com/foundations-and-frontiers/ai-acceleration
+- ChatGPT is everywhere. Here’s where it came from, By Will Douglas Heaven, February 8, 2023, https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/08/1068068/chatgpt-is-everywhere-heres-where-it-came-from/amp/
+
 
 <br/>
 

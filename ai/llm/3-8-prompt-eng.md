@@ -58,6 +58,23 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 ### 课程
 
+- Arizona DS，GPT 101，2023 年 8 月，https://ua-data7.github.io/introllms
+
+- Vanderbilt 大学，ChatGPT 应用提示工程，Coursera [课程网页](https://www.coursera.org/learn/prompt-engineering), https://www.coursera.org/learn/trustworthy-generative-ai
+
+- Scrimba，https://www.coursera.org/learn/prompt-engineering-for-web-developers, 提示工程，AI 辅助编程，AI 求职
+
+- ASU, https://www.coursera.org/learn/ai-foundations-prompt-engineering-with-chatgpt
+
+- Deeplearning.ai, https://www.coursera.org/projects/building-systems-with-the-chatgpt-api-project
+
+- Deeplearning.ai, https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project#details
+
+
+- Graham Neubig, CMU Advanced NLP Course: Prompting (2022), [Youtube](https://www.youtube.com/watch?v=5ef83Wljm-M)
+
+- Prompt Engineering 101: Autocomplete, Zero-shot, One-shot, and Few-shot prompting (2022), [Youtube](https://www.youtube.com/watch?v=v2gD8BHOaX4)
+
 - Berkeley CS294/194-196: Responsible GenAI, Omar Khattab, Stanford, App Development Layer: Prompt Engineering, Chains, Tools
 
 - Learn Prompting 课程, [Website](https://learnprompting.org/docs/intro)，[Basic](https://learnprompting.org/docs/category/-basics)，[Basic Applications](https://learnprompting.org/docs/category/-basic-applications)，[ChatGPT Tutorial](https://learningprompt.wiki/docs/chatgpt-learning-path) 
@@ -76,7 +93,9 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 ## Prompt 优化工具
 
-微软的 [Promptflow](https://github.com/microsoft/promptflow) 让我们能够定义 LLM Prompt 模版，包括对话历史的 Chat Prompt，和一定数量的测试集。然后，我们就可以在这个测试集上，批量运行，比较不同 Prompt 获得的回答的准确性。比如这个[数学习题求解的例子](https://github.com/microsoft/promptflow/blob/main/examples/tutorials/flow-fine-tuning-evaluation/promptflow-quality-improvement.md)。
+- 微软的 [Promptflow](https://github.com/microsoft/promptflow) 让我们能够定义 LLM Prompt 模版，包括对话历史的 Chat Prompt，和一定数量的测试集。然后，我们就可以在这个测试集上，批量运行，比较不同 Prompt 获得的回答的准确性。比如这个[数学习题求解的例子](https://github.com/microsoft/promptflow/blob/main/examples/tutorials/flow-fine-tuning-evaluation/promptflow-quality-improvement.md)。
+
+- 微软 Prompt Engine, [Github](https://github.com/microsoft/prompt-engine)
 
 ## Playground
 
@@ -117,6 +136,17 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 - My class required AI. Here's what I've learned so far (Mollick, 2023)
 - 月薪4万的“关键”新兴岗位：研究如何向AI发出专业提问，中国企业家杂志，2024-01-23，[微信公众号](https://mp.weixin.qq.com/s/tabh8Pkcvrvy7_qe6niJ4A)
 - Jason Ng，那么，我是如何使用 ChatGPT 的？可能吧，2024-01-24，[微信公众号](https://mp.weixin.qq.com/s/K3mjmkLye79Khem18QHORw)
+- OpenAI [Prompt Example](https://platform.openai.com/examples) 
+- Prompt Engineering Guide，[Website](https://www.promptingguide.ai/) 
+- Prompt Engineering, [Webpage](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/), March 15, 2023
+- 生成式 AI 和 Prompt 资源， [Github](https://github.com/swyxio/ai-notes#top-prompt-engineering-reads)
+- Github Awesome ChatGPT: https://github.com/search?q=awesome-chatgpt+&type=repositories&s=stars&o=desc
+- ChatGPT 中文调教指南, https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
+- Prompt 最佳实践，[飞书](https://waytoagi.feishu.cn/wiki/NbqXwHXrkiYWKVkFTbmcwxQqntb)
+
+- 我的大模型课，30 MAR 2024，[网站](https://ishell.online/blog/llm_course/)
+- 提示词图书馆，[飞书](https://vxc3hj17dym.feishu.cn/wiki/NqZRw9lGKiqiaTkxevXcEF73nQe?table=tblJmjjUu2j9PPvC&view=vew2fUKa8m)
 
 ## Paper
 

@@ -5,6 +5,8 @@ title: 探索 Web 编程
 
 Web 设计和开发，是美学和编程技术的结合。
 
+- https://www.coursera.org/specializations/frontend
+
 - Khan 基于 Javascript 的计算机编程入门，包括静态网页、游戏动画、数学物理自然仿真动画、交互式网站、SQL 数据库，[Khan](https://www.khanacademy.org/computing/computer-programming)
 
 - FCC 编程从入门到职业，包括网页、数据科学、数据分析（Python）、前端、后端、数据库，[练习网站](https://www.freecodecamp.org/)

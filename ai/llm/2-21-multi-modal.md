@@ -7,20 +7,6 @@ title: 多模 LLM
 
 我们首先看视觉 LLM。Flamingo 是这方面的开创性工作。它在 LLM 中加入了视觉。
 
-## Demo
-
-- 谷歌的 Gemini 模型可以读论文中的线图，给出画出该图的代码，收集和分析数据，然后再运行绘图代码，得到更新后的图 [Youtube 视频](https://www.youtube.com/watch?v=sPiOP_CB54A)；也可以理解音频，比如“正月”的“正”应该怎么发音 [Youtube 视频](https://www.youtube.com/watch?v=D64QD7Swr3s)。
-
-- [DALL-E mini demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)
-
-- [AllenAI vision demo](https://vision-explorer.allenai.org)
-
-- [DreamStudio image generation demo](https://beta.dreamstudio.ai/)
-
-- [Examples from AudioLM](https://google-research.github.io/seanet/audiolm/examples/)
-
-- [Stable Diffusion model weights ](https://github.com/CompVis/stable-diffusion)
-
 ## 课程材料
 
 - 斯坦福 CS224n Multimodal Deep Learning, [PPT](https://web.stanford.edu/class/cs224n/slides/Multimodal-Deep-Learning-CS224n-Kiela.pdf)
@@ -32,10 +18,6 @@ title: 多模 LLM
 - 约翰霍普金斯 UA 2024 Lec 14 Connecting language to outside world
     - Vision language models,
     - Speech-text models,
-
-## 练习
-
-- 微软 Generative AI for Beginners，[第九章：构建图像生成应用](https://github.com/microsoft/generative-ai-for-beginners/blob/main/09-building-image-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst)
 
 ## 论文
 
@@ -140,15 +122,37 @@ Audio
 - [2021/06] HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units. Wei-Ning Hsu et al. arXiv. [paper]
 - [2021/04] AST: Audio Spectrogram Transformer. Yuan Gong et al. arXiv. [paper]
 
+## Demo
+
+- 谷歌的 Gemini 模型可以读论文中的线图，给出画出该图的代码，收集和分析数据，然后再运行绘图代码，得到更新后的图 [Youtube 视频](https://www.youtube.com/watch?v=sPiOP_CB54A)；也可以理解音频，比如“正月”的“正”应该怎么发音 [Youtube 视频](https://www.youtube.com/watch?v=D64QD7Swr3s)。
+
+- [DALL-E mini demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+
+- [AllenAI vision demo](https://vision-explorer.allenai.org)，可以跑各种视觉应用，识别，语言，场景几何的常见模型
+
+- [DreamStudio image generation demo](https://beta.dreamstudio.ai/)
+
+- [Examples from AudioLM](https://google-research.github.io/seanet/audiolm/examples/)
+
+- [Stable Diffusion model weights ](https://github.com/CompVis/stable-diffusion)
+
+- GPT-4V，课程，https://www.coursera.org/learn/gpt-vision
+
+## 练习
+
+- 微软 Generative AI for Beginners，[第九章：构建图像生成应用](https://github.com/microsoft/generative-ai-for-beginners/blob/main/09-building-image-applications/translations/cn/README.md?WT.mc_id=academic-105485-koreyst)
+
 ## 软件
 
 - LLaVA (Haotian Liu): open source multimodal model (language and vision)，[Github](https://github.com/haotian-liu/LLaVA)，[Demo](https://llava-vl.github.io/llava-interactive/)，论文：[NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 
+- LLaVA 图像转文字：最简单的办法，是下载 llamafile（[Github](https://github.com/Mozilla-Ocho/llamafile)），然后在命令行里运行就好。这是 Mozilla 的一个项目，也支持 Mistral、WizardCoder、Rocket、Phi。
+
 - [Deforum](https://deforum.art/) (Huemin): platform and open source community for AI animation。Building upon the work of Disco Diffusion, PyTTI, and VQGAN+CLIP, Deforum began as a powerful [Colab Notebook](https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) and quickly evolved into an extension for the Automatic WebUI
 
-- Whisper 语音识别
+- Whisper 语音识别：我在自己的 MAC 上用 CPP 方式安装了 OpenAI 的 Whisper 语音识别大模型 [Github](https://github.com/ggerganov/whisper.cpp)，对中文进行识别，发现效果很好
 
-我在自己的 MAC 上用 CPP 方式安装了 OpenAI 的 Whisper 语音识别大模型 [Github](https://github.com/ggerganov/whisper.cpp)，对中文进行识别，发现效果很好
+- Facebook [Audiocraft](https://github.com/facebookresearch/audiocraft) 是一个通过深度学习进行音频处理和生成的库。它具有最先进的 EnCodec 音频压缩器/标记器，以及 MusicGen，这是一个简单且可控的音乐生成 LM，具有文本和旋律调节功能。
 
 <br/>
 

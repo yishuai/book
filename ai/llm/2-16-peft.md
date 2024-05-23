@@ -17,6 +17,8 @@ PEFT 有很多方法，如 Prompt Tunning、Prefix Tunning、Adapters、LoRA、T
 
 - [Efficient Large Language Model training with LoRA and Hugging Face](https://www.philschmid.de/fine-tune-flan-t5-peft)
 
+- Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora，4/22/2024, 英伟达（NVIDIA）H100 和英伟达（NVIDIA）A10G GPU 上创建和验证。配置文件和代码针对 4xA10G GPU 进行了优化，每个 GPU 均配备 24GB 内存，[英文原文](https://www.philschmid.de/fsdp-qlora-llama3?continueFlag=7e3b3f9059405e4318552e99bd128514)，[中文翻译](https://mp.weixin.qq.com/s/PR4fCky5a6geBdCbxsOURg)
+
 ## 课程材料
 
 - 斯坦福 CS324 2022 年 [Adaptation](https://stanford-cs324.github.io/winter2022/lectures/adaptation/)

@@ -125,7 +125,10 @@ Additional Reading(s):
 
 - Prompt base: All things prompt engineering, 论文 《Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine》 提出的方法，包括三个技术：dynamic few-shot selection, self-generated chain of thought, and choice-shuffle ensembling，效果好。[Github](https://github.com/microsoft/promptbase)
 
-## 
+## 链接
+
+- OpenAI 推荐 Prompt 资源、论文， [Github](https://cookbook.openai.com/articles/related_resources)， 2023 年 1 月
+
 <br/>
 
 | [Index](./) | [Previous](3-10-prompt-vision) | [Next](3-17-chatbot-dev)
