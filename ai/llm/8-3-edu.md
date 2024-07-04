@@ -13,6 +13,37 @@ MIT AI Edu
 https://raise.mit.edu/
 https://raise.mit.edu/research-projects/
 
+
+https://huggingface.co/MerlynMind/merlyn-education-corpus-qa-v2
+https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-AWQ
+13b parameter decoder-style transformer model for the education domain. It is fine-tuned from a llama2-13b base-model.
+
+# 精准学
+
+AI辅学机Bong
+
+精准学自主研发的“心流知镜”大模型中也结合了阿里云通义大模型。精准学自主研发的“心流知镜”大模型，结合阿里巴巴的千亿级通义模型。在研发过程中，通过16万小时的教育语音数据训练，能够自然地模仿超过20种个性化教学风格，具备多模态和个性化交互能力。
+
+精准学创始人兼CEO杨仁斌曾任淘宝首席产品经理，也是淘宝“猜你喜欢”的首任产品经理。他认为，“在AI大模型技术诞生之前，从原理上讲，大家都做不出真正合格的学习机。因为有效学习必须同时解决三个问题，一是孩子坐得住，二是学习内容个性化，三是看视频就能学得会。后面两个相对好解决，但第一个几乎无解。家长现在购买学习机最担心的就是‘吃灰’。从2018年起，我们在教学机构场景中，在老师监督下使用精准学学习机，有着很好的学习效果。如今，随着AI技术突破，我们通过跟孩子及AI老师的全程连线和实时通话，终于同时解决了这三个问题，才有机会创造出合格的产品。”
+
+# Khanmigo
+
+2024-04-22 | POWER4EDU
+
+Khanmigo的学术论文反馈功能，可以为学生的论文提供具体的和可操作的反馈。这包括了及时和有用的建议、论文结构介绍、适当的学术基调等。Sal Khan表示，在一年内，我们将有一位老师能够与人工智能一起分配工作。构建一个包含论文标题的写作活动，并通过人工智能来进行分配。人工智能不仅能提供反馈，还能在这个过程中提供帮助。比如说，“这是一篇论文，我们一起写提纲吧。”、“让我们找一些数据来支持你的论文观点。”然后，当人工智能向老师汇报时，它不会只是给出论文的评分。而是会给出“这篇文章花了四个小时。我们在写论文时遇到了一点麻烦，但我们最终还是做到了。”
+
+借助GPT-4的能力，Khanmigo可以进行更加复杂的对话，为学生提供更加逼真的AI导师。Sal Khan表示，GPT-3.5的能力确实无法推动有意思的对话。如果一个学生说，‘嘿，告诉我答案’。如果是使用GPT-3.5，即使你告诉它请不要告诉我答案，它仍然会给出答案。
+
+相反，Khanmigo会通过询问学生是如何得出答案的，或者指出他们是如何在数学问题上偏离方向的，来帮助学生自己找到答案。比如，Khanmigo能够给出“我们能够做到的是，‘做得好。看起来你把负2分配错了，为什么不再试一次呢？”或者，“你能帮我解释一下你的推理吗，因为我觉得你可能犯了一个错误？’”
+
+可汗学院创始人Sal Khan认为，Khanmigo的幻觉现象仍有可能发生，但GPT-4模型已将错误概率降低很多
+
+https://www.imconsultancy.net/power4edu/%E5%8F%AF%E6%B1%97%E5%AD%A6%E9%99%A2%E5%88%9B%E5%A7%8B%E4%BA%BASal%20Khan%E8%AE%A4%E4%B8%BA%EF%BC%8CKhanmigo%E7%9A%84%E5%B9%BB%E8%A7%89%E7%8E%B0%E8%B1%A1%E4%BB%8D%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%EF%BC%8C%E4%BD%86GPT-4%E6%A8%A1%E5%9E%8B%E5%B7%B2%E5%B0%86%E9%94%99%E8%AF%AF%E6%A6%82%E7%8E%87%E9%99%8D%E4%BD%8E%E5%BE%88%E5%A4%9A
+
+# Google Generative AI for Educators
+# 教老师 写 Prompt
+https://grow.google/ai-for-educators/
+
 ##
 
 https://ua-data7.github.io/introllms/education/#example-2-lecture-preparation

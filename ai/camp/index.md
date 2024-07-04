@@ -16,7 +16,7 @@ title: 探索 AI
 - [Technovation Girls AI 竞赛](19-tech-girl)
 - [AI 交互艺术](23-ml-arts)
 - [真实物理世界中的 AI 进化](25-ai-physics)
-- [AI for All](27-ng-ai)
+- [AI for Everyone](27-ng-ai)
 - [常见问题](31-faq)
 
 <br/>

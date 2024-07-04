@@ -60,7 +60,7 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 - Arizona DS，GPT 101，2023 年 8 月，https://ua-data7.github.io/introllms
 
-- Vanderbilt 大学，ChatGPT 应用提示工程，Coursera [课程网页](https://www.coursera.org/learn/prompt-engineering), https://www.coursera.org/learn/trustworthy-generative-ai
+- Vanderbilt 大学，ChatGPT 应用提示工程，Coursera [课程网页](https://www.coursera.org/learn/prompt-engineering), https://www.coursera.org/learn/trustworthy-generative-ai，非常好的课程，各种高级提示方法
 
 - Scrimba，https://www.coursera.org/learn/prompt-engineering-for-web-developers, 提示工程，AI 辅助编程，AI 求职
 
@@ -69,7 +69,6 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 - Deeplearning.ai, https://www.coursera.org/projects/building-systems-with-the-chatgpt-api-project
 
 - Deeplearning.ai, https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project#details
-
 
 - Graham Neubig, CMU Advanced NLP Course: Prompting (2022), [Youtube](https://www.youtube.com/watch?v=5ef83Wljm-M)
 

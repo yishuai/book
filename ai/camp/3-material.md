@@ -32,6 +32,12 @@ title: 致谢
 
 - https://www.elementsofai.com/, 介绍，开发，商业
 
+# 亚马逊未来工程师，CS 学生课，职业道路
+# AP CS 课
+
+https://www.amazonfutureengineer.com/
+
+
 <br/>
 
 | [Index](./) | [Previous](2-framework) | [Next](5-blockly) |

@@ -5,6 +5,8 @@ title: 课程材料
 
 ## 课程材料
 
+- 李沐老师，动手学深度学习 PyTorch版，[B 站视频](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)，2021 年
+
 - 伯克利大学 CS182 深度学习, [2021 Sergey Levine](https://cs182sp21.github.io/), [Levine](https://people.eecs.berkeley.edu/~svlevine/), [2020 John Canny](https://bcourses.berkeley.edu/courses/1487769/), [Canny](https://people.eecs.berkeley.edu/~jfc/)
 
 - 斯坦福大学 CS224n Natural Language Processing with Deep Learning 课程的 [材料](https://web.stanford.edu/class/cs224n/)
@@ -22,7 +24,7 @@ Berkeley John Canny
 ## 课本
 
 - [GBC] 1st edition of [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengia and Aaron Courville
-- [ZLLS] [Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
+- [ZLLS] [到手学深度学习](https://zh-v2.d2l.ai/)，[Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
 - [LRU3] 3rd edition of [Mining Massive Dataset](http://www.mmds.org/) by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 - Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), [网站](https://web.stanford.edu/~jurafsky/slp3/)
 - Eugene Charniak. [Introduction to Deep Learning](https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf)

@@ -57,7 +57,7 @@ title: 目录
     1. [弹性分布式数据集（RDD）](3-bigdata/5-3-rdd)
     1. [Spark RDD 编程](3-bigdata/5-5-rdd-example)
     1. [Spark DataFrame](3-bigdata/5-9-df)
-1. [大数据的数据库库](3-bigdata/7-0-db)
+1. [大数据的数据库](3-bigdata/7-0-db)
     1. [Hive](3-bigdata/7-3-hive)
     1. [HBase](3-bigdata/7-5-hbase)
 1. [大数据系统管理算法](3-bigdata/9-0-manage)

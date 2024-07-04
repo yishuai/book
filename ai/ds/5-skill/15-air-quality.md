@@ -252,6 +252,14 @@ print(f"True Air Quality Estimate
     = {-b/m:.2} + {1/m:.2}PA") 
 ```
 
+## 练习
+
+谷歌 流感 时间序列 可视化
+
+https://github.com/DS-100/textbook/tree/master/content
+
+ch/02/data_scope_big_data_hubris.ipynb
+
 <br/>
 
 |[Index](../) | [Previous](13-vis) | [Next](17-text) |
