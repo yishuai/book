@@ -12,8 +12,6 @@ title: 目录
 3. [数据及数据处理的特点](2-ds/3-3-character)
 4. [数据科学工作流程和技能](2-ds/3-5-flow-cap)
 5. [数据科学学习路径和编程练习](2-ds/3-7-path)
-6. [命令行工具](2-ds/3-9-tool)
-7. [SQL入门](2-ds/3-11-sql)
 
 第 2 章，数据科学生命周期
 
@@ -28,13 +26,15 @@ title: 目录
 
 第 3 章，数据整理
 
-9. [本章内容介绍](5-skill/1-intro)
+9. [本章内容介绍](5-skill/1-1-intro)
+6. [命令行工具](5-skill/1-3-tool)
 10. [Pandas DataFrame 表格格式](5-skill/3-3-pandas)
 11. [Pandas 获取数据子集](5-skill/3-5-subset)
 12. [Pandas 数据聚合和变换](5-skill/3-7-aggre)
-13. [SQL 数据处理基础](5-skill/5-sql)
-14. [文件的读入与查看](5-skill/7-file)
-15. [Pandas 数据整理](5-skill/9-wrangling)
+13. [SQL 数据处理基础](5-skill/5-1-sql)
+14. [SQL 入门](5-skill/5-3-sql)
+15. [文件的读入与查看](5-skill/7-file)
+16. [Pandas 数据整理](5-skill/9-wrangling)
 
 第 4 章，理解数据
 

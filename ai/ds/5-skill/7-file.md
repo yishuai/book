@@ -113,4 +113,4 @@ bus = pd.read_csv('data/businesses.csv',
 
 <br/>
 
-|[Index](../) | [Previous](5-sql) | [Next](9-wrangling) |
+|[Index](../) | [Previous](5-3-sql) | [Next](9-wrangling) |

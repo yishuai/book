@@ -27,5 +27,5 @@ Pandas 有两种数据结构：当表有很多列的时候，是 Dataframe。当
 
 <br/>
 
-|[Index](../) | [Previous](1-intro) | [Next](3-5-subset) |
+|[Index](../) | [Previous](1-3-tool) | [Next](3-5-subset) |
 

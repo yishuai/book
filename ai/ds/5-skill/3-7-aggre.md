@@ -94,4 +94,4 @@ Apply 的缺点是，它就像我们 Map 操作似的，是挨个挨个做的，
 
 <br/>
 
-|[Index](../) | [Previous](3-5-subset) | [Next](5-sql) |
+|[Index](../) | [Previous](3-5-subset) | [Next](5-1-sql) |
