@@ -69,4 +69,4 @@ hdfs dfs -rm /user/cloudide/localfile.txt
 
 <br/>
 
-|[Index](../) | [Previous](11-gpt) | [Next](15-wordcount)|
+|[Index](../) | [Previous](6-gui) | [Next](15-wordcount)|

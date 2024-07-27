@@ -242,4 +242,4 @@ SQL、Python、Power BI、数学/统计相关专业、数据分析/挖掘经验�
 
 <br/>
 
-|[Index](../) | [Previous](7-path) |
+|[Index](../)|

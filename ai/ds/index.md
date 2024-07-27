@@ -80,25 +80,25 @@ title: 目录
 第 9 章，大数据环境搭建和部署
 
 6. 环境设置
-    1. [SSH](11-hadoop-lab/1-ssh)
-    2. [JAVA 环境配置](11-hadoop-lab/3-java)
+    1. [SSH](15-lab/1-ssh)
+    2. [JAVA 环境配置](15-lab/3-java)
 7. Hadoop 实验
-    1. [安装 Hadoop](11-hadoop-lab/5-hadoop)
-    2. [Hadoop 管理界面](11-hadoop-lab/6-gui)
-    3. [HDFS 操作](11-hadoop-lab/12-experi)
-    4. [Java MapReduce 实验](11-hadoop-lab/15-wordcount)
-    5. [Python MapReduce 实验](11-hadoop-lab/17-mrlab)
+    1. [安装 Hadoop](15-lab/5-hadoop)
+    2. [Hadoop 管理界面](15-lab/6-gui)
+    3. [HDFS 操作](15-lab/12-experi)
+    4. [Java MapReduce 实验](15-lab/15-wordcount)
+    5. [Python MapReduce 实验](15-lab/17-mrlab)
 8. Spark 实验
-    1. [Spark 安装](15-spark-lab/3-install)
-    2. [练习](15-spark-lab/5-experi)
-    3. [Spark Submit](15-spark-lab/6-submit)
+    1. [Spark 安装](15-lab/23-spark-install)
+    2. [PySpark 练习](15-lab/25-experi)
+    3. [Spark Submit](15-lab/26-submit)
 9. 技巧与方法
-    1. [故障排查](11-hadoop-lab/7-debug)
-    2. [看日志](11-hadoop-lab/9-log)
-    3. [问 AI](11-hadoop-lab/11-gpt)
+    1. [故障排查](15-lab/27-debug)
+    2. [看日志](15-lab/29-log)
+    3. [问 AI](15-lab/31-gpt)
 
 第 10 章，大数据系统
-1. [的数据库](17-bigsys/7-0-db)
+1. [数据库](17-bigsys/7-0-db)
     1. [Hive](17-bigsys/7-3-hive)
     1. [HBase](17-bigsys/7-5-hbase)
 1. [管理算法](17-bigsys/9-0-manage)

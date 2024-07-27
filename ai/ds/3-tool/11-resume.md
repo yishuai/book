@@ -17,4 +17,4 @@ title: 简历练习
 
 <br/>
 
-|[Index](../) | [Previous](9-python) |
+|[Index](../)|

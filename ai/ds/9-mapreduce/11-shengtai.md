@@ -42,4 +42,4 @@ YARN 是负责集群资源管理的。它会规划 Map Reduce 的任务，尽量
 
 <br/>
 
-|[Index](../) | [Previous](9-sys-archi)|
+|[Index](../)|

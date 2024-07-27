@@ -124,4 +124,4 @@ Map 完成后，Map Reduce 系统就会收集所有这些“键值对”，进�
 
 <br/>
 
-|[Index](../) | [Previous](15-wordcount) |
+|[Index](../) | [Previous](15-wordcount) | [Next](../23-spark-install) |

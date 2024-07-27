@@ -15,5 +15,5 @@ title: 数据科学基本概念
 
 <br/>
 
-|[Index](../) | [Previous](../1-intro) | [Next](1-overview) |
+|[Index](../) | [Next](1-overview) |
 

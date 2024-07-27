@@ -17,4 +17,4 @@ title: Hadoop 管理界面
 
 <br/>
 
-|[Index](../) | [Previous](5-hadoop) | [Next](7-debug)|
+|[Index](../) | [Previous](5-hadoop) | [Next](6-gui)|

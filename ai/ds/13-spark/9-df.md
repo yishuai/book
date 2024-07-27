@@ -147,4 +147,4 @@ if __name__ == "__main__":
 
 <br/>
 
-|[Index](../) | [Previous](5-rdd-example) |
+|[Index](../)|

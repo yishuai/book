@@ -26,5 +26,5 @@ title: 数据检查问题
 
 <br/>
 
-|[Index](../) | [Previous](8-compare) |
+|[Index](../)|
 

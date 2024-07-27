@@ -102,4 +102,4 @@ start-yarn.sh
 
 <br/>
 
-|[Index](../) | [Previous](6-gui) | [Next](9-log)|
+|[Index](../) | [Previous](26-submit) | [Next](29-log)|

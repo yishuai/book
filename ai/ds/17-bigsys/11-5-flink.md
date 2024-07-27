@@ -15,4 +15,4 @@ Flink 能够接入各种数据源。它有很多连接器， Source 和 Sink 都
 
 <br/>
 
-|[Index](../) | [Previous](11-3-flume) |
+|[Index](../)|

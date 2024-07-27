@@ -90,4 +90,4 @@ start-yarn.sh
 
 <br/>
 
-|[Index](../) | [Previous](9-log) | [Next](12-experi)|
+|[Index](../)|

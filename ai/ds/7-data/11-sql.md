@@ -82,4 +82,4 @@ GROUP BY Firsts, Year;
 
 <br/>
 
-|[Index](../) | [Previous](9-db) |
+|[Index](../)|

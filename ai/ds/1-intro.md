@@ -81,4 +81,4 @@ title: 数据科学入门
 
 <br/>
 
-|[Index](../) | [Next](2-ds/3-0-ds)|
+|[Index](./)|

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 练习
+title: PySpark 练习
 ---
 
 # Hadoop 文件准备
@@ -41,4 +41,4 @@ df.show(n=10)
 
 <br/>
 
-|[Index](../) | [Previous](3-install) | [Next](6-submit)|
+|[Index](../) | [Previous](23-spark-install) | [Next](26-submit)|
