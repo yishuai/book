@@ -7,68 +7,108 @@ title: 目录
 
 第 1 章，数据科学基本概念
 
-1. [本章内容介绍](2-ds/3-0-ds)
-2. [数据科学的定义和应用](2-ds/3-1-overview)
-3. [数据及数据处理的特点](2-ds/3-3-character)
-4. [数据科学工作流程和技能](2-ds/3-5-flow-cap)
-5. [数据科学学习路径](2-ds/3-7-path)
+1. [数据科学基本概念](0-intro/0-ds)
+1. [数据科学的定义和应用](0-intro/1-overview)
+1. [数据处理的特点](0-intro/3-character)
+1. [数据科学工作流程和所需技能](0-intro/5-flow-cap)
+1. [数据科学学习路径和编程练习](0-intro/7-path)
+1. [职位分析](0-intro/9-job)
 
 第 2 章，数据科学生命周期
 
-1. [本章内容介绍](4-ana/12-1-dslifecycle)
-2. [数据分析职位](4-ana/12-3-career)
-3. [数据科学生命周期](4-ana/13-1-lifecycle)
-4. [理解数据的范围](4-ana/13-2-scope)
-5. [Bias 和 Precision](4-ana/13-3-error)
-6. [测量方法和协议的设计](4-ana/13-4-protocol)
-7. [Urn 仿真实验](4-ana/13-5-simulation)
-8. [常数模型和损失函数](4-ana/13-7-model)
-9. [案例：为什么我的公交车总晚点？](4-ana/13-9-bus)
+1. [介绍](1-principle/1-intro)
+1. [数据科学生命周期](1-principle/3-lifecycle)
+1. [数据范围](1-principle/5-datascope)
+1. [控制变量](1-principle/6-control)
+1. [测量误差与方法](1-principle/7-error)
+1. [两种方案的比较](1-principle/8-compare)
+1. [数据检查问题](1-principle/9-summary)
 
-第 3 章，数据整理
+第 3 章，职业工具与方法
 
-9. [本章内容介绍](5-skill/1-1-intro)
-6. [命令行工具](5-skill/1-3-tool)
-10. [Pandas DataFrame 表格格式](5-skill/3-3-pandas)
-11. [Pandas 获取数据子集](5-skill/3-5-subset)
-12. [Pandas 数据聚合和变换](5-skill/3-7-aggre)
-13. [SQL 数据处理基础](5-skill/5-1-sql)
-14. [SQL 入门](5-skill/5-3-sql)
-15. [文件的读入与查看](5-skill/7-file)
-16. [Pandas 数据整理](5-skill/9-wrangling)
+1. [AI 编程环境](3-tool/1-marscode)
+1. [Linux](3-tool/2-linux)
+1. [命令行工具](3-tool/3-cmd)
+1. [vi 文本编辑工具](3-tool/4-vi)
+1. [文件的读入与查看](3-tool/5-file)
+1. [Jupyter Notebook](3-tool/7-jupyter)
+1. [Python](3-tool/9-python)
+1. [简历练习](3-tool/11-resume)
 
-第 4 章，理解数据
+第 4 章，假设检验
+
+1. [随机抽样](5-stat/1-simu)
+1. [假设检验](5-stat/2-hypo-test)
+
+第 5 章，数据处理和分析
+
+1. [数据处理与分析](7-data/1-intro)
+1. [Pandas 处理关系](7-data/2-pandas)
+1. [DataFrame 表格的格式](7-data/3-dataframe)
+1. [获取子集](7-data/5-subset)
+1. [聚合和变换](7-data/7-aggre)
+1. [数据库原理](7-data/9-db)
+1. [SQL 数据处理](7-data/11-sql)
+
+<!-- 第 4 章，理解数据
 
 1. [本章内容介绍](5-skill/10-intro)
 2.  [探索式数据分析](5-skill/11-eda)
 3.  [数据可视化](5-skill/13-vis)
 4.  [案例：空气质量测量模型](5-skill/15-air-quality)
 19. [正则表达式](5-skill/17-text)
+9. [常数模型和损失函数](3-principle/7-model)
+10. [案例：为什么我的公交车总晚点？](3-principle/9-bus) -->
 
-第 5 章，大数据处理与系统
+第 6 章，大数据处理基本概念
 
-1. [大数据处理基本概念](3-bigdata/4-0-bigdata)
-    1. [Hadoop 分布式文件系统（HDFS）](3-bigdata/4-3-hdfs)
-    1. [MapReduce](3-bigdata/4-5-mapreduce)
-    1. [MapReduce 编程](3-bigdata/4-7-mr-lab)
-    1. [大数据系统结构](3-bigdata/4-9-sys-archi)
-    1. [Hadoop 生态](3-bigdata/4-11-shengtai)
-1. [Spark](3-bigdata/5-0-spark)
-    1. [Spark 简介](3-bigdata/5-1-spark-intro)
-    1. [弹性分布式数据集（RDD）](3-bigdata/5-3-rdd)
-    1. [Spark RDD 编程](3-bigdata/5-5-rdd-example)
-    1. [Spark DataFrame](3-bigdata/5-9-df)
-1. [大数据的数据库](3-bigdata/7-0-db)
-    1. [Hive](3-bigdata/7-3-hive)
-    1. [HBase](3-bigdata/7-5-hbase)
-1. [大数据系统管理算法](3-bigdata/9-0-manage)
-    1. [ZooKeeper](3-bigdata/9-1-zookeeper)
-    1. [Paxos](3-bigdata/9-3-paxos)
-    1. [主导资源公平分配算法（DRF）](3-bigdata/9-5-resource)
-1. [大数据的数据传输](3-bigdata/11-0-databus)
-    1. [Kafka](3-bigdata/11-1-kafka)
-    1. [Flume](3-bigdata/11-3-flume)
-    1. [Flink](3-bigdata/11-5-flink)
+1. [介绍](9-mapreduce/1-bigdata)
+2. [职位分析](9-mapreduce/2-job)
+3. [HDFS](9-mapreduce/3-hdfs)
+4. [MapReduce](9-mapreduce/5-mapreduce)
+5. [大数据系统结构](9-mapreduce/9-sys-archi)
+6. [大数据生态](9-mapreduce/11-shengtai)
+
+第 7 章，Spark
+
+1. [Spark](13-spark/0-spark)
+2. [Spark 简介](13-spark/1-intro)
+3. [RDD 弹性分布式数据集](13-spark/3-rdd)
+4. [RDD 操作示例](13-spark/5-rdd-example)
+5. [DataFrame](13-spark/9-df)
+
+第 9 章，大数据环境搭建和部署
+
+6. 环境设置
+    1. [SSH](11-hadoop-lab/1-ssh)
+    2. [JAVA 环境配置](11-hadoop-lab/3-java)
+7. Hadoop 实验
+    1. [安装 Hadoop](11-hadoop-lab/5-hadoop)
+    2. [Hadoop 管理界面](11-hadoop-lab/6-gui)
+    3. [HDFS 操作](11-hadoop-lab/12-experi)
+    4. [Java MapReduce 实验](11-hadoop-lab/15-wordcount)
+    5. [Python MapReduce 实验](11-hadoop-lab/17-mrlab)
+8. Spark 实验
+    1. [Spark 安装](15-spark-lab/3-install)
+    2. [练习](15-spark-lab/5-experi)
+    3. [Spark Submit](15-spark-lab/6-submit)
+9. 技巧与方法
+    1. [故障排查](11-hadoop-lab/7-debug)
+    2. [看日志](11-hadoop-lab/9-log)
+    3. [问 AI](11-hadoop-lab/11-gpt)
+
+第 10 章，大数据系统
+1. [的数据库](17-bigsys/7-0-db)
+    1. [Hive](17-bigsys/7-3-hive)
+    1. [HBase](17-bigsys/7-5-hbase)
+1. [管理算法](17-bigsys/9-0-manage)
+    1. [ZooKeeper](17-bigsys/9-1-zookeeper)
+    1. [分布式一致性算法 Paxos](17-bigsys/9-3-paxos)
+    1. [分布式资源分配](17-bigsys/9-5-resource)
+1. [流式处理](17-bigsys/11-0-databus)
+    1. [Kafka](17-bigsys/11-1-kafka)
+    1. [Flume](17-bigsys/11-3-flume)
+    1. [Flink](17-bigsys/11-5-flink)
 
 [后记](99-note)
 

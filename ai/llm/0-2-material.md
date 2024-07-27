@@ -22,6 +22,8 @@ title: 材料
 
 - 约翰霍普金斯 UA，NLP: Self-supervised Models 本科，CS 601.471/671 [Spring 2024](https://self-supervised.cs.jhu.edu/sp2024/), [Spring 2023](https://self-supervised.cs.jhu.edu/sp2023/)
 
+- 李宏毅，2024 春，生成式人工智能导论，[B 站视频](https://www.bilibili.com/video/BV1BJ4m1e7g8)
+
 第三类是研究生的论文研讨课。由研究生来讲论文。这包括华盛顿大学 Choi 老师、普林斯顿大学陈丹琪老师、约翰霍普金斯大学老师的课程。这些课程的 PPT 是同学做的，属于参考材料。这些课程的材料如下：
 
 - 华盛顿大学，CSE 599 Exploration on Language, Knowledge, and Reasoning，[2023](https://cse599d1wi23.notion.site/cse599d1wi23/CSE-599-D1-Winter-2023-fe73cb56c11b45efb34e94c090480791)
