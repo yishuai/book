@@ -17,6 +17,12 @@ title: 深度学习
 
 到这里，我们就基本上掌握了主流的深度学习模型了。下面是详细的内容。
 
+# 参考文献
+
+- 深度学习国际课程资源简介，2019 年，[网页](https://yishuai.github.io/doc/dl.html)
+
+- 深度图模型，2020 年，[网页](https://yishuai.github.io/bigalgo/graph.html)
+
 <br/>
 
 |[Index](./) | [Next](./0-3-material) |

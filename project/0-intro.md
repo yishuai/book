@@ -17,6 +17,10 @@ title: 介绍
 
 最后，是研讨和交流。
 
+# 参考
+
+- 研究入门，[网页](https://yishuai.github.io/research/index.html)，[B站视频](https://space.bilibili.com/88039759/channel/collectiondetail?sid=415470)，2021 年
+
 <br/>
 
 |[Index](./) | [Previous](./) | [Next](1-chatgpt)|

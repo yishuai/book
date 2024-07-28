@@ -25,6 +25,8 @@ personal meaning to them.”
 
 - MIT [Learning Creative Learning](https://lcl.media.mit.edu/)，一个由教育者、设计师和捣鼓爱好者组成的社群，从项目、热情、同伴、玩乐中探索创意学习， [网站源码](https://github.com/mitmedialab/lcl)
 
+- 人工智能：技术与社会，本科课程，2020 年，[网页](https://yishuai.github.io/dl)
+
 <br/>
 
 |[Index](./) | [Previous](./) | [Next](2-framework)|

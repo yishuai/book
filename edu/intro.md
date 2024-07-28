@@ -11,6 +11,10 @@ title: 寻找理想的教育
 
 下面是我的旅程。
 
+# 参考链接
+
+- 不愤不启，不悱不发，教研室座谈，2022 年 6 月，[网页 PPT](https://yishuai.github.io/talk/teach/index.html?p=teach.md)
+
 <br/>
 
 |[Index](../) | [Next](1-intro/1-zhao)|
