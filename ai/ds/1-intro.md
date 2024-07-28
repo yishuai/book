@@ -30,26 +30,33 @@ title: 数据科学入门
 
 - Data Science for Business. Foster Provost and Tom Fawcett, 2013, 中文版：商战数据挖掘，配套 NYU 课程
 
-- Book Machine Learning: The Art and Science of Algorithms that Make Sense of Data
+- Machine Learning: The Art and Science of Algorithms that Make Sense of Data
 
-- Book Data Science from Scratch, Joel Grus, 2015
+- Data Science from Scratch, Joel Grus, 2015
 
 - Python for Data Analysis，3rd Version， [Website](https://wesmckinney.com/book/), [Code](https://github.com/wesm/pydata-book)
 
 - Pandas cheat sheet，[PDF](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
+- [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Free online PDF) This book is a great reference for the machine learning and some of the statistics material in the class
+
+- [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do) (Available as eBook for Berkeley students) This books provides a unique case-study view of data science but uses R and not Python.
+
+- Duke CCC 老师课本，[网站](https://people.duke.edu/~ccc14/cspy/index.html)
+
 ## 课程
 
 - Brown CS1951a 2021，[Webpage](https://cs1951a-summer2021-brown.github.io)
 
-- Duke BIOS823 2021, [Github](https://github.com/cliburn/bios-823-2021/tree/main/notebooks)
+- Duke BIOS823 大数据统计编程 2021, [Github](https://github.com/cliburn/bios-823-2021/tree/main/notebooks)
   - A 部分是基本的python语法，然后还包括一些SQL，还有 NoSQL，比如说 MongoDB 这种数据库。Neo4j。Neo4j 是一个图数据库，用的也挺广的。所以这都是我们做数据科学经常用到的一些工具。
   - B 部分是基本的机器学习、深度学习。包括数据预处理、降维、聚类、分类，还包括深度学习。适合入门。
   - C 部分是大数据的 SPARK 的入门练习，包括 RDD、DataFrame、SQL、机器学习。
+  - [老师主页 1](https://scholars.duke.edu/person/cliburn.chan)，[老师主页 2](https://biostat.duke.edu/profile/chi-wei-cliburn-chan)，[老师全部课程主页](https://people.duke.edu/~ccc14/)，[课程主页](https://biostat.duke.edu/education-and-training/master-biostatistics/course-descriptions)
 
 - Berkeley John Canny, CS194-16: Introduction to Data Science, [Fall 2015](https://bcourses.berkeley.edu/courses/1377158/)
 
-- 伯克利大学，DS100，Principles and Techniques of Data Science，[网站](https://ds100.org/)，[课程笔记](https://ds100.org/course-notes/)
+- 伯克利大学，DS100，Principles and Techniques of Data Science，[网站](https://ds100.org/)，[课程笔记](https://ds100.org/course-notes/), [Debug Guide](https://ds100.org/debugging-guide/)
 
 - NYU Data Science for Business：[Foster 2021](https://github.com/bwolfson2/dsclass2022)，[2021 夏](https://github.com/bwolfson2/data_biz_2021) ，[2022](https://github.com/bwolfson2/dsclass2022)，配套图书《Data Science for Business》
 
@@ -61,7 +68,7 @@ title: 数据科学入门
 
 - https://www.coursera.org/learn/chatgpt-advanced-data-analysis, 使用 ChatGPT Code Interpreter 自动执行工作和生活中的任务, 自动阅读和创建 PDF、PowerPoint、Excel、图像、视频等文件
 
-- ChatGPT Prompts for Data Science! https://github.com/travistangvh/ChatGPT-Data-Science-Prompts
+- ChatGPT Prompts for Data Science! [Github](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)，各种 Prompt：写/解释/优化/格式/翻译/代码和 SQL，解释概念，建议想法，排除问题
 
 ## 工具
 
