@@ -19,6 +19,10 @@ title: Python
 
 我们先练习 A01 Python 概念和 A02 Numpy 概念。大家做完这个之后，就会成为真正的高手。我这么说不是骗你们的，因为这里面的东西都是一般的教程不会讲的，是真正的高手才会用的。即使你是学过 Python 的同学，我也建议你做一下，保证你有收获。你会发现：哇，原来 Python 开始这么玩。就很有意思。
 
+# 课程
+
+- Ng 老师，AI Python for Beginners: Basics of AI Python Coding，[学习网站](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+
 <br/>
 
 |[Index](../) | [Previous](7-jupyter) | [Next](11-resume)|

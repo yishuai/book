@@ -61,8 +61,15 @@ ReAct 通过给 LLM 送入“思考-动作-观察”的难题解决过程的示�
 
 ## 课程
 
-- 斯坦福 DeepLearning.AI Short Course，[Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/functions-tools-agents-langchain)
+- 斯坦福 DeepLearning.AI Short Course
+  - [Building AI Applications with Haystack](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack)
+  - [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen)
+  - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+  - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex)
+  - [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/functions-tools-agents-langchain)
+  - [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development)
 
+- Agentic Design Patterns: Reflection, Tool Use, Planning, Multi-agent collaboration, Mar 20, 2024, [Webpage](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/)
 <br/>
 
 | [Index](./) | [Previous](3-20-rag-app-dev) | [Next](5-3-agent-app)

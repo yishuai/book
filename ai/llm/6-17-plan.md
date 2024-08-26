@@ -5,6 +5,12 @@ title: 计划
 
 ## 论文
 
+### Ng 老师推荐论文
+
+- “Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,” Wei et al. (2022)
+- “HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face,” Shen et al. (2023)
+- “Understanding the planning of LLM agents: A survey,” by Huang et al. (2024)
+
 ### LeCun 论文
 
 Reacting vs planning (Yann LeCun)

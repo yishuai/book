@@ -56,6 +56,10 @@ Additional Reading(s):
 
 https://www.codacy.com/
 
+## Tool
+
+- Aider: AI pair programming in your terminal, https://github.com/paul-gauthier/aider
+
 <br/>
 
 | [Index](./) | [Previous](2-16-peft) | [Next](2-21-multi-modal)

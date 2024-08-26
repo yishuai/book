@@ -46,6 +46,14 @@ Answer: Yes
 
 ## 论文
 
+### Ng 老师推荐论文
+
+- 反思
+  - “Self-Refine: Iterative Refinement with Self-Feedback,” Madaan et al. (2023)
+  - “Reflexion: Language Agents with Verbal Reinforcement Learning,” Shinn et al. (2023)
+  - “CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
+- 
+
 ### Andrej Karpathy 推荐论文
 
 - 系统一与系统二思维（Thinking Fast and Slow）

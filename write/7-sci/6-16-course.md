@@ -13,7 +13,7 @@ title: 哈佛科学写作课程
 
 <br/>
 
-|[Index](../) | [Previous](6-12-peer-review) | [Next](7-summary)|
+|[Index](../) | [Previous](6-15-ml-rebut) | [Next](7-summary)|
 
 ## 附录：课程大纲
 

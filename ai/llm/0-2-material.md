@@ -39,6 +39,7 @@ title: 材料
 - Ng 老师 
   - Generative AI for Everyone 课程（[B 站视频](https://www.bilibili.com/video/BV11G411X7nZ)，[Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)）。该课程包括 30 课，6 小时，三个单元：简介，项目，商业与社会。
   - DeepLearning.AI，[网站](https://www.deeplearning.ai/)
+  - Letters from Andrew Ng，Personal messages to the AI community，[网站](https://www.deeplearning.ai/the-batch/tag/letters/)
 
 - 伯克利
   - LLM 训练营，全栈深度学习，[LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)，2023

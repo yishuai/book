@@ -7,9 +7,15 @@ Agent 会使用各种工具，并执行各种动作。这有点像机器人。
 
 ## 论文
 
+### Ng 老师推荐论文
+
+- “Gorilla: Large Language Model Connected with Massive APIs,” Patil et al. (2023)
+- “MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action,” Yang et al. (2023)
+- “Efficient Tool Use with Chain-of-Abstraction Reasoning,” Gao et al. (2024)   
+
 ### Andrej Karpathy 推荐论文
 
-LLM本身并不擅长执行我们已经为其编写了软件（如计算器）的任务。一个数字跟在另一个数字后面的概率很高并不意味着它是正确的数字。因此，我们需要LLM能够在执行过程中调用外部工具。以下是一些探讨LLM工具用法的论文
+LLM 本身并不擅长执行我们已经为其编写了软件（如计算器）的任务。一个数字跟在另一个数字后面的概率很高并不意味着它是正确的数字。因此，我们需要LLM能够在执行过程中调用外部工具。以下是一些探讨LLM工具用法的论文
 
 - Toolformer: Language Models Can Teach Themselves to Use Tools，[论文链接](https://arxiv.org/abs/2302.04761)
     - 这论文展示了LLM如何使用工具来增强他们在简单预测下一个单词效果不佳的领域的能力

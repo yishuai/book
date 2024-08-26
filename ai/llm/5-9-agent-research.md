@@ -7,6 +7,14 @@ title: Agent 研究
 
 为了实现智能追踪的 Agent，我们需要结合增强学习（RL）和大语言模型（LLM）。在我们的追踪 Agent 的设计中，LLM 提供知识和推理能力，而 RL 感知环境，调整策略，改进追踪的有效性和可靠性。
 
+## Multi Agent
+
+Ng 老师推荐论文
+
+- “Communicative Agents for Software Development,” Qian et al. (2023) (the ChatDev paper)
+- “AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation,” Wu et al. (2023) 
+- “MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework,” Hong et al. (2023)
+
 ## 论文
 
 下面是 Github Awesome Autonomous Agent Papers [网页](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) 中推荐的论文。

@@ -13,4 +13,4 @@ title: 面向公众的科学写作
 
 <br/>
 
-|[Index](../) | [Previous](4-6-chris-algo) | [Next](5-2-mag-style)|
+|[Index](../) | [Previous](4-7-ml-paper) | [Next](5-2-mag-style)|

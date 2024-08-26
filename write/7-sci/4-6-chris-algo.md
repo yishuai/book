@@ -106,4 +106,4 @@ title: 论文写作算法
 
 <br/>
 
-|[Index](../) | [Previous](4-4-margo-art) | [Next](5-0-magazine)|
+|[Index](../) | [Previous](4-4-margo-art) | [Next](4-7-ml-paper)|

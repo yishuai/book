@@ -41,9 +41,11 @@ title: 同行评审方法
 
 - 哈佛写作中心，学位论文写作指南，https://writingproject.fas.harvard.edu/pages/senior-thesis-writing-guides
 
+- NeurIPS 2022 Reviewer Guide, [Webpage](https://neurips.cc/Conferences/2022/ReviewerGuidelines)
+
 <br/>
 
-|[Index](../) | [Previous](../jt) | [Next](../sampling)|
+|[Index](../) | [Previous](6-10-process) | [Next](6-13-ml-review)|
 
 ## 附录 1：
 

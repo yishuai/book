@@ -27,6 +27,8 @@ personal meaning to them.”
 
 - 人工智能：技术与社会，本科课程，2020 年，[网页](https://yishuai.github.io/dl)
 
+- Ilya Sutskever, MIT DL 2018, OpenAI 元学习与自我对弈, [B 站视频](https://www.bilibili.com/video/BV1wb4y1M7iY)，面向 MIT 本科生的一小时讲座，各种基本概念，都用一句话讲清楚。风格稳重。后面 17 分钟 MIT 学生的提问也很有意思。内容有：Meta learning， self play， alignment， LM， agent world， social agent。这些年来，就是在按照这条路走。
+
 <br/>
 
 |[Index](./) | [Previous](./) | [Next](2-framework)|
