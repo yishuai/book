@@ -77,5 +77,5 @@ title: 到昆明
 
 <br/>
 
-| [Index](./) | [Previous](5-3-leave) | [Next](6-3-zenghu) |
+| [Index](./) | [Previous](5-3-leave) | [Next](6-3-0-zenghu) |
 
