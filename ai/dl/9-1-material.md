@@ -32,4 +32,4 @@ Berkeley John Canny
 
 <br/>
 
-|[Index](./) | [Previous](0-1-intro) | [Next](1-3-mlp)
+|[Index](./) | [Previous](6-11-vis-cloud) |

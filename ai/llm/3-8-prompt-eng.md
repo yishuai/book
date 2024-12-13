@@ -78,7 +78,7 @@ OpenAI 官方的 Prompt 工程指南（[英文版](https://platform.openai.com/d
 
 - Learn Prompting 课程, [Website](https://learnprompting.org/docs/intro)，[Basic](https://learnprompting.org/docs/category/-basics)，[Basic Applications](https://learnprompting.org/docs/category/-basic-applications)，[ChatGPT Tutorial](https://learningprompt.wiki/docs/chatgpt-learning-path) 
 
-- 提示工程指南，[网站](https://www.promptingguide.ai/)
+- 提示工程指南，[网站](https://www.promptingguide.ai/)，中文版：https://www.promptingguide.ai/zh
 
 - 上海科技大学电力电子与再生能源实验室，[如何让 ChatGPT 助力科研进程](https://zhuanlan.zhihu.com/p/662192875)？2023 年 10 月
 

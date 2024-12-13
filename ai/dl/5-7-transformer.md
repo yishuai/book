@@ -3,59 +3,135 @@ layout: post
 title: Transformer
 ---
 
-基于 Self-Attention，人们提出了 Transformer 这个强大的序列模型。目前所有的主流深度学习模型都是基于 Transformer 构建的，应用非常广泛。
+基于自注意力机制，人们提出了Transformer这一强大的序列模型。Transformer，这个名字来源于变形金刚，已经成为深度学习领域的标志性技术。目前，所有主流的深度学习模型几乎都是基于Transformer衍生出来的，应用范围非常广泛。
 
-## 模型设计
+Transformer模型具体由两部分组成：编码器和解码器。
 
-Transformer 包括四方面的设计：
+1. 编码器（Encoder）：编码器接收输入序列，并逐层处理这些数据，通过自注意力机制和前馈神经网络将其编码为一组上下文表示。
 
-首先是位置编码，应对“缺少序列信息”。为此，它采用 sin/cos 编码，获得单词的相对位置；
+2. 解码器（Decoder）：解码器接收编码器的输出，并结合目标序列，通过自注意力机制和前馈神经网络生成最终的输出序列。
 
-其次是多头注意力机制，让一个单词可以 Query 多个位置的单词。这是因为一个 Self Attention 的 Query，在做了 Softmax 后，会聚焦到一个词上。因此，用多个头（8个一般就够），让单词可以 Query 多个位置；
+## 编码器
 
-然后是增加非线性能力。Self-Attention 是线性的，因此，为了提高模型的模型能力，在层之间，加非线性激活函数；
+Transformer 的编码器由多个堆叠的自注意力块组成。它包括以下三个设计：
 
-最后是 Masked decoding 机制。在生成一个单词时，因为此时后面的单词还不知道，所以不能 Attention 到这些单词。所以，通过 Mask 的方式，避免模型会 Attention 到后面的单词。
+1. 多头注意力机制：类似于卷积神经网络（CNN）对一张图片，采用多个卷积核独立地进行卷积（即 Channel），Transformer 为每个单词训练多组注意力权重。这就是所谓的多头注意力机制。这是因为人们发现：一个自注意力头往往会聚焦到某一个词。因此，人们通过使用多个头（通常为8个），让一个单词能够查询更多的单词，从而改进模型的性能。
 
-## 模型结构
+2. 前馈神经网络层（FFN）：自注意力机制本身是线性的。为了增加模型的非线性能力，我们在注意力机制之后加入了非线性激活函数。具体来说，通过加入一个前馈神经网络，利用它的非线性激活函数，增加模型的非线性能力。
 
-它具体由两部分组成：编码器和解码器。
+3. 残差连接：在注意力机制和前馈神经网络之间加入残差连接。残差连接使得这两者之间的结合更加紧密，提高了模型的稳定性和性能。
 
-编码器包括三部分：
+通过结合多头注意力机制、前馈神经网络和残差连接，我们就获得了一个功能强大的注意力块。多个这样的注意力块堆叠在一起，就构成了 Transformer 的编码器。
 
-1）输入、位置表征
+## 解码器
 
-2）自注意机制，得到 C
-- Scaled QKV Attention
-    - softmax(QK/sqrt(D))，D 是单词表征的维度
-- 多头
-    - 允许一个注意力模块，照顾到一个输入序列中的多个部分
-- 对 Padding 的位置，把 Attention 分数设为负无穷，这样 softmax 后，就被忽略了
+在解码过程中，首先对解码输入序列进行自注意力处理。需要注意的是，这里的自注意力机制采用了Masked 注意力。这是因为在生成一个单词时，后面的单词信息尚未知道，因此不能将注意力集中在这些单词上。通过使用Mask的方式，避免模型关注后面的单词。这就是所谓的Masked 自注意力机制。它的实现如下：如果查询向量（Query, Q）的索引 \(i\) 大于键向量（Key, K）的索引 \(j\)，就将注意力分数设为负无穷，这样经过Softmax处理后，这个注意力关系就会被忽略。
 
-3）FF layer
-- 线性后，非线性激活，再线性
+在解码输入序列经过自注意力机制处理后，会被送入一个“跨注意力机制”，进行编码器和解码器之间的注意力处理。此时，查询向量（Q）来自解码器，而键向量（K）和值向量（Value, V）则来自编码器。跨注意力机制的结果，再经过前馈神经网络处理，生成最终的输出。
 
-解码器
+## 输入位置编码
 
-1）Masked 自注意力
-- Q 的 i，如果大于 K 的 j，就把 Attention 分数设为负无穷，这样softmax后，就被忽略了
+## 三角函数位置编码
 
-2）编码器 - 解码器 注意力
-- Q：从 target 来
-- K，V：从 source 来
-- 像前面RNN的Attention了
+自注意力机制的一个问题在于：输入序列中 Token 的先后顺序可能被忽略。因此，人们设计了各种“位置编码”方法，将 Token 的序号等位置信息引入模型。我们下面介绍两种方法。
 
-## 特点
+第一种方法是采用正弦（sin）和余弦（cos）函数进行编码，以获得 Token 的相对位置。该方法的基本思想是：将序列中每个位置 $pos$ 设置一个固定维数的向量，比如 16 维。这个位置向量的取值如下：
 
-Transformer 采用 Layer normalization，对一层的 a 的向量做归一化。这是因为在 MLP 中常用的 Batch normalization 在这里不太适用。首先，训练数据的 batch 小，然后，sequance 的长度不一样。
+$$
+PE_{(pos, 2i)} = \sin(\frac{pos}{10000^{2i/d_{model}}})
+$$
 
-Transformer 模型有如下好处
-- 适合长范围连接
-- 容易并行化
-- 变换能够更深
-- 比 RNN 和 LSTM 都好
+$$
+PE_{(pos, 2i+1)} = \cos(\frac{pos}{10000^{2i/d_{model}}})
+$$
 
-Transformer 的不足是它采用注意力机制。该机制的计算复杂度是 O(n^2)，很高。
+其中，$PE$ 是位置编码，$pos$ 是位置，$i$ 是维度索引，$d_{model}$ 是模型的维度。
+
+为什么这种编码方式能够表示序列中 Token 位置的相对关系呢？让我们首先观察一个特定维度（比如 $i=1$）的位置编码。从公式中我们可以发现：当 $i=1$ 时，位置编码是具有正弦和余弦形式的周期函数，也就是说，它的值会随着位置的变化而周期性变化。因此，当两个位置有着相同的编码值时，这意味着这两个位置之间的距离正好等于这个周期函数的周期的整数倍。这反映了两个位置之间相对距离的特定信息。
+
+对于不同的维度 $i$，位置编码的周期是不同的。因此，所有这些不同维度的位置信息综合到一起，就表示了两个位置之间相对距离的不同尺度的信息。通过结合这些位置信息，模型能够准确地捕捉序列中 Token 的相对位置和顺序。这就是位置编码设计的基本原理。
+
+## 旋转位置编码
+
+我们接下来介绍一种最近非常常见的旋转位置编码（Rotary Position Embedding, RoPE）。这种方法的原理是通过旋转输入向量的方式，将位置信息编码到 Token 中。其数学表达式如下：
+
+设输入向量 $x$ 的维度为 $d$，位置为 $pos$，则旋转位置编码 $RoPE(x, pos)$ 的公式为：
+
+$$
+RoPE(x, pos) = \left[ \begin{array}{cc}
+\cos(\theta_{pos}) & -\sin(\theta_{pos}) \\
+\sin(\theta_{pos}) & \cos(\theta_{pos})
+\end{array} \right] \cdot x
+$$
+
+其中，$\theta_{pos}$ 是与位置 $pos$ 相关的角度，可以通过以下公式计算得到：
+
+$$
+\theta_{pos} = \frac{pos}{10000^{2i/d}}
+$$
+
+如上式所示，旋转位置编码（RoPE）首先定义旋转矩阵 $R(\theta_{pos})$：
+
+$$
+R(\theta_{pos}) = \left[ \begin{array}{cc}
+\cos(\theta_{pos}) & -\sin(\theta_{pos}) \\
+\sin(\theta_{pos}) & \cos(\theta_{pos})
+\end{array} \right]
+$$
+
+熟悉计算机图形学的同学会理解，如果我们将一个二维向量和上面的旋转矩阵相乘，就会在二维平面上把该二维向量旋转 $\theta$ 度。因此，我们将旋转矩阵应用到输入 Token 的向量 $x$ 上，就能得到旋转后的输入 Token 向量表示 $x_{pos}$：
+
+$$
+x_{pos} = R(\theta_{pos}) \cdot x
+$$
+
+这个向量就将输入序列中各个 Token 的位置信息融合到其向量表示中，希望后面的模型能够利用其中的位置信息。
+
+## Layer normalization
+
+Transformer 还采用了 Layer normalization。该方法对一层的 $a$ 的向量做归一化。这是因为在 MLP 中常用的 Batch normalization 在这里不太适用。首先，训练数据的 batch 小，然后，sequance 的长度不一样。
+
+Transformer 还采用了层归一化（Layer Normalization）。该方法对每一层的向量 $a$ 进行归一化处理。这是因为在多层感知机（MLP）中常用的批归一化（Batch Normalization）在这里并不太适用。首先，训练数据的批次（batch）通常较小；其次，序列的长度也不尽相同。因此，层归一化成为更好的选择。层归一化通过对每一层的输出进行归一化处理，可以有效地稳定训练过程，加速收敛，并且提高模型的整体性能。
+
+层归一化（Layer Normalization）的数学公式描述如下：
+
+设输入向量为 $x$，其维度为 $d$。层归一化的步骤如下：
+
+1. 计算输入向量的均值 $\mu$ 和方差 $\sigma^2$：
+$$
+\mu = \frac{1}{d} \sum_{i=1}^{d} x_i
+$$
+$$
+\sigma^2 = \frac{1}{d} \sum_{i=1}^{d} (x_i - \mu)^2
+$$
+
+2. 对输入向量进行归一化处理：
+$$
+\hat{x}_i = \frac{x_i - \mu}{\sqrt{\sigma^2 + \epsilon}}
+$$
+
+其中，$\epsilon$ 是一个很小的常数，防止分母为零。
+
+3. 对归一化后的向量进行缩放和平移，得到最终的输出：
+$$
+y_i = \gamma \hat{x}_i + \beta
+$$
+
+其中，$\gamma$ 和 $\beta$ 是可训练的参数，用于缩放和平移归一化后的向量。
+
+通过上述步骤，层归一化能够有效地提高模型的训练稳定性和性能。
+
+## 小结
+
+Transformer 模型有以下几个优点：
+- 适合长范围内容：能够有效处理长距离依赖的问题。
+- 容易并行化：相比于 RNN 和 LSTM，Transformer 的并行化处理更为方便。
+- 网络结构更深：可以堆叠更多的层次，从而增强模型的表达能力。
+- 性能优越：在许多任务上，Transformer 的表现都优于 RNN 和 LSTM。
+
+由于这些优势，Transformer 模型在深度学习领域得到了广泛应用，几乎成为了主流。例如，像 ChatGPT、腾讯元宝都采用了 Transformer 架构。
+
+然而，Transformer 也有其不足之处。其注意力机制的计算复杂度为 \(O(n^2)\)，这对计算资源提出了很高的要求。此外，如前所述，它也需要大量的数据。
 
 ## 课本
 
@@ -95,7 +171,6 @@ Transformer 的不足是它采用注意力机制。该机制的计算复杂度�
 A deep dive into the innovations powering this decade's artifical intelligence boom, Anna-Sofia Lesiv, March 20, 2023, https://www.contrary.com/foundations-and-frontiers/ai-acceleration
 - ChatGPT is everywhere. Here’s where it came from, By Will Douglas Heaven, February 8, 2023, https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/08/1068068/chatgpt-is-everywhere-heres-where-it-came-from/amp/
 
-
 <br/>
 
-|[Index](./) | [Previous](5-5-attention) | [Next] (8-3-exercise)
+|[Index](./) | [Previous](5-5-attention) | [Next](5-9-mamba) |

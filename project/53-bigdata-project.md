@@ -72,7 +72,6 @@ title: 项目报告
   - 代码
   - 数据
 
-
 模版：[腾讯文档](https://docs.qq.com/doc/DT3JYdHJ1elBDZk13) 
 
 评分标准：
@@ -82,6 +81,14 @@ title: 项目报告
 - 报告中请注明每位同学完成了哪些工作，因为要分别打分。
 - 鼓励大家把自己的实验报告，发表到知乎，CSDN 等网站。如果发表了，或共享的代码，请在报告中注明链接。有加分。
 - 加分项：系统代码的 Github 链接。需有 Readme 文件，清楚说明如何运行系统。
+
+参考：
+
+- 往届同学报告：https://docs.qq.com/doc/DT3Bsd1loWVVaZlRv
+- BDD ：大数据与社会发展，学术论文，https://sites.ischool.berkeley.edu/bdd/calendar-readings/
+- 哈佛公开课：用大数据解决经济与社会问题的介绍
+  - PPT、论文、项目，https://www.lianxh.cn/news/db319c50b4d1e.html
+  - 配套B站视频：https://www.bilibili.com/video/BV1w7411i7qu
 
 <br/>
 

@@ -15,6 +15,15 @@ Ng 老师推荐论文
 - “AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation,” Wu et al. (2023) 
 - “MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework,” Hong et al. (2023)
 
+## 软件
+
+- LLM Reasoners, [Github](https://github.com/maitrix-org/llm-reasoners)
+
+
+## Survey
+
+- A Survey on Large Language Model based Autonomous Agents, 25/3/2024, [Github](https://github.com/Paitesanshi/LLM-Agent-Survey)
+
 ## 论文
 
 下面是 Github Awesome Autonomous Agent Papers [网页](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) 中推荐的论文。

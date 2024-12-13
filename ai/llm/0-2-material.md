@@ -24,6 +24,8 @@ title: 材料
 
 - 李宏毅，2024 春，生成式人工智能导论，[B 站视频](https://www.bilibili.com/video/BV1BJ4m1e7g8)
 
+- 滑铁卢大学，Wenhu Chen, 2024 冬，CS 886: Recent Advances on Foundation Models，[网站](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)，包括 PPT，Youtube 视频
+
 第三类是研究生的论文研讨课。由研究生来讲论文。这包括华盛顿大学 Choi 老师、普林斯顿大学陈丹琪老师、约翰霍普金斯大学老师的课程。这些课程的 PPT 是同学做的，属于参考材料。这些课程的材料如下：
 
 - 华盛顿大学，CSE 599 Exploration on Language, Knowledge, and Reasoning，[2023](https://cse599d1wi23.notion.site/cse599d1wi23/CSE-599-D1-Winter-2023-fe73cb56c11b45efb34e94c090480791)
@@ -36,7 +38,7 @@ title: 材料
 
 第四类是聚焦应用开发的课程，这包括 Ng 老师的入门课，DeepLearing 网站上的全套练习课；伯克利 LLM 训练营；
 
-- Ng 老师 
+- Ng 老师
   - Generative AI for Everyone 课程（[B 站视频](https://www.bilibili.com/video/BV11G411X7nZ)，[Coursera](https://www.coursera.org/learn/generative-ai-for-everyone)）。该课程包括 30 课，6 小时，三个单元：简介，项目，商业与社会。
   - DeepLearning.AI，[网站](https://www.deeplearning.ai/)
   - Letters from Andrew Ng，Personal messages to the AI community，[网站](https://www.deeplearning.ai/the-batch/tag/letters/)
@@ -50,7 +52,37 @@ title: 材料
 
 - Andrej Karpathy 《给忙碌人的大语言模型介绍》，[中文论文列表](https://mp.weixin.qq.com/s/mt9W8Mf0LbZjbuRObyeWeQ)，[英文论文列表](https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/)，[Youtube 视频](https://www.youtube.com/results?search_query=Andrej+Karpathy)
 
+- Andrej Karpathy，LLM101n: Let's build a Storyteller, [Github](https://github.com/karpathy/LLM101n)
+  - Syllabus
+    - Chapter 01 Bigram Language Model (language modeling)
+    - Chapter 02 Micrograd (machine learning, backpropagation)
+    - Chapter 03 N-gram model (multi-layer perceptron, matmul, gelu)
+    - Chapter 04 Attention (attention, softmax, positional encoder)
+    - Chapter 05 Transformer (transformer, residual, layernorm, GPT-2)
+    - Chapter 06 Tokenization (minBPE, byte pair encoding)
+    - Chapter 07 Optimization (initialization, optimization, AdamW)
+    - Chapter 08 Need for Speed I: Device (device, CPU, GPU, ...)
+    - Chapter 09 Need for Speed II: Precision (mixed precision training, fp16, bf16, fp8, ...)
+    - Chapter 10 Need for Speed III: Distributed (distributed optimization, DDP, ZeRO)
+    - Chapter 11 Datasets (datasets, data loading, synthetic data generation)
+    - Chapter 12 Inference I: kv-cache (kv-cache)
+    - Chapter 13 Inference II: Quantization (quantization)
+    - Chapter 14 Finetuning I: SFT (supervised finetuning SFT, PEFT, LoRA, chat)
+    - Chapter 15 Finetuning II: RL (reinforcement learning, RLHF, PPO, DPO)
+    - Chapter 16 Deployment (API, web app)
+    - Chapter 17 Multimodal (VQVAE, diffusion transformer)
+  - Further topics to work into the progression above:
+    - Programming languages: Assembly, C, Python
+    - Data types: Integer, Float, String (ASCII, Unicode, UTF-8)
+    - Tensor: shapes, views, strides, contiguous, ...
+    - Deep Learning frameworks: PyTorch, JAX
+    - Neural Net Architecture: GPT (1,2,3,4), Llama (RoPE, RMSNorm, GQA), MoE, ...
+    - Multimodal: Images, Audio, Video, VQVAE, VQGAN, diffusion
+
 - LLM Course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks, 非常全面、细致、实战的一套课程，包括三部分：LLM 基础（数学、Python for ML、神经元网络、NLP），LLM 原理（LLM 模型、数据集、预训练模型、SFT、RLHF、评估、存储优化、新趋势），LLM 应用（运行、向量存储、检索增强、运行优化、部署、安全），[Github](https://github.com/mlabonne/llm-course)
+  - LLM Fundamentals covers essential knowledge about mathematics, Python, and neural networks.
+  - The LLM Scientist focuses on building the best possible LLMs using the latest techniques.
+  - The LLM Engineer focuses on creating LLM-based applications and deploying them.
 
 - Scrimba，https://www.coursera.org/specializations/ai-engineering
 
@@ -59,13 +91,29 @@ title: 材料
 在课本方面，最经典的 SLP 课本中的第 12 章 Prompting and Instruct Tuning，还没有出。相关的技术方面的课本有：
 
 语言模型
-- Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), [网站](https://web.stanford.edu/~jurafsky/slp3/)
+- Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft， Auguest， 2024), [网站](https://web.stanford.edu/~jurafsky/slp3/)
   - 3: N-gram Language Models
-  - 7: Neural Networks and Neural Language Models
-  - 9: RNNs and LSTMs
-  - 10: Transformers and Pretrained Language Models
-  - 11: Fine-tuning and Masked Language Models
-  - 12: Prompting and Instruct Tuning
+  - 2:	Regular Expressions, Tokenization, Edit Distance
+    - 2: Text Processing - [pptx] [pdf]
+    - 2: Edit Distance [pptx] [pdf]
+  - 3:	N-gram Language Models
+    - 3: [pptx] [pdf]
+  - 4:	Naive Bayes, Text Classification, and Sentiment
+    - 4: [pptx] [pdf]
+  - 5:	Logistic Regression
+    - 5: [pptx] [pdf]
+  - 6:	Vector Semantics and Embeddings
+    - 6: [pptx] [pdf]
+  - 7:	Neural Networks
+    - 7: [pptx] [pdf]
+  - 8:	RNNs and LSTMs
+  - 9:	Transformers
+    - 9: [pptx] [pdf]
+  - 10:	Large Language Models
+    - 10: [pptx] [pdf]
+  - 11:	Masked Language Models
+  - 12:	Model Alignment, Prompting, and In-Context Learning
+  - 14: Question Answering, Information Retrieval, and RAG
 
 NLP 编程
 - Delip Rao and Brian McMahan. Natural Language Processing with PyTorch (requires Stanford login).

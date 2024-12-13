@@ -44,6 +44,27 @@ Answer: Yes
 
 - 华盛顿大学 CSE 599 同学 Slides
 
+## Awesome List
+
+- Awesome deliberative prompting: How to ask LLMs to produce reliable reasoning and make reason-responsive decisions, [Github](https://github.com/logikon-ai/awesome-deliberative-prompting)
+
+* Success Stories
+* Prompting Patterns and Strategies
+  * Beyond "Let's think step by step"
+  * Multi-Agent Deliberation
+  * Reflection and Meta-Cognition
+* Text Generation Techniques
+* Self-Correction
+* Reasoning Analytics
+* Limitations, Failures, Puzzles
+* Datasets
+* Tools and Frameworks
+* Other Resources
+
+## Conference
+
+- COLM 2024, [Website](https://colmweb.org/index.html)
+
 ## 论文
 
 ### Ng 老师推荐论文
@@ -52,7 +73,6 @@ Answer: Yes
   - “Self-Refine: Iterative Refinement with Self-Feedback,” Madaan et al. (2023)
   - “Reflexion: Language Agents with Verbal Reinforcement Learning,” Shinn et al. (2023)
   - “CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing,” Gou et al. (2024)
-- 
 
 ### Andrej Karpathy 推荐论文
 
@@ -163,6 +183,27 @@ Reasoning
 ### 系统
 
 - 谷歌 AI 通过图灵测试，大模型医生来了？图灵人工智能，2024-01-15，[微信公众号](https://mp.weixin.qq.com/s/Cft9ISgxolUDIacc97WMjA)
+
+## 实现
+
+* LLM Reasoners, A library for advanced large language model reasoning, [Github](https://github.com/maitrix-org/llm-reasoners), [Paper](https://arxiv.org/abs/2404.05221)
+  * 包括算法
+    * Reasoning-via-Planning, MCTS (Hao et al., 2023)
+    * StructChem (Ouyang et al., 2023)
+    * Chain-of-thoughts (Wei et al., 202)
+    * Least-to-most prompting (Zhou et al., 2022)
+    * Tree-of-Thoughts, BFS (Yao et al., 2023)
+    * Tree-of-Thoughts, DFS (Yao et al., 2023)
+    * Self-Eval Guided Decoding, Beam Search (Xie et al., 2023)
+    * Grace Decoding (Khalifa et al., 2023)
+    * Eurus (Yuan et al., 2024)
+    * PromptAgent (Wang et al., 2023)
+  * 可视化
+  * LLM 接口
+
+## 评估
+
+- Benchmarking large language models' complex reasoning ability with chain-of-thought prompting, [Github](https://github.com/FranxYao/chain-of-thought-hub)
 
 <br/>
 
