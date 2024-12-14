@@ -23,12 +23,12 @@ Berkeley John Canny
 
 ## 课本
 
+- Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [GBC] 1st edition of [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengia and Aaron Courville
-- [ZLLS] [到手学深度学习](https://zh-v2.d2l.ai/)，[Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
+- [ZLLS] [动手学深度学习](https://zh-v2.d2l.ai/)，[Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
 - [LRU3] 3rd edition of [Mining Massive Dataset](http://www.mmds.org/) by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 - Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), [网站](https://web.stanford.edu/~jurafsky/slp3/)
 - Eugene Charniak. [Introduction to Deep Learning](https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf)
-- Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 <br/>
 
