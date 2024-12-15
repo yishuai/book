@@ -31,4 +31,4 @@ title: 目录
     - [视频云](6-11-vis-cloud)
 - [参考材料](9-1-material)
 
-|[Index](../) | [Next](0-3-ai) |
+|[Index](../../) | [Next](0-3-ai) |
