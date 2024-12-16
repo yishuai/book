@@ -33,7 +33,7 @@ Transformer 的编码器由多个堆叠的自注意力块组成。下图是它�
 
 在解码过程中，首先对解码输入序列进行自注意力处理。需要注意的是，这里的自注意力机制采用了 Masked 注意力。下图画出了 Masked 注意力机制（左小图）和一般的注意力机制（右小图）的工作机制。
 
-![](fig/3-dl/22-attention.png)
+![](fig/3-dl/24-causal-attention.png)
 
 如上图所示，在 Masked 注意力机制中，一个 Token 只能“注意”自己位置的 Token，以及自己位置前面的 Token，不会“注意”后面的 Token。而一般的注意力机制的 Token 在“注意”起来的时候，没有这个限制。
 
@@ -183,11 +183,11 @@ Transformer 模型有以下几个优点：
 
 - Berkeley Summit 2023, NVIDIA, Megatron-LM, Slides, Video
 - Facebook [xformers](https://github.com/facebookresearch/xformers)：Hackable and optimized Transformers building blocks, supporting a composable construction.
-- 金融时报，Generative AI exists because of the transformer: This is how it works, By Visual Storytelling Team and Madhumita Murgia in London SEPTEMBER 12 2023，https://ig.ft.com/generative-ai/
-- A jargon-free explanation of how AI large language models work, TIMOTHY B. LEE AND SEAN TROTT - 7/31/2023, https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/
+- 金融时报，Generative AI exists because of the transformer: This is how it works, By Visual Storytelling Team and Madhumita Murgia in London SEPTEMBER 12 2023，[Webpage](https://ig.ft.com/generative-ai/)
+- A jargon-free explanation of how AI large language models work, TIMOTHY B. LEE AND SEAN TROTT - 7/31/2023, [Webpage](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 - The Acceleration of Artificial Intelligence
-A deep dive into the innovations powering this decade's artifical intelligence boom, Anna-Sofia Lesiv, March 20, 2023, https://www.contrary.com/foundations-and-frontiers/ai-acceleration
-- ChatGPT is everywhere. Here’s where it came from, By Will Douglas Heaven, February 8, 2023, https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/08/1068068/chatgpt-is-everywhere-heres-where-it-came-from/amp/
+A deep dive into the innovations powering this decade's artifical intelligence boom, Anna-Sofia Lesiv, March 20, 2023, [Webpage](https://www.contrary.com/foundations-and-frontiers/ai-acceleration)
+- ChatGPT is everywhere. Here’s where it came from, By Will Douglas Heaven, February 8, 2023, [Webpage](https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/08/1068068/chatgpt-is-everywhere-heres-where-it-came-from/amp/)
 
 <br/>
 

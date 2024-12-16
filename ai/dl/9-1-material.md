@@ -21,6 +21,8 @@ Berkeley John Canny
 
 - CS194/294-131: Special Topics in Deep Learning, [Fall 2018](https://berkeley-deep-learning.github.io/cs294-131-f18/)
 
+- 深度学习国际课程资源简介，2019 年，[网页](https://yishuai.github.io/doc/dl.html)
+
 ## 课本
 
 - Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
