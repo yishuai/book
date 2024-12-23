@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Python
+title: 编程
 ---
 
 本节我们学习 Python、Numpy、PyTorch、机器学习、深度学习、快速应用界面开发、大数据开发。
 
 # Python
 
-我们首先学习 Python。我们通过斯坦福大学 CS231n 的这个材料入门。打开这个[网页](http://cs231n.github.io/python-numpy-tutorial/)后，它这里有一个 Notebook。我们下载下来，打开，就可以学习了。
+我们首先学习 Python。我们通过斯坦福大学 CS231n 的这个材料入门。打开这个[网页](http://cs231n.github.io/python-numpy-tutorial/)后，请大家学习上面的内容。网页上也有一个 Jupyter Notebook。我们可以下载下来，用 VScode 打开，进行练习。
 
 这里面教得特别简单，比如 x = 3，然后 x * 3。慢慢地，大家会觉得这些语法跟大家熟悉的 Matlab 差不多。然后是布尔值、字符串、数组、For 循环、字典、函数等等。不难吧？
 
@@ -15,9 +15,9 @@ title: Python
 
 如果有疑问，就选中这些文字或者代码，让 AI 解释就行了。记住，你可以和它说：我是一位小学生，请简明扼要地解释，不要长篇大论。
 
-下面是一些很好的 Python 入门材料
+下面是具体的 Python 环境安装和入门材料
 
-- Python 入门和环境安装
+- Python 环境安装和语法入门
   - 王一行同学，Python 入门指南，[Word 文档](https://yishuai.github.io/bigalgo/exercise/python.docx)，包括 Python 语法、Anaconda Python 环境安装等
 
 - Numpy 入门，包括数组、矩阵、向量运算、广播
@@ -27,7 +27,7 @@ title: Python
 
 # 机器学习
 
-我们然后可以首先学习一下陈老师的机器学习概念课程材料，了解一些基本的概念，然后看一下下面的 Python 机器学习入门材料，最后学习 Ng 老师的课程，成为一个机器学习专家。
+我们然后学习一些机器学习的概念。我们首先学习陈老师的机器学习概念课程材料，了解机器学习的基本概念，然后看一个 Python 机器学习入门材料，找到编程的感觉，这样就可以开始做项目了。如果想成为机器学习的专家，可以接着学习 Ng 老师的课程，成为一个机器学习专家。下面是具体的材料：
 
 - 机器学习基本概念
   - 陈一帅，人工智能的基本概念，第二部分，机器学习技术，[网站](https://yishuai.github.io/book/ai/dl/)
@@ -35,12 +35,12 @@ title: Python
 - Python 机器学习入门
   - 张璇，《Python机器学习快速上手入门指南》，[Word 文档](https://yishuai.github.io/bigalgo/exercise/mllab.docx) ，Iris实验代码和数据，[Zip 文件](https://yishuai.github.io/bigalgo/exercise/iris.zip)
 
-- 机器学习
+- 机器学习专业课程
   - Andrew Ng 等老师，机器学习入门，Deeplearning.AI on Coursera, [学习网站](https://www.coursera.org/specializations/machine-learning-introduction), [B 站视频](https://www.bilibili.com/video/BV1Bq421A74G)，练习代码答案和笔记 [Github 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)，[Github 2](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization)，[PPT](https://www.deeplearning.ai/courses/machine-learning-specialization/#course-slides)
 
 # 深度学习
 
-我们然后可以首先学习一下陈老师的深度学习概念课程材料，了解一些基本的概念，然后看一下下面的 PyTorch 深度学习入门材料，最后学习 Ng 老师的课程，成为一个深度学习专家。
+我们然后学习深度学习的基本概念。我们首先学习陈老师的深度学习概念课程材料，了解深度学习的基本概念，然后看一些 基于 PyTorch 的深度学习入门材料，找到编程的感觉，这样就可以开始做项目了。如果想成为深度学习的专家，可以接着学习 Ng 老师的课程，成为一个深度学习专家。
 
 - 深度学习基本概念
   - 陈一帅，人工智能的基本概念，第三部分，深度学习技术，[网站](https://yishuai.github.io/book/ai/dl/)
@@ -53,12 +53,12 @@ title: Python
   - Berkeley CS285 Lec 3: PyTorch Tutorial, [Slides](https://rail.eecs.berkeley.edu/deeprlcourse/), [Youtube Video](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps)，[Colab](https://colab.research.google.com/drive/12nQiv6aZHXNuCfAAuTjJenDWKQbIt2Mz#scrollTo=U5rl_7Kx5vk8)
   - 斯坦福 CS 224R DRL PyTorch 入门，[Colab](https://colab.research.google.com/drive/1sYhpnlk8ynK4xSSqVmqlhQfPU8b84gHJ?usp=sharing)
 
-- 深度学习
+- 深度学习专业课程
   - Andrew Ng 等老师，深度学习入门，Deeplearning.AI on Coursera, [Coursera 学习网址](https://www.coursera.org/specializations/deep-learning)，[B 站视频](https://www.bilibili.com/video/BV11H4y1F7uH)，练习代码答案和笔记 [Github 1](https://github.com/fengdu78/deeplearning_ai_books)，[Github 2](https://github.com/amanchadha/coursera-deep-learning-specialization)，[Github 3](https://github.com/TheKidPadra/DeepLearning.AI-Deep-Learning-Specialization)， [Github 4](https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)，[笔记](https://aaronnotes.com/deeplearning-notes/)，[PPT](https://www.deeplearning.ai/courses/deep-learning-specialization/#course-slides)
 
 # 界面开发
 
-我们可以用下面的工具，快速地为我们的机器学习和深度学习模型，开发一个使用的界面，非常方便
+我们的项目常常需要有一个界面进行演示。我们可以用下面的两个工具，快速地为我们的机器学习和深度学习模型，开发一个使用的界面，非常方便。下面是教程：
 
 - 机器学习模型的快速应用界面开发
   - Streamlit — A faster way to build and share data apps, [Github](https://github.com/streamlit/streamlit) 
@@ -66,16 +66,14 @@ title: Python
 
 # AI 智能助手调用
 
-我们可以在我们的应用中很方便地加入对 ChatGPT 等 AI 智能助手的调用。
+最近的 ChatGPT 技术非常火。我们可以在我们的应用中很方便地加入对 ChatGPT 等 AI 智能助手的调用。下面是教程：
 
 - Python ChatGPT 应用开发
   - Ng 老师，AI Python for Beginners: Basics of AI Python Coding，[学习网站](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
 
-# 从 Python 入门到大数据开发
+# 综合练习
 
-我们最后可以学习 Python 大数据开发。这是一套杜克大学的练习（[Github](https://github.com/cliburn/bios-823-2021/tree/main/notebooks)）。
-
-这套材料从 A01 开始，首先介绍 Python、数据处理、SQL，然后介绍机器学习、深度学习、大数据 Spark。这些都是我们要学习的。我们先练习 A01 Python 概念和 A02 Numpy 概念。大家做完这个之后，就会成为真正的高手。我这么说不是骗你们的，因为这里面的东西都是一般的教程不会讲的，是真正的高手才会用的。即使你是学过 Python 的同学，我也建议你做一下，保证你有收获。你会发现：哇，原来 Python 开始这么玩。就很有意思。
+我们最后可以学习杜克大学的一套综合练习（[Github](https://github.com/cliburn/bios-823-2021/tree/main/notebooks)）。这套材料从 A01 开始，首先介绍 Python、数据处理、SQL，然后介绍机器学习、深度学习、大数据 Spark。这些都是我们要学习的。我们先练习 A01 Python 概念和 A02 Numpy 概念。大家做完这个之后，就会成为真正的高手。我这么说不是骗你们的，因为这里面的东西都是一般的教程不会讲的，是真正的高手才会用的。即使你是学过 Python 的同学，我也建议你做一下，保证你有收获。你会发现：哇，原来 Python 开始这么玩。就很有意思。
 
 <br/>
 
