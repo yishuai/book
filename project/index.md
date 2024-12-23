@@ -22,14 +22,6 @@ title: 目录
    - [精读](5-3-critical)
    - [问题调研](5-5-problem)
 
-4. 编程
-
-   - [编程](20-coding)
-   - [Python](23-python)
-   - [深度学习](25-dl)
-   - [Web 编程](29-web)
-   - [编程工具](31-tools)
-
 5. 项目
 
    - [做项目](50-project)

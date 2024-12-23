@@ -160,4 +160,4 @@ Option E (Theoretical analysis):
 
 <br/>
 
-|[Index](./) | [Previous](5-3-critical) | [Next](20-coding)
+|[Index](./) | [Previous](5-3-critical) | [Next](50-project)

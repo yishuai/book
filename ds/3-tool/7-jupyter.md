@@ -126,6 +126,10 @@ Markdown 让我们可以很简单地格式化文档。比如 ChatGPT 就是用�
 
 有两种办法安装模块。第一种是你到 Terminal 里用命令行敲 pip install xx. 它就会自动到网上帮我们下载后安装。第二种方法是在 Jupyter Notebook 的代码格子里运行这个命令。但代码格子本来是运行 Python 代码的，所以我们得在前面加个感叹号，这样就告诉它，这是一个命令行的代码了。然后我们执行这个格子，它就会去装了。
 
+## 参考
+
+-《Dive in Deep Learning》课本的章节 [23.1. Using Jupyter Notebooks](https://d2l.ai/chapter_appendix-tools-for-deep-learning/jupyter.html) 
+
 <br/>
 
 |[Index](../) | [Previous](5-file) | [Next](9-python)|

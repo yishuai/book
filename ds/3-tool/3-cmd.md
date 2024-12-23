@@ -73,6 +73,10 @@ title: 命令行工具
 
 然后请大家查看这个 [Linux命令参考表](https://www.jianshu.com/p/2c40cf0f9f9e)，熟悉一下这些命令。
 
+# 参考
+
+- 【MIT公开课】计算机课堂中根本学不到的知识 - CS Education，[B 站视频](https://www.bilibili.com/video/BV1XN4y187zp)，介绍了工作常用的工具。
+
 <br/>
 
 |[Index](../) | [Previous](2-linux) | [Next](4-vi) |

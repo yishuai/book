@@ -5,6 +5,9 @@ title: 课程材料
 
 ## 课程材料
 
+- Andrew Ng 等老师，Machine Learning Specialization (2022) from Deeplearning.AI on Coursera, 
+[B 站视频](https://www.bilibili.com/video/BV1Bq421A74G)，练习代码答案和笔记 [Github 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera)，[Github 2](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization)，[PPT](https://www.deeplearning.ai/courses/machine-learning-specialization/#course-slides)
+
 - 李沐老师，动手学深度学习 PyTorch版，[B 站视频](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)，2021 年
 
 - 伯克利大学 CS182 深度学习, [2021 Sergey Levine](https://cs182sp21.github.io/), [Levine](https://people.eecs.berkeley.edu/~svlevine/), [2020 John Canny](https://bcourses.berkeley.edu/courses/1487769/), [Canny](https://people.eecs.berkeley.edu/~jfc/)
