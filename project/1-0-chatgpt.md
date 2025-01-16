@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 提问 ChatGPT
+title: AI 助手
 ---
 
-- 练习在 AI 的帮助下，探索学习一个话题
-- 一起探索吧([阿里通义 APP 链接](https://m.tongyi.aliyun.com/app/tongyi/tongyi-hybrid/share-result?shareId=19913999-ec8f-4e7e-a996-d4921734d61b))
-- 非常耐心的导师([阿里通义网页](https://t.aliyun.com/U/93YWTT))
-- 下载和安装“通义千问” APP，或者网页注册
-- 探索一个课上讲过的话题
+我设计的一个辅助我们探索一个话题的 AI 助手。
+
+- 手机版：一起探索吧 ([阿里通义 APP 链接](https://m.tongyi.aliyun.com/app/tongyi/tongyi-hybrid/share-result?shareId=19913999-ec8f-4e7e-a996-d4921734d61b))
+- 网页版：非常耐心的导师 ([阿里通义网页](https://t.aliyun.com/U/93YWTT))
 
 <!-- 我们首先探索如何和 ChatGPT 合作，充分利用它。
 

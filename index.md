@@ -3,14 +3,21 @@ layout: post
 title: 目录
 ---
 
-1. [数据科学](ds)
-1. [人工智能](ai/dl/)
-3. [通信系统原理](comm)
-5. [科研方法](project)
-6. [学术写作](write)
-7. [理想的教育](edu)
-8. [英语学习](english)
-9. [历史](history)
+2. [前言](preample)
+3. 人的教育
+   1. [寻找理想的教育](edu/1-intro/)
+   2. [明智生活的教育](edu/2-libra/)
+   1. [蔡锷的教育](history/3-caie/)
+4. 学术教育
+   1. [大学教育](edu/2-university/)
+   2. [学术写作](write)
+   3. [科研方法](project)
+5. 专业教育
+   1. [数据科学](ds)
+   2. [机器学习和深度学习](ai/dl/)
+   3. [通信系统原理](comm)
+   2. [英语](english)
+
 
 <!-- 5. [离散数学](dm) -->
 

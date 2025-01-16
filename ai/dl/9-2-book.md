@@ -248,4 +248,4 @@ Python深度学习 作者：吴茂贵 评价：4.5分
 
 <br/>
 
-|[Index](./) | [Previous](3-3-bigdata-ga-2023) | [Next](5-0-paper)
+|[Index](./)|

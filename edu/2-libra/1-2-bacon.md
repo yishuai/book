@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 论学习
+title: 培根：论学习
 ---
 
 我们下面回到 19 世纪的英国，看看奠定现代科学方法论的培根对学习的定义。培根作为科学方法的指路人，具体给出了学习的科学定义、方法和内容。
@@ -161,4 +161,4 @@ If he be not apt to beat over matters, and to call up one thing to prove and ill
 
 So every defect of the mind, may have a special receipt.
 
-|[Index](../) | [Previous](1-1-philosopy) | [Next](1-3-altman)|
+|[Index](./) | [Previous](1-1-philosopy) | [Next](1-3-altman)|

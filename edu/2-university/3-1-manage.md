@@ -96,4 +96,4 @@ title: 大学的管理
 
 <br/>
 
-|[Index](../) | [Previous](2-9-teach) | [Next](3-3-country)  |
+|[Index](./) | [Previous](2-9-teach) | [Next](3-3-country)  |

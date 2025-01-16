@@ -110,4 +110,4 @@ title: 交流是大学精神生活的核心
 
 <br/>
 
-|[Index](../) | [Previous](1-3-rationality) | [Next](2-1-goal)  |
+|[Index](./) | [Previous](1-3-rationality) | [Next](2-1-goal)  |

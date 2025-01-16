@@ -46,4 +46,4 @@ title: 大学与社会
 
 <br/>
 
-|[Index](../) | [Previous](3-3-country) | [Next](5-summary)  |
+|[Index](./) | [Previous](3-3-country) | [Next](5-summary)  |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你要思考，并且提问
+title: 苏格拉底：你要思考，并且提问
 ---
 
 如何才能学会“在世界上明智生活的艺术”呢？苏格拉底说：You think and ask questions（你要思考，并且提问）。
@@ -151,12 +151,6 @@ You think and ask questions（你思考，提出问题），苏格拉底的这�
 
 - General Education in Higher Education, The Difference between Liberal Education and General Education, The Goals of General Education - StateUniversity.com [网页链接](https://education.stateuniversity.com/pages/2006/General-Education-in-Higher-Education.html#ixzz7mrYjNhDP)
 
-<!-- - 通识教育的清华经验，对话清华大学新雅书院副院长曹莉，2017年11月, [网页链接](https://www.xyc.tsinghua.edu.cn/info/1112/2226.htm) -->
-
-<!-- - 袁先欣：新雅的理想主义, 在新雅书院2019级新生开学典礼上的讲话, 2019年8月，[网页链接](https://www.xyc.tsinghua.edu.cn/info/1112/1435.htm) -->
-
-<!-- - 清华大学的新雅书院（通识教育试验区），[网页链接](https://www.xyc.tsinghua.edu.cn/index.htm) -->
-
 <br/>
 
-|[Index](../) | [Previous](1-0-method) | [Next](1-2-bacon)|
+|[Index](./) | [Previous](1-0-method) | [Next](1-2-bacon)|

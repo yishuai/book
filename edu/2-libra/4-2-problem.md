@@ -462,4 +462,4 @@ You think and ask questions（你思考，并提问），所以，每一门哈�
 
 <br/>
 
-|[Index](../) | [Previous](4-1-plan) | [Next](4-3-experience)|
+|[Index](./) | [Previous](4-1-plan) | [Next](4-3-experience)|

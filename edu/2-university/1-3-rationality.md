@@ -53,4 +53,4 @@ title: 科学的方法是理性
 
 <br/>
 
-|[Index](../) | [Previous](1-1-spirit) | [Next](1-5-communicate)  |
+|[Index](./) | [Previous](1-1-spirit) | [Next](1-5-communicate)  |

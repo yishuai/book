@@ -35,4 +35,4 @@ title: 基于学术工作的通识教育和全人教育
 
 <br/>
 
-|[Index](../) | [Previous](2-3-research) | [Next](2-7-student)  |
+|[Index](./) | [Previous](2-3-research) | [Next](2-7-student)  |

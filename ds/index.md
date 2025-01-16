@@ -112,4 +112,6 @@ title: 目录
 
 [后记](99-note)
 
+[同学荐书](98-book)
+
 |[Index](../) | [Next](1-intro) |

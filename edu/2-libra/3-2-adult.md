@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 成人和辍学年轻人的通识教育
+title: 成人和辍学年轻人的自由教育
 ---
 
 1945 年，哈佛通识教育红皮书对职业学校、成人和辍学年轻人的通识教育的讨论，很有意思。我看到时，产生了一种遇到知音的感觉。
@@ -29,4 +29,4 @@ title: 成人和辍学年轻人的通识教育
 
 <br/>
 
-|[Index](../) | [Previous](3-1-child) | [Next](4-0-harvard)|
+|[Index](./) | [Previous](3-1-child) | [Next](4-0-harvard)|

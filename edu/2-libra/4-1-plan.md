@@ -82,4 +82,4 @@ title: 全人教学计划
 
 <br/>
 
-|[Index](../) | [Previous](4-0-harvard) | [Next](4-2-problem)|
+|[Index](./) | [Previous](4-0-harvard) | [Next](4-2-problem)|

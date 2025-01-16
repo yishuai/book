@@ -73,4 +73,4 @@ title: 大学的任务
 
 <br/>
 
-|[Index](../) | [Previous](1-5-communicate) | [Next](2-3-research)  |
+|[Index](./) | [Previous](1-5-communicate) | [Next](2-3-research)  |

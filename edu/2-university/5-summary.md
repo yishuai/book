@@ -15,5 +15,5 @@ title: 总结
 
 <br/>
 
-|[Index](../) | [Previous](3-5-society)|
+|[Index](./) | [Previous](3-5-society)|
 

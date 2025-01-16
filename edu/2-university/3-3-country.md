@@ -38,4 +38,4 @@ title: 大学与国家
 
 <br/>
 
-|[Index](../) | [Previous](3-1-manage) | [Next](3-5-society)  |
+|[Index](./) | [Previous](3-1-manage) | [Next](3-5-society)  |

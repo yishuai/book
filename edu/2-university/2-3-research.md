@@ -61,4 +61,4 @@ title: 学术训练：大学的核心
 
 <br/>
 
-|[Index](../) | [Previous](2-1-goal) | [Next](2-5-whole-man)  |
+|[Index](./) | [Previous](2-1-goal) | [Next](2-5-whole-man)  |

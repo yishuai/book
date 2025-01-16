@@ -45,4 +45,4 @@ title: 儿童通识教育
 
 <br/>
 
-|[Index](../) | [Previous](3-0-age) | [Next](3-2-adult)|
+|[Index](./) | [Previous](3-0-age) | [Next](3-2-adult)|

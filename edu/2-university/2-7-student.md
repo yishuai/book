@@ -97,4 +97,4 @@ title: 大学对学生的要求
 
 <br/>
 
-|[Index](../) | [Previous](2-5-whole-man) | [Next](2-9-teach)  |
+|[Index](./) | [Previous](2-5-whole-man) | [Next](2-9-teach)  |

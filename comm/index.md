@@ -37,7 +37,6 @@ title: 目录
 7.  模拟信号数字化
     1.  [抽样与脉冲调制](7-1-sampling)
     2.  [量化](7-3-quanti)
-
 9.  [致谢](99-note)
 
-| [Next](0-1-intro) |
+| [Index](../) || [Next](0-1-intro) |

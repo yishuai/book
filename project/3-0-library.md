@@ -15,8 +15,6 @@ title: 探索图书馆
 
 在进行上述探索前，也许读一下《[如何阅读一本书](https://awesome-programming-books.github.io/others/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)》（[豆瓣评论](https://book.douban.com/subject/1013208/)），会有帮助。
 
-下面是 AI、大数据、深度学习方面，同学的探索结果。
-
 <br/>
 
-|[Index](./) | [Previous](1-chatgpt) | [Next](3-1-ai-ua-2023)
+|[Index](./) | [Previous](1-chatgpt) | [Next](5-0-paper)

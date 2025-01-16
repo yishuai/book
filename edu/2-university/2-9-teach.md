@@ -79,4 +79,4 @@ title: 教学方式
 
 <br/>
 
-|[Index](../) | [Previous](2-7-student) | [Next](3-1-manage)  |
+|[Index](./) | [Previous](2-7-student) | [Next](3-1-manage)  |

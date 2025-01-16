@@ -978,4 +978,4 @@ title: 同学荐书：人工智能
 
 <br/>
 
-|[Index](./) | [Previous](3-0-library) | [Next](3-3-bigdata-ga-2023)
+|[Index](./)|

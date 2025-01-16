@@ -139,4 +139,4 @@ title: 大学是一种精神生活
 
 <br/>
 
-|[Index](../) | [Previous](0-0-intro) | [Next](1-3-rationality)  |
+|[Index](./) | [Previous](0-0-intro) | [Next](1-3-rationality)  |

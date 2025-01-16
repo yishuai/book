@@ -37,4 +37,4 @@ title: 在大学里学习
 
 <br/>
 
-|[Index](../) | [Next](1-1-spirit)|
+|[Index](./) | [Next](1-1-spirit)|

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一天很长，十年很短
+title: Sam Altman：一天很长，十年很短
 ---
 
 OpenAI 负责人 Sam Altman 喜欢分享自己的生活经验。下面是他的两篇文章。第一篇是他在 2015 年，30 岁时写的，第二篇是 2023 年底写的。注意第二篇写于他终于走出和董事会的纠葛之后。这些话，应该被张贴到墙上，不时回忆。
@@ -218,4 +218,4 @@ What I Wish Someone Had Told Me
 
 - 沃特敦，26岁财富自由，30岁已经历成功人士的一生，OpenAI掌门人的36条人生经验， 创业邦，2023-04-24，[网页链接](https://mp.weixin.qq.com/s/6CtbiPj_1UqFbb3wWNvG8A)
 
-|[Index](../) | [Previous](1-2-bacon) | [Next](2-0-problem)|
+|[Index](./) | [Previous](1-2-bacon) | [Next](2-0-problem)|

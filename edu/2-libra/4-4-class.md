@@ -69,4 +69,4 @@ title: 课堂组织
 
 <br/>
 
-|[Index](../) | [Previous](4-3-experience) | [Next](5-summary)|
+|[Index](./) | [Previous](4-3-experience) | [Next](5-summary)|

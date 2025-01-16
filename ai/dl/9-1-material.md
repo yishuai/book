@@ -35,6 +35,10 @@ Berkeley John Canny
 - Dan Jurafsky and James H. Martin, Speech and Language Processing (3rd ed. draft), [网站](https://web.stanford.edu/~jurafsky/slp3/)
 - Eugene Charniak. [Introduction to Deep Learning](https://cs.brown.edu/courses/csci1460/assets/files/deep-learning.pdf)
 
+## 同学荐书
+
+- [同学荐书：深度学习](9-2-book)
+
 <br/>
 
 |[Index](./) | [Previous](6-11-vis-cloud) |

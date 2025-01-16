@@ -63,4 +63,4 @@ Braeden 同学的分享，也让我理解了培根说的：缺什么，就要学
 
 <br/>
 
-|[Index](../) | [Previous](4-2-problem) | [Next](4-4-class)|
+|[Index](./) | [Previous](4-2-problem) | [Next](4-4-class)|
