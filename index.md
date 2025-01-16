@@ -7,10 +7,10 @@ title: 目录
 3. 人的教育
    1. [寻找理想的教育](edu/1-intro/)
    2. [明智生活的教育](edu/2-libra/)
-   1. [蔡锷的教育](history/3-caie/)
+   1. [民国时期蔡锷的教育](history/3-caie/)
 4. 学术教育
-   1. [大学教育](edu/2-university/)
-   2. [学术写作](write)
+   1. [大学之理念](edu/2-university/)
+   2. [写作帮助思考](write)
    3. [科研方法](project)
 5. 专业教育
    1. [数据科学](ds)
