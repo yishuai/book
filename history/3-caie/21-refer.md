@@ -13,6 +13,10 @@ title: 扩展阅读
 * 视频
   * 李新宇，共和将军蔡锷，[B 站视频](https://www.bilibili.com/video/BV1gW411u7Rd)
   * 云南电视台，百年护国，[B 站视频](https://www.bilibili.com/video/BV1Br4y1F7wa/)
+* 电视剧
+  * 于荣光，王倦（编剧），护国军魂传奇，2011，[链接](https://movie.douban.com/subject/5446225/)
+  * 王志飞，护国大将军，2011，[链接](https://movie.douban.com/subject/5384563/)
+  * 刘松仁，周海媚，蔡锷与小凤仙，2009，[链接](https://movie.douban.com/subject/3339375/)
 
 ## 民国史
 
