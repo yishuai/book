@@ -8,7 +8,7 @@ title: 目录
    1. [寻找理想的教育](edu/1-intro/)
    2. [明智生活的教育](edu/2-libra/)
    1. [蔡锷的教育](history/3-caie/)
-   2. [旅行的教育](travel/3-yunnan/5-lijiang/)
+   2. [旅行的教育](travel/)
 4. 学术教育
    1. [大学之理念](edu/2-university/)
    2. [写作帮助思考](write)
@@ -19,7 +19,6 @@ title: 目录
    3. [通信系统原理](comm)
    4. [通信网理论基础](comnet/1-queue/)
    5. [英语](english)
-
 
 <!-- 5. [离散数学](dm) -->
 
