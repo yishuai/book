@@ -14,7 +14,8 @@ title: 目录
   * [在观音像前许愿](3-lasa/7-guanyin)
   * [无我](3-lasa/11-kassy-fansi)
 * 大昭寺
-  * [在大昭寺前磕长头](3-lasa/12-changtou)
+  * [起意磕长头](3-lasa/12-changtou)
+  * [在大昭寺前磕长头](3-lasa/13-kechangtou)
   * [买哈达](3-lasa/14-hada)
   * [光明甜茶](3-lasa/15-tiancha)
   * [买藏药和藏香](3-lasa/16-zangxiang)
