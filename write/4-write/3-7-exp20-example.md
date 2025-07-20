@@ -376,13 +376,13 @@ Course Overview
 
 This course explores the structure and experience of work in the contemporary political economy with an eye toward both its liberating and oppressive potential.
 
-We will take up enduring sociological questions with respect to power, control, autonomy, surveillance and self-determination on the job.  How do different forms of work affect our life circumstances, personalities, and connections to each other? In the first unit we will examine corporate culture and how it affects the experience of professional work.  Does a strong corporate culture enhance professional autonomy or management’s power?  Does it facilitate or undermine community?
+We will take up enduring sociological questions with respect to power, control, autonomy, surveillance and self-determination on the job. How do different forms of work affect our life circumstances, personalities, and connections to each other? In the first unit we will examine corporate culture and how it affects the experience of professional work. Does a strong corporate culture enhance professional autonomy or management’s power?  Does it facilitate or undermine community?
 
-In unit two we explore the crucial issue of workers’ control over their own labor and the concept of alienation.  We examine accounts of deskilling, the separation of mental and manual labor, and the consequences of these processes for workers’ experience on the job.  To what extent does alienation occur in offices versus factories versus service counters?
+In unit two we explore the crucial issue of workers’ control over their own labor and the concept of alienation. We examine accounts of deskilling, the separation of mental and manual labor, and the consequences of these processes for workers’ experience on the job. To what extent does alienation occur in offices versus factories versus service counters?
 
-For the final unit we will critically engage in a debate about the development of “flexible” labor and the ways in which workers’ connections to employers, occupations, and locations have become more fluid and transitory.  We will explore what flexibility means in a variety of contexts and ask: does flexibility lead to liberation or loss of identity?  Does it bring self-fulfillment or insecurity?  What does flexibility mean for tech workers in Silicon Valley and bankers on Wall Street?  Our texts consist of case studies and ethnographic accounts representing a variety of workplaces along with readings from prominent social theorists who in different ways seek to elucidate the conditions of work under modern capitalism.
+For the final unit we will critically engage in a debate about the development of “flexible” labor and the ways in which workers’ connections to employers, occupations, and locations have become more fluid and transitory. We will explore what flexibility means in a variety of contexts and ask: does flexibility lead to liberation or loss of identity?  Does it bring self-fulfillment or insecurity?  What does flexibility mean for tech workers in Silicon Valley and bankers on Wall Street?  Our texts consist of case studies and ethnographic accounts representing a variety of workplaces along with readings from prominent social theorists who in different ways seek to elucidate the conditions of work under modern capitalism.
 
-An equally important goal of the course is to develop your ability to write clear, engaging, and coherent analytical essays of the sort you will be asked to produce frequently at Harvard.  With this in mind the class is structured to give you the opportunity to work in a sustained and systematic way on improving your writing. During the semester you will write three essays.  Each tackles a different aspect of work in the modern world and is designed to highlight particular writing skills.
+An equally important goal of the course is to develop your ability to write clear, engaging, and coherent analytical essays of the sort you will be asked to produce frequently at Harvard. With this in mind the class is structured to give you the opportunity to work in a sustained and systematic way on improving your writing. During the semester you will write three essays. Each tackles a different aspect of work in the modern world and is designed to highlight particular writing skills.
 
 The thematic units and their associated writing assignments are described below.
 
@@ -392,7 +392,7 @@ Assignment:  Critical Review (5-6 pages)
 
 Writing Focus: Asking analytical questions; evaluating arguments; constructing theses and arguments; using evidence; introductions.
 
-In the first unit we will explore what it means to have a “strong” corporate culture and how it affects professionals’ experience on the job.  We will examine how corporate culture relates to community, autonomy, surveillance, and motivation at work.  Does it enhance power and control for professionals or for management?  We will incorporate classic texts on the topic including C. Wright Mills’ White Collar and Rosabeth Moss Kanter’s Men and Women of the Corporation.  For the paper students will do a close reading of Engineering Culture, Gideon Kunda’s study of a high-tech corporation, and explore the various ways in which corporate culture affects the experience of professional work.
+In the first unit we will explore what it means to have a “strong” corporate culture and how it affects professionals’ experience on the job. We will examine how corporate culture relates to community, autonomy, surveillance, and motivation at work. Does it enhance power and control for professionals or for management?  We will incorporate classic texts on the topic including C. Wright Mills’ White Collar and Rosabeth Moss Kanter’s Men and Women of the Corporation. For the paper students will do a close reading of Engineering Culture, Gideon Kunda’s study of a high-tech corporation, and explore the various ways in which corporate culture affects the experience of professional work.
 
 UNIT 2: ALIENATION AND CONTROL
 
@@ -400,7 +400,7 @@ Assignment:  Test a Theory (6-7 pages)
 
 Writing Focus: Counterargument; analysis of evidence; thesis; structure.
 
-In unit two we will examine Marx’s concept of alienation and his ideas about the creative potential for work and its role in human fulfillment and wellbeing.  We will read Harry Braverman’s Labor and Monopoly Capital which explores of the conditions of work under modern capitalism which examines routinization, deskilling, control on the job, and the dynamics of conflict and consent in the workplace.  For the paper students will treat either David Halle’s America’s Working Man, an ethnography of chemical workers in New Jersey, or Robin Leidner’s Fast Food, Fast Talk, which includes an ethnographic account of working at McDonalds, and use one of these texts to critically assess the theory of alienation as found in Marx and Braverman.
+In unit two we will examine Marx’s concept of alienation and his ideas about the creative potential for work and its role in human fulfillment and wellbeing. We will read Harry Braverman’s Labor and Monopoly Capital which explores of the conditions of work under modern capitalism which examines routinization, deskilling, control on the job, and the dynamics of conflict and consent in the workplace. For the paper students will treat either David Halle’s America’s Working Man, an ethnography of chemical workers in New Jersey, or Robin Leidner’s Fast Food, Fast Talk, which includes an ethnographic account of working at McDonalds, and use one of these texts to critically assess the theory of alienation as found in Marx and Braverman.
 
 UNIT 3: FLEXIBLE LABOR
 
@@ -408,13 +408,13 @@ Assignment:  Research Essay (7-9 pages)
 
 Writing Focus: Research; case study; handling multiple sources and different kinds of evidence; comparing arguments.
 
-Unit three explores the ways in which workers’ connections to employers, occupations, and locations have become more fluid and transitory.  We will critically engage in the debate about the social and personal consequences of such “flexible” labor.  How do cases of various jobs, occupations, workplaces, industries, companies, organizations, technologies and employment practices bear on our understanding of the flexibility of work?  Students will read a variety of perspectives on the topic and will then devise their own research project.  Student papers will revolve around case studies with the goal of using primary data to make a meaningful scholarly intervention.
+Unit three explores the ways in which workers’ connections to employers, occupations, and locations have become more fluid and transitory. We will critically engage in the debate about the social and personal consequences of such “flexible” labor. How do cases of various jobs, occupations, workplaces, industries, companies, organizations, technologies and employment practices bear on our understanding of the flexibility of work?  Students will read a variety of perspectives on the topic and will then devise their own research project. Student papers will revolve around case studies with the goal of using primary data to make a meaningful scholarly intervention.
 
 How the Course Works
 
-The main goal for the course is for you to produce an original, compelling, and analytically sound essay for each of the three units of the course.  Such essays are not written on the fly; they take time, continual re-working, and critical reflection. The writing requirements outlined below are designed to provide you with the techniques for constructing good essays.
+The main goal for the course is for you to produce an original, compelling, and analytically sound essay for each of the three units of the course. Such essays are not written on the fly; they take time, continual re-working, and critical reflection. The writing requirements outlined below are designed to provide you with the techniques for constructing good essays.
 
-Class time will be split between grappling with the course readings and in-class work directed at improving some aspect of your writing.  You should come to class with the relevant readings completed and ready to participate actively in discussion.  Readings will be available on the course website.
+Class time will be split between grappling with the course readings and in-class work directed at improving some aspect of your writing. You should come to class with the relevant readings completed and ready to participate actively in discussion. Readings will be available on the course website.
 
 Writing and Revising
 
@@ -424,23 +424,23 @@ Before you compose an initial draft of each essay, you’ll complete one or more
 
 - Drafts:
 
-You will submit a draft of each of the three essays.  On each draft you’ll receive detailed comments from the instructor (in writing and in conferences).
+You will submit a draft of each of the three essays. On each draft you’ll receive detailed comments from the instructor (in writing and in conferences).
 
 - Draft Cover Letters:
 
-Every time you hand in a draft, you’ll include a cover letter in which you provide guidance to your reader about the aspects of the essay you are struggling with in addition to whatever other comments or questions you might have.  You will receive more specific instructions about writing cover letters.
+Every time you hand in a draft, you’ll include a cover letter in which you provide guidance to your reader about the aspects of the essay you are struggling with in addition to whatever other comments or questions you might have. You will receive more specific instructions about writing cover letters.
 
 - Draft Workshops:
 
-Immediately after each draft is due we’ll have an in-class draft workshop in which we work through two student papers (chosen by the instructor) and offer the writers constructive criticism and suggestions for improvement.  You will be expected to provide written comments, in the form of a letter, on each draft that we workshop together.  You will receive more guidelines on draft workshops.
+Immediately after each draft is due we’ll have an in-class draft workshop in which we work through two student papers (chosen by the instructor) and offer the writers constructive criticism and suggestions for improvement. You will be expected to provide written comments, in the form of a letter, on each draft that we workshop together. You will receive more guidelines on draft workshops.
 
 - Conferences:
 
-After I’ve carefully read your draft, we’ll meet for a 20-minute conference in which we’ll work together on strategies for revising the essay.  You should plan on taking notes during the conference.
+After I’ve carefully read your draft, we’ll meet for a 20-minute conference in which we’ll work together on strategies for revising the essay. You should plan on taking notes during the conference.
 
 - Essay Revisions:
 
-You should expect to extensively revise each of your drafts before submitting it for a grade.  I will provide written comments on essay revisions.
+You should expect to extensively revise each of your drafts before submitting it for a grade. I will provide written comments on essay revisions.
 
 ### Language, Identity, and Power
 

@@ -15,7 +15,7 @@ title: 大学的教育
 3. [大学的管理](3-1-manage)
    1. [大学与国家](3-3-country)
    2. [大学与社会](3-5-society)
-4.  [总结](5-summary)
+4. [总结](5-summary)
 
 <br/>
 

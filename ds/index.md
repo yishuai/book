@@ -53,9 +53,9 @@ title: 目录
 <!-- 第 4 章，理解数据
 
 1. [本章内容介绍](5-skill/10-intro)
-2.  [探索式数据分析](5-skill/11-eda)
-3.  [数据可视化](5-skill/13-vis)
-4.  [案例：空气质量测量模型](5-skill/15-air-quality)
+2. [探索式数据分析](5-skill/11-eda)
+3. [数据可视化](5-skill/13-vis)
+4. [案例：空气质量测量模型](5-skill/15-air-quality)
 19. [正则表达式](5-skill/17-text)
 9. [常数模型和损失函数](3-principle/7-model)
 10. [案例：为什么我的公交车总晚点？](3-principle/9-bus) -->

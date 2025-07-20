@@ -61,19 +61,19 @@ II. VOTERS' CONCERNS
 
 III. FINANCIAL RESOURCES
 
-	A.  Fundraising
+	A. Fundraising
 
-		a.  Original Idea
+		a. Original Idea
 
-		b.  McCain Quote/Bush Quote
+		b. McCain Quote/Bush Quote
 
-		c.  McCain Statistics/Bush Statistics
+		c. McCain Statistics/Bush Statistics
 
-	B.  Campaign Contributions
+	B. Campaign Contributions
 
-	C.  Ad Expenditure
+	C. Ad Expenditure
 
-IV.  VOTERS' LOYALTY
+IV. VOTERS' LOYALTY
 
 ### 骨架大纲和完整（full-bodied）大纲
 

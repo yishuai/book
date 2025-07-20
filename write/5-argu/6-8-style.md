@@ -73,13 +73,13 @@ https://wilson.fas.harvard.edu/files/jeffreywilson/files/jeffrey_r._wilson_a_sam
 
 Rule #1: When should you write out numbers and when should you use the number?
 
-For papers in the humanities and in some social sciences, you will often use either the MLA or Chicago citation styles. In those styles, when you are writing a non-technical paper, you should write out numbers less than one hundred, using a dash for two-digit numbers: eight, fifteen, forty-five, sixty-two, eighty-seven, etc., etc.  And, for numbers over one hundred: 1,435; 2,870; 5,740; 11,480. Someone here is bound to ask: “Well, does that mean one trillion should be written as 1,000,000,000,000?” No, of course not. If the number (even if it’s above one hundred) can be easily expressed in words, then keep it in words: four hundred, eight thousand, three billion, nine quintillion, etc.
+For papers in the humanities and in some social sciences, you will often use either the MLA or Chicago citation styles. In those styles, when you are writing a non-technical paper, you should write out numbers less than one hundred, using a dash for two-digit numbers: eight, fifteen, forty-five, sixty-two, eighty-seven, etc., etc. And, for numbers over one hundred: 1,435; 2,870; 5,740; 11,480. Someone here is bound to ask: “Well, does that mean one trillion should be written as 1,000,000,000,000?” No, of course not. If the number (even if it’s above one hundred) can be easily expressed in words, then keep it in words: four hundred, eight thousand, three billion, nine quintillion, etc.
 
 If you’re using APA style, you should generally only write out numbers 1-9 and use numerals for everything else. But there is an exception: If you are using a number at the beginning of the sentence, you should write it out.
 
 Rule #2 What about percentages?
 
-Just like with regular numbers, different style guides express different preferences for percentages.  I like the MLA style, which advises that for a percentage less than one hundred, you should write it in words: two percent, seventy-six percent, ninety-nine percent, but, for a percentage greater than one hundred, write it in numerals: 110 percent, 500 percent, 999 percent. Besides that, as you can see, in non-technical writing, it is better to use the word “percent” rather than the percent sign, “%.” It’s ugly.
+Just like with regular numbers, different style guides express different preferences for percentages. I like the MLA style, which advises that for a percentage less than one hundred, you should write it in words: two percent, seventy-six percent, ninety-nine percent, but, for a percentage greater than one hundred, write it in numerals: 110 percent, 500 percent, 999 percent. Besides that, as you can see, in non-technical writing, it is better to use the word “percent” rather than the percent sign, “%.” It’s ugly.
 
 In this case, Chicago and APA style both call for using use numbers in percentages.
 

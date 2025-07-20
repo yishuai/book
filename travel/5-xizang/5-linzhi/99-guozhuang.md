@@ -42,4 +42,4 @@ ChatGPT 回答说：你这个问题问得很好，也很深。是的，生活是
 
 <br/>
 
-|[Index](../) | [Previous](93-chaoshi)|[Next]()|
+|[Index](../) | [Previous](93-chaoshi)|[Next](100-summary)|

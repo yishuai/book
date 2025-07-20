@@ -83,7 +83,7 @@ groupByKey、reduceByKey、sortByKey 操作的是 Pair RDD。Pair RDD 中的元�
 [(u'Apple', <pyspark.resultiterable.ResultIterable object at 0x102ed1290>)] 
 
 >>> for pair in data.groupByKey().take(1):
-...     print “%s:%s” % (pair[0], “,”.join([n for n in pair[1])) 
+...    print “%s:%s” % (pair[0], “,”.join([n for n in pair[1])) 
 Apple:Amy,Adam,Alex
 
 >>> data.reduceByKey(lambda v1, v2: v1 + “:” + v2).take(1) 

@@ -17,4 +17,4 @@ title: 坐火车到林芝
 
 <br/>
 
-|[Index](../) | [Previous](../3-lasa/36-houshan) | [Next](53-daxiagu)|
+|[Index](../) | [Previous](../3-lasa/40-summary) | [Next](53-daxiagu)|

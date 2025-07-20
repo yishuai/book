@@ -7,4 +7,4 @@ title: 小结
 
 <br/>
 
-|[Index](../) | [Previous](99-guozhuang)|| [Next](../101-refer.md)||
+|[Index](../) | [Previous](99-guozhuang)|| [Next](../7-fo/1-pre.md)||
