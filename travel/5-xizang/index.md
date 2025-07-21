@@ -38,7 +38,7 @@ title: 目录
     * [雅鲁藏布大峡谷](5-linzhi/53-daxiagu)
     * [南迦巴瓦](5-linzhi/61-nanjbw)
     * [徒步索松村](5-linzhi/62-sousong)
-    * [徒步扎拉村](5-linzhi/63-zhala)
+    * [徒步达林村](5-linzhi/63-zhala)
     * [来到江边](5-linzhi/65-nongzhuang)
   * 巴松措
     * [318 国道](5-linzhi/71-bus-318)
