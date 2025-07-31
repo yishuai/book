@@ -45,4 +45,4 @@ title: 药品
 
 <br/>
 
-|[Index](../) | [Previous](104-cloth) | [Next](201-other) |
+|[Index](../) | [Previous](104-cloth)|

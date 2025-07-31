@@ -32,4 +32,4 @@ title: 食物
 
 <br/>
 
-|[Index](../) | [Previous](7-fo/71-summary)| [Next](103-wupin) |
+|[Index](../) | [Previous](../7-fo/71-summary)| [Next](103-wupin) |
