@@ -4,7 +4,7 @@ title: 目录
 ---
 
 3. [丽江](3-yunnan/5-lijiang/)
-<!-- 4. [西藏](5-xizang/) -->
+4. [西藏](5-xizang/)
 
 <br/>
 
